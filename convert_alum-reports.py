@@ -9,6 +9,80 @@ import re
 import html
 import argparse
 
+TAGS = [
+    "Carman Hall",
+    "Furnald Hall",
+    "John Jay",
+    "Hartley",
+    "Wallach",
+    "Wien Hall",
+    "River Hall",
+    "East Campus",
+    "Ruggles",
+    "McBain",
+    "Senior Walk",
+    "Residence Life",
+    "Core Curriculum",
+    "Lit Hum",
+    "Contemporary Civilization",
+    "Frontiers of Science",
+    "Columbia College",
+    "SEAS",
+    "Barnard",
+    "Spectator",
+    "WKCR",
+    "Blue & White",
+    "Bacchanal",
+    "Varsity Show",
+    "Homecoming",
+    "Class Day",
+    "Low Library",
+    "Butler Library",
+    "Alma Mater",
+    "College Walk",
+    "Hamilton Hall",
+    "Philosophy Hall",
+    "Dodge Fitness Center",
+    "Roone Arledge Auditorium",
+    "St. Paul's Chapel",
+    "Miller Theatre",
+    "Avery Hall",
+    "Pulitzer Hall",
+    "Mudd",
+    "Havemeyer",
+    "Riverside Park",
+    "The Sundial",
+    "The West End",
+    "Tom’s Restaurant",
+    "Milano Market",
+    "Amir’s",
+    "Koronet Pizza",
+    "Hungarian Pastry Shop",
+    "JJ’s Place",
+    "Ferris Booth",
+    "Morningside Deli",
+    "Symposium",
+    "Ollie’s",
+    "1980s",
+    "Reagan era",
+    "Anti-apartheid protests",
+    "Great blackout",
+    "Spring Weekend",
+    "Commencement",
+    "Reunion",
+    "Campus traditions",
+    "Class Notes",
+    "CC’85",
+    "Reunion updates",
+    "Alumni spotlight",
+    "Mentorship",
+    "Giving Day",
+    "Columbia College Fund",
+    "Dean’s Circle",
+    "NYC alumni",
+    "Regional clubs",
+]
+
 
 def convert_fragment(fragment: str) -> str:
     """
@@ -100,6 +174,8 @@ def main():
         # extract document title from <title> tag
         title_match = re.search(r'<title>(.*?)</title>', content, flags=re.IGNORECASE|re.DOTALL)
         page_title = html.unescape(title_match.group(1).strip()) if title_match else ''
+        # remove any backslashes before quotes (from HTML-escaped quotes)
+        page_title = page_title.replace('\\"', '"')
 
         # extract header text from first span.header (for body H1)
         header_match = re.search(r'<span[^>]*class=["\']header["\'][^>]*>(.*?)</span>', fragment, flags=re.IGNORECASE|re.DOTALL)
@@ -124,10 +200,16 @@ def main():
         # convert remaining HTML fragment to markdown
         md_body = convert_fragment(clean_frag)
 
+        # detect tags from markdown body
+        found_tags = []
+        for tag in TAGS:
+            if re.search(r'\b' + re.escape(tag) + r'\b', md_body, flags=re.IGNORECASE):
+                found_tags.append(tag)
+
         # prepare output path
         md_path = os.path.splitext(html_path)[0] + '.md'
-        # helper to quote YAML strings
-        def yaml_q(s): return '"' + s.replace('"', '\\"') + '"'
+        # helper to quote YAML strings (single-quoted style)
+        def yaml_q(s): return "'" + s.replace("'", "''") + "'"
         # write markdown with front matter
         with open(md_path, 'w', encoding='utf-8') as f:
             f.write('---\n')
@@ -139,9 +221,76 @@ def main():
                 f.write('schools:\n')
                 for s in schools:
                     f.write(f'  - {yaml_q(s)}\n')
+            if found_tags:
+                f.write('tags:\n')
+                for t in found_tags:
+                    f.write(f'  - {yaml_q(t)}\n')
             f.write('---\n\n')
             f.write(md_body)
         print(f"Converted {fname} -> {os.path.basename(md_path)}")
+    # After HTML conversion (or if no HTML), update tags on existing markdown files
+    md_files = sorted(
+        f for f in os.listdir(input_dir)
+        if f.lower().endswith('.md')
+    )
+    for fname in md_files:
+        md_path = os.path.join(input_dir, fname)
+        with open(md_path, 'r', encoding='utf-8') as f:
+            text = f.read()
+        # split front matter and body
+        m = re.match(r'(---\s*\n)(.*?)(\n---\s*\n)(.*)', text, flags=re.DOTALL)
+        if not m:
+            print(f"Skipping {fname}: no valid front matter.")
+            continue
+        fm_text = m.group(2)
+        body = m.group(4)
+        # parse existing front matter fields (author and schools only; title from body H1)
+        author = None
+        schools = []
+        for line in fm_text.splitlines():
+            l = line.strip()
+            if l.startswith('author:'):
+                v = l[len('author:'):].strip().strip('"').strip("'")
+                author = v
+            elif l.startswith('-') and schools is not None:
+                v = l.lstrip('-').strip().strip('"').strip("'")
+                schools.append(v)
+        # extract title from first H1 in body
+        title = None
+        for bl in body.splitlines():
+            bl_strip = bl.lstrip()
+            if bl_strip.startswith('# '):
+                title = bl_strip[2:].strip()
+                break
+        # sanitize title: remove any backslashes before quotes
+        if title:
+            title = re.sub(r'\\+"', '"', title)
+        # detect tags in body
+        found_tags = []
+        for tag in TAGS:
+            if re.search(r'\b' + re.escape(tag) + r'\b', body, flags=re.IGNORECASE):
+                found_tags.append(tag)
+        # rebuild front matter
+        # helper to quote YAML strings (single-quoted style)
+        def yaml_q(s): return "'" + s.replace("'", "''") + "'"
+        fm_lines = ['---']
+        if title:
+            fm_lines.append(f'title: {yaml_q(title)}')
+        if author:
+            fm_lines.append(f'author: {yaml_q(author)}')
+        if schools:
+            fm_lines.append('schools:')
+            for s in schools:
+                fm_lines.append(f'  - {yaml_q(s)}')
+        if found_tags:
+            fm_lines.append('tags:')
+            for t in found_tags:
+                fm_lines.append(f'  - {yaml_q(t)}')
+        fm_lines.append('---')
+        new_content = '\n'.join(fm_lines) + '\n\n' + body
+        with open(md_path, 'w', encoding='utf-8') as f:
+            f.write(new_content)
+        print(f"Updated tags in {fname}: {found_tags}")
 
 
 if __name__ == '__main__':
