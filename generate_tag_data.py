@@ -33,6 +33,16 @@ def main():
     with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
         yaml.dump(counts, f, sort_keys=True)
     print(f"Wrote tag counts for {len(counts)} tags to {OUTPUT_FILE}")
+    # Also generate a list version for tag-cloud iteration
+    list_file = os.path.join(DATA_DIR, 'memory_tags_list.yml')
+    # Sort tags alphabetically by name
+    list_data = [
+        {'tag': tag, 'count': count}
+        for tag, count in sorted(counts.items(), key=lambda x: x[0].lower())
+    ]
+    with open(list_file, 'w', encoding='utf-8') as f:
+        yaml.dump(list_data, f, sort_keys=False)
+    print(f"Wrote tag list for tag-cloud to {list_file}")
 
 if __name__ == '__main__':
     main()

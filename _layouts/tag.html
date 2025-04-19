@@ -1,0 +1,50 @@
+---
+layout: default
+---
+
+<h1>Memories tagged “{{ page.tag }}”</h1>
+<p class="intro">These memories all reference <strong>{{ page.tag }}</strong>.</p>
+
+{% assign tag = page.tag %}
+{% assign tagged_memories = site.memories | where_exp: "m", "m.tags contains tag" %}
+
+{% if tagged_memories.size > 0 %}
+  <div class="memory-grid">
+    {% for mem in tagged_memories %}
+      <div class="memory-card">
+        <div class="memory-header">
+          <h2 class="memory-title">{{ mem.author | default: "Anonymous" }}</h2>
+        </div>
+
+        <div class="memory-body">
+          <p>{{ mem.content | strip_html | truncatewords: 40 }}</p>
+
+          {% if mem.schools %}
+            <p class="schools">
+              {% for pair in mem.schools %}
+                {% assign code = pair[0] %}
+                {% assign year = pair[1] %}
+                {{ site.data.schoolcodes[code] }} {{ year }}{% unless forloop.last %}, {% endunless %}
+              {% endfor %}
+            </p>
+          {% endif %}
+        </div>
+
+        <div class="memory-footer">
+          {% if mem.tags %}
+            <div class="memory-tags">
+              {% for t in mem.tags %}
+                <a href="/tags/{{ t | slugify }}/" class="memory-tag">{{ t }}</a>
+              {% endfor %}
+            </div>
+          {% endif %}
+          <a class="read-arrow" href="{{ mem.url }}" title="Read the full memory">
+            &rarr;
+          </a>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+{% else %}
+  <p>No memories found for this tag.</p>
+{% endif %}

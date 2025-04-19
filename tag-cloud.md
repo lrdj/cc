@@ -1,16 +1,16 @@
 ---
-layout: page
-title: "Tag Cloud"
+layout: default
+title: "Tags in memories"
 ---
 
-# Tag Cloud
+# What is everyone talking about?
 
 This page lists all tags used in the Memories collection, sized by their frequency.
 
 <ul class="tag-cloud">
-{% assign tags = site.data.memory_tags | sort_natural %}
-{% for tag in tags %}
-  {% assign count = site.data.memory_tags[tag] %}
+{% for item in site.data.memory_tags_list %}
+  {% assign tag = item.tag %}
+  {% assign count = item.count %}
   <li style="display: inline-block; margin: 0.2em; font-size: {{ count | plus: 100 }}%;">
     <a href="/tags/{{ tag | slugify }}">{{ tag }}</a>
   </li>
