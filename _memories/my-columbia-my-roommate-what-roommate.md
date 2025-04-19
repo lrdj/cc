@@ -3,6 +3,8 @@ title: 'My Columbia: My Roommate?  What Roommate?'
 author: Joe Okon
 tags:
 - WKCR
+- Dorm life
+- Campus
 layout: memory
 schools:
   CC: 1969

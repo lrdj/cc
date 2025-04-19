@@ -5,6 +5,7 @@ layout: memory
 schools:
   GS: 1990
 primary_year: 1990
+tags: []
 ---
 # Slow Is Smooth. Smooth Is Fast.
 

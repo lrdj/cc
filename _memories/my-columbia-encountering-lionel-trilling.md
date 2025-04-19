@@ -5,6 +5,12 @@ layout: memory
 schools:
   GSAS: 1951
 primary_year: 1951
+tags:
+- Arts
+- Culture
+- Politics
+- Activism
+- Good trouble
 ---
 # Encountering Lionel Trilling
 

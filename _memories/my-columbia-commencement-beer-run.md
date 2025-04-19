@@ -3,6 +3,7 @@ title: 'My Columbia: Commencement Beer Run'
 author: Matthew Yospin
 tags:
 - Commencement
+- Relationships
 layout: memory
 schools:
   CC: 1998

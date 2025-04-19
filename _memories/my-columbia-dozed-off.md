@@ -3,6 +3,9 @@ title: 'My Columbia: Dozed Off'
 author: Ralph Scott
 tags:
 - Butler Library
+- Academics
+- Library
+- Study spots
 layout: memory
 schools:
   GS: 1968

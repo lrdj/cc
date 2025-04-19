@@ -5,6 +5,8 @@ layout: memory
 schools:
   CC: 1951
 primary_year: 1951
+tags:
+- Academics
 ---
 # Auditing
 

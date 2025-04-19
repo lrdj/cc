@@ -3,6 +3,10 @@ title: 'My Columbia: GS Hangout'
 author: Whitney (Kelting) Keen
 tags:
 - The West End
+- Campus
+- Academics
+- Library
+- Study spots
 layout: memory
 schools:
   GS: 1973

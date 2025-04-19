@@ -3,6 +3,13 @@ title: 'My Columbia: The Best Thing Happened to Me in FRONT of the Butler Librar
 author: Malena Jackson
 tags:
 - Butler Library
+- Campus
+- Academics
+- Lectures
+- Library
+- Study spots
+- Personal growth
+- Reflection
 layout: memory
 schools:
   JRN: 2005

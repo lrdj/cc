@@ -5,6 +5,7 @@ layout: memory
 schools:
   GSAS: 1989
 primary_year: 1989
+tags: []
 ---
 # Best Title
 

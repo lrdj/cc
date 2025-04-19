@@ -5,6 +5,11 @@ layout: memory
 schools:
   GSAS: 1976
 primary_year: 1976
+tags:
+- Dorm life
+- Campus
+- Academics
+- Lectures
 ---
 # Porpoises and Philosophy
 

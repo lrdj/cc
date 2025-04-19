@@ -3,6 +3,9 @@ title: 'My Columbia: Lunch Date'
 author: David Gilbert
 tags:
 - Hamilton Hall
+- Dorm life
+- Campus
+- Relationships
 layout: memory
 schools:
   LAW: 1998

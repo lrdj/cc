@@ -5,6 +5,9 @@ layout: memory
 schools:
   CC: 1994
 primary_year: 1994
+tags:
+- Dorm life
+- Campus
 ---
 # Co-ed Bathrooms
 

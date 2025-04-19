@@ -5,6 +5,7 @@ layout: memory
 schools:
   BUS: 2002
 primary_year: 2002
+tags: []
 ---
 # Wedding in Turkey
 

@@ -5,6 +5,9 @@ layout: memory
 schools:
   BUS: 1961
 primary_year: 1961
+tags:
+- Academics
+- Relationships
 ---
 # Prominent Classmate from Israel
 

@@ -5,6 +5,9 @@ layout: memory
 schools:
   GSAPP: 1990
 primary_year: 1990
+tags:
+- Academics
+- Lectures
 ---
 # Almost Like Hercule Poirot!
 

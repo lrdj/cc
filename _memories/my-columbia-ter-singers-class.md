@@ -5,6 +5,13 @@ layout: memory
 schools:
   LS: 1962
 primary_year: 1962
+tags:
+- Dorm life
+- Campus
+- Winter
+- Weather
+- Academics
+- Lectures
 ---
 # T.E.R. Singer's Class
 

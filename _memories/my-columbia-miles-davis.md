@@ -5,6 +5,8 @@ layout: memory
 schools:
   CC: 1978
 primary_year: 1978
+tags:
+- Music
 ---
 # Miles Davis
 

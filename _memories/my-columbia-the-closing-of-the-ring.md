@@ -3,6 +3,15 @@ title: 'My Columbia: The Closing of the Ring'
 author: Norman Glover
 tags:
 - John Jay
+- Dorm life
+- Campus
+- Arts
+- Culture
+- Abroad
+- Travel
+- Politics
+- Activism
+- Good trouble
 layout: memory
 schools:
   SEAS: 1950

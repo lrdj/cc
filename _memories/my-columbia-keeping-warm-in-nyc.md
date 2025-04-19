@@ -5,6 +5,15 @@ layout: memory
 schools:
   GSAS: 1976
 primary_year: 1976
+tags:
+- Winter
+- Weather
+- Academics
+- Politics
+- Activism
+- Good trouble
+- Personal growth
+- Reflection
 ---
 # Keeping Warm in NYC
 

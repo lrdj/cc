@@ -3,6 +3,10 @@ title: 'My Columbia: Opera in Hartley Hall'
 author: Rod Parke
 tags:
 - Hartley
+- Dorm life
+- Campus
+- Arts
+- Culture
 layout: memory
 schools:
   CC: 1961

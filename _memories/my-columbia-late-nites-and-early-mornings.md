@@ -5,6 +5,9 @@ layout: memory
 schools:
   GSAPP: 2004
 primary_year: 2004
+tags:
+- Winter
+- Weather
 ---
 # Late Nites and Early Mornings
 

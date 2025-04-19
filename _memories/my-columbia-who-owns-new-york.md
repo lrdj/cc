@@ -3,6 +3,8 @@ title: 'My Columbia: Who Owns New York?'
 author: Stanley Freid
 tags:
 - Columbia College
+- Sports
+- Athletics
 layout: memory
 schools:
   GSAS: 1961

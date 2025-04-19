@@ -5,6 +5,9 @@ layout: memory
 schools:
   GS: 1960
 primary_year: 1960
+tags:
+- Arts
+- Culture
 ---
 # History 10
 

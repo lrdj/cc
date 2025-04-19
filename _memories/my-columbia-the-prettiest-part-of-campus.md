@@ -6,6 +6,12 @@ schools:
   GSAS: 2005
   GS: 2002
 primary_year: 2005
+tags:
+- Campus
+- Winter
+- Weather
+- Library
+- Study spots
 ---
 # The Prettiest Part of Campus
 

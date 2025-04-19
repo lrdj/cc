@@ -3,6 +3,10 @@ title: 'My Columbia: Laundry'
 author: Ronald Fried
 tags:
 - John Jay
+- Library
+- Study spots
+- Arts
+- Culture
 layout: memory
 schools:
   CC: 1977

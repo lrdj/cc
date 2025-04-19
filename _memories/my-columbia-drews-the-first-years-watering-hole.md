@@ -5,6 +5,11 @@ layout: memory
 schools:
   CC: 1992
 primary_year: 1992
+tags:
+- Sports
+- Athletics
+- Food
+- Dining
 ---
 # Drew's: The First-Year's Watering Hole
 

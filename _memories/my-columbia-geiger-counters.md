@@ -3,6 +3,8 @@ title: 'My Columbia: Geiger Counters'
 author: Ian Tattenbaum
 tags:
 - Carman Hall
+- Dorm life
+- Campus
 layout: memory
 schools:
   CC: 1990

@@ -3,6 +3,11 @@ title: 'My Columbia: Armageddon'
 author: Mike Pybas
 tags:
 - Hartley
+- Dorm life
+- Campus
+- Politics
+- Activism
+- Good trouble
 layout: memory
 schools:
   CC: 1955

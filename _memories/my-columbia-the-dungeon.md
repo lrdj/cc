@@ -3,6 +3,9 @@ title: 'My Columbia: The Dungeon'
 author: Shre Roy
 tags:
 - Barnard
+- Academics
+- Abroad
+- Travel
 layout: memory
 schools:
   SEAS: 1989

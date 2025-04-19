@@ -6,6 +6,12 @@ schools:
   CC: 1972
   GSAS: 1974
 primary_year: 1974
+tags:
+- Academics
+- Lectures
+- Arts
+- Culture
+- Relationships
 ---
 # Intellectual Honesty
 

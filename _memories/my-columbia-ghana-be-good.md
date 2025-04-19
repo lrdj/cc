@@ -5,6 +5,22 @@ layout: memory
 schools:
   CC: 2004
 primary_year: 2004
+tags:
+- Dorm life
+- Campus
+- Academics
+- Lectures
+- Library
+- Study spots
+- Music
+- Food
+- Dining
+- Abroad
+- Travel
+- Politics
+- Activism
+- Good trouble
+- Relationships
 ---
 # Ghana Be Good
 

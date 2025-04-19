@@ -5,6 +5,11 @@ layout: memory
 schools:
   CC: 1964
 primary_year: 1964
+tags:
+- Arts
+- Culture
+- Food
+- Dining
 ---
 # Quantify it Joe!
 

@@ -4,6 +4,9 @@ author: Stan Edelman
 tags:
 - Columbia College
 - Reunion
+- Academics
+- Library
+- Study spots
 layout: memory
 schools:
   CC: 1999

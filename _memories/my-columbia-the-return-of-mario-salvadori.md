@@ -5,6 +5,10 @@ layout: memory
 schools:
   SEAS: 1988
 primary_year: 1988
+tags:
+- Academics
+- Lectures
+- Music
 ---
 # The Return of Mario Salvadori
 

@@ -3,15 +3,16 @@ title: 'My Columbia: The Ike and I'
 author: Sidney B Royal
 tags:
 - Butler Library
-
+- Dorm life
+- Campus
+- Library
+- Study spots
+- Relationships
 schools:
   PHRM: 1952
-
 primary_year: 1952
-
 layout: memory
 ---
-
 # The Ike and I
 
 As a student at The College of Pharmacy (68th St. and Broadway), I was in my sophomore year. 

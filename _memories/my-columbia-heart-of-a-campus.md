@@ -4,6 +4,9 @@ author: David Garnes
 tags:
 - Low Library
 - Butler Library
+- Campus
+- Library
+- Study spots
 layout: memory
 schools:
   GSAS: 1965

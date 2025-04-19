@@ -5,6 +5,12 @@ tags:
 - WKCR
 - Low Library
 - Butler Library
+- Campus
+- Library
+- Study spots
+- Arts
+- Culture
+- Music
 layout: memory
 schools:
   CC: 1998

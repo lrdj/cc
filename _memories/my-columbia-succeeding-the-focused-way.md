@@ -5,6 +5,11 @@ layout: memory
 schools:
   TC: 1967
 primary_year: 1967
+tags:
+- Campus
+- Academics
+- Library
+- Study spots
 ---
 # Succeeding the Focused Way
 

@@ -4,6 +4,9 @@ author: Arthur  Santiago
 tags:
 - Hartley
 - College Walk
+- Dorm life
+- Campus
+- Music
 layout: memory
 schools:
   CC: 1979

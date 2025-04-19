@@ -3,6 +3,11 @@ title: 'My Columbia: Spiritual Culture Shock'
 author: joseph graif
 tags:
 - Columbia College
+- Spirituality
+- Religion
+- Academics
+- Music
+- Relationships
 layout: memory
 schools:
   BUS: 1978

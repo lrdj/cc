@@ -3,6 +3,16 @@ title: 'My Columbia: The Thrill (and Agony) of Winter at Columbia'
 author: Jill Mitchell
 tags:
 - John Jay
+- Dorm life
+- Campus
+- Winter
+- Weather
+- Food
+- Dining
+- Politics
+- Activism
+- Good trouble
+- Relationships
 layout: memory
 schools:
   CC: 1987

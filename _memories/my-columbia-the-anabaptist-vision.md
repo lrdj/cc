@@ -3,6 +3,18 @@ title: 'My Columbia: The Anabaptist Vision'
 author: Ross Bender
 tags:
 - Ruggles
+- Dorm life
+- Campus
+- Academics
+- Lectures
+- Library
+- Study spots
+- Arts
+- Culture
+- Politics
+- Activism
+- Good trouble
+- Relationships
 layout: memory
 schools:
   GSAS: 1980

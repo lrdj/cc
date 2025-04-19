@@ -4,6 +4,9 @@ author: janet averill
 tags:
 - Low Library
 - Commencement
+- Campus
+- Library
+- Study spots
 layout: memory
 schools:
   GSAPP: 1990

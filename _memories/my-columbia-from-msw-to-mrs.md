@@ -5,6 +5,11 @@ layout: memory
 schools:
   SW: 1974
 primary_year: 1974
+tags:
+- Dorm life
+- Campus
+- Spirituality
+- Religion
 ---
 # From MSW to MRS
 

@@ -5,6 +5,10 @@ tags:
 - John Jay
 - Hartley
 - Columbia College
+- Dorm life
+- Campus
+- Sports
+- Athletics
 layout: memory
 schools:
   CC: 1986

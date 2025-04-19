@@ -5,6 +5,9 @@ layout: memory
 schools:
   GSAS: 1981
 primary_year: 1981
+tags:
+- Dorm life
+- Campus
 ---
 # ISLAMIC EXPERIENCE
 

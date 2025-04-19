@@ -3,6 +3,10 @@ title: 'My Columbia: Farewell to Student Life'
 author: Emily Goodman
 tags:
 - Butler Library
+- Library
+- Study spots
+- Arts
+- Culture
 layout: memory
 schools:
   GSAS: 1988

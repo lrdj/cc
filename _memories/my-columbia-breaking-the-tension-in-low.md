@@ -3,6 +3,13 @@ title: 'My Columbia: Breaking the Tension in Low'
 author: Marcel Agueros
 tags:
 - Low Library
+- Academics
+- Library
+- Study spots
+- Politics
+- Activism
+- Good trouble
+- Relationships
 layout: memory
 schools:
   CC: 1996

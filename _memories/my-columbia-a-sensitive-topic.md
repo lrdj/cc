@@ -5,6 +5,13 @@ layout: memory
 schools:
   GS: 1970
 primary_year: 1970
+tags:
+- Spirituality
+- Religion
+- Library
+- Study spots
+- Arts
+- Culture
 ---
 # A Sensitive Topic
 

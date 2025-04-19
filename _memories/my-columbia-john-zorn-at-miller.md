@@ -3,6 +3,9 @@ title: 'My Columbia: John Zorn at Miller'
 author: George D Tsouris
 tags:
 - Miller Theatre
+- Arts
+- Culture
+- Music
 layout: memory
 schools:
   GSAS: 2002

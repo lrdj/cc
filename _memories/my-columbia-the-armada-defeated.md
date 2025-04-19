@@ -5,6 +5,9 @@ layout: memory
 schools:
   GSAS: 1956
 primary_year: 1956
+tags:
+- Academics
+- Lectures
 ---
 # The Armada Defeated
 

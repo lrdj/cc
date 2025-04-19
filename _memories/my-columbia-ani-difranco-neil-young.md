@@ -3,6 +3,14 @@ title: 'My Columbia: Ani DiFranco, Neil Young'
 author: Daniel Ng
 tags:
 - John Jay
+- Dorm life
+- Campus
+- Academics
+- Music
+- Politics
+- Activism
+- Good trouble
+- Relationships
 layout: memory
 schools:
   CC: 1994

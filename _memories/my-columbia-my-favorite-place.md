@@ -5,6 +5,11 @@ layout: memory
 schools:
   NRS: 1980
 primary_year: 1980
+tags:
+- Dorm life
+- Campus
+- Academics
+- Relationships
 ---
 # My Favorite Place
 

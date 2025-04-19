@@ -4,6 +4,8 @@ author: Katherine Howe
 tags:
 - WKCR
 - Ferris Booth
+- Dorm life
+- Campus
 layout: memory
 schools:
   CC: 1999

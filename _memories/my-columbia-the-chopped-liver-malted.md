@@ -4,6 +4,8 @@ author: Harvey Leifert
 tags:
 - WKCR
 - Hamilton Hall
+- Dorm life
+- Campus
 layout: memory
 schools:
   CC: 1959

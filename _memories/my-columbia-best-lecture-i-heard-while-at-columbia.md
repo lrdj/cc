@@ -5,6 +5,9 @@ layout: memory
 schools:
   SEAS: 2003
 primary_year: 2003
+tags:
+- Academics
+- Lectures
 ---
 # Best Lecture I Heard While at Columbia
 

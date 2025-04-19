@@ -5,6 +5,10 @@ layout: memory
 schools:
   CC: 1989
 primary_year: 1989
+tags:
+- Academics
+- Library
+- Study spots
 ---
 # Oxford Days
 

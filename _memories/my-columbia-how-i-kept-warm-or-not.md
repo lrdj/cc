@@ -5,6 +5,12 @@ layout: memory
 schools:
   CC: 1973
 primary_year: 1973
+tags:
+- Winter
+- Weather
+- Politics
+- Activism
+- Good trouble
 ---
 # How I Kept Warm (or Not)
 

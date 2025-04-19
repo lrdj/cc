@@ -3,6 +3,8 @@ title: 'My Columbia: Flashy New Dorms'
 author: Bruce Robertson
 tags:
 - East Campus
+- Dorm life
+- Campus
 layout: memory
 schools:
   CC: 1983

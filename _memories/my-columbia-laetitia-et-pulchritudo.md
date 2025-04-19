@@ -5,6 +5,8 @@ layout: memory
 schools:
   CC: 1965
 primary_year: 1965
+tags:
+- Relationships
 ---
 # Laetitia et Pulchritudo
 

@@ -5,6 +5,11 @@ layout: memory
 schools:
   SW: 1973
 primary_year: 1973
+tags:
+- Academics
+- Arts
+- Culture
+- Relationships
 ---
 # Art Reflections
 

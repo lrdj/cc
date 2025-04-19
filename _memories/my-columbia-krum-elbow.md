@@ -5,6 +5,13 @@ layout: memory
 schools:
   CC: 1950
 primary_year: 1950
+tags:
+- Campus
+- Arts
+- Culture
+- Politics
+- Activism
+- Good trouble
 ---
 # Krum Elbow
 

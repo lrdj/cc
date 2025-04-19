@@ -3,6 +3,8 @@ title: 'My Columbia: The 1001 Nights of John Jay'
 author: Xiao Miao
 tags:
 - John Jay
+- Food
+- Dining
 layout: memory
 schools:
   CC: 2004

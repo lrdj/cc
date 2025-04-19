@@ -5,6 +5,11 @@ layout: memory
 schools:
   BUS: 2003
 primary_year: 2003
+tags:
+- Academics
+- Politics
+- Activism
+- Good trouble
 ---
 # Perseverence
 

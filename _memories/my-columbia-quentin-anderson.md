@@ -6,6 +6,11 @@ tags:
 - Columbia College
 - Barnard
 - Hamilton Hall
+- Dorm life
+- Campus
+- Academics
+- Lectures
+- Relationships
 layout: memory
 schools:
   CC: 1980

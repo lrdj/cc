@@ -3,6 +3,17 @@ title: 'My Columbia: 1968: Year of Decision'
 author: Philip Henry
 tags:
 - Columbia College
+- Dorm life
+- Campus
+- Academics
+- Food
+- Dining
+- Abroad
+- Travel
+- Politics
+- Activism
+- Good trouble
+- Relationships
 layout: memory
 schools:
   CC: 1967

@@ -3,6 +3,16 @@ title: 'My Columbia: Southern Californian Not Ready for Real Cold'
 author: Mike Werthman
 tags:
 - Hamilton Hall
+- Dorm life
+- Campus
+- Winter
+- Weather
+- Academics
+- Sports
+- Athletics
+- Politics
+- Activism
+- Good trouble
 layout: memory
 schools:
   CC: 1962

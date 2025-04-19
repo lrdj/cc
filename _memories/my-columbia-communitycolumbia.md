@@ -7,6 +7,9 @@ schools:
   SIPA: 2002
   TC: 2002
 primary_year: 2002
+tags:
+- Academics
+- Lectures
 ---
 # Community/Columbia
 

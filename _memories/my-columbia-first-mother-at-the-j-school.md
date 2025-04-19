@@ -3,6 +3,12 @@ title: 'My Columbia: First Mother at the J-School'
 author: Sylvia Auerbach
 tags:
 - Reunion
+- Academics
+- Library
+- Study spots
+- Arts
+- Culture
+- Relationships
 layout: memory
 schools:
   JRN: 1960

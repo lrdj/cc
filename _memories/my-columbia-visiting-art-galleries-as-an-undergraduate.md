@@ -3,6 +3,8 @@ title: 'My Columbia: Visiting Art Galleries as an Undergraduate'
 author: Doug Anderson
 tags:
 - Columbia College
+- Arts
+- Culture
 layout: memory
 schools:
   CC: 1963

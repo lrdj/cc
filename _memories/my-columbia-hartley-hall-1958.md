@@ -3,6 +3,8 @@ title: 'My Columbia: Hartley Hall 1958'
 author: Michael Kubishen
 tags:
 - Hartley
+- Dorm life
+- Campus
 layout: memory
 schools:
   CC: 1960

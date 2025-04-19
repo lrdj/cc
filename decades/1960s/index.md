@@ -1,6 +1,6 @@
 ---
 layout: decade
-title: "The 1960ss"
-decade: "1960ss"
-permalink: /decades/1960ss/
+title: "The 1960s"
+decade: "1960s"
+permalink: /decades/1960s/
 ---

@@ -5,6 +5,8 @@ layout: memory
 schools:
   GS: 1975
 primary_year: 1975
+tags:
+- Academics
 ---
 # Kant/Can't
 

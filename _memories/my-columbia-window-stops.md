@@ -5,6 +5,10 @@ layout: memory
 schools:
   SEAS: 1989
 primary_year: 1989
+tags:
+- Dorm life
+- Campus
+- Academics
 ---
 # Window Stops
 

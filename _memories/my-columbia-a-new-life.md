@@ -3,6 +3,10 @@ title: 'My Columbia: A New Life'
 author: Leslie Kruegel
 tags:
 - Low Library
+- Academics
+- Library
+- Study spots
+- Relationships
 layout: memory
 schools:
   LS: 1978

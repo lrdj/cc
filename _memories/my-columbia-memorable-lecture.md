@@ -5,6 +5,11 @@ layout: memory
 schools:
   SEAS: 1939
 primary_year: 1939
+tags:
+- Academics
+- Lectures
+- Arts
+- Culture
 ---
 # Memorable Lecture
 

@@ -5,6 +5,16 @@ tags:
 - East Campus
 - Low Library
 - Butler Library
+- Dorm life
+- Campus
+- Winter
+- Weather
+- Academics
+- Library
+- Study spots
+- Politics
+- Activism
+- Good trouble
 layout: memory
 schools:
   CC: 1990

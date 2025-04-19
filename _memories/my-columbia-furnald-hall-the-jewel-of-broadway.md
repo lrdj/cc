@@ -3,6 +3,8 @@ title: 'My Columbia: Furnald Hall: The Jewel of Broadway'
 author: Wanda Holland Greene
 tags:
 - Furnald Hall
+- Dorm life
+- Campus
 layout: memory
 schools:
   TC: 1990

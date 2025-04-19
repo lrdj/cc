@@ -3,6 +3,11 @@ title: 'My Columbia: Fluffy Little Clouds . . .'
 author: Cary Hall
 tags:
 - Furnald Hall
+- Dorm life
+- Campus
+- Academics
+- Arts
+- Culture
 layout: memory
 schools:
   CC: 1992

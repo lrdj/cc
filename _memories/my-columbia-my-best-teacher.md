@@ -4,6 +4,10 @@ author: Lawrence Hoffman
 tags:
 - Contemporary Civilization
 - Columbia College
+- Academics
+- Lectures
+- Arts
+- Culture
 layout: memory
 schools:
   CC: 1955

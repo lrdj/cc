@@ -6,6 +6,13 @@ schools:
   CC: 1996
   JRN: 2001
 primary_year: 2001
+tags:
+- Dorm life
+- Campus
+- Winter
+- Weather
+- Abroad
+- Travel
 ---
 # Winter in New York
 

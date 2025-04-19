@@ -4,6 +4,8 @@ author: Marcel Agueros
 tags:
 - Hartley
 - McBain
+- Dorm life
+- Campus
 layout: memory
 schools:
   CC: 1996

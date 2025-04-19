@@ -5,6 +5,11 @@ layout: memory
 schools:
   CC: 1958
 primary_year: 1958
+tags:
+- Library
+- Study spots
+- Arts
+- Culture
 ---
 # Boucher and Brecht
 

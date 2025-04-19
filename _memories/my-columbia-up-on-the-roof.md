@@ -3,6 +3,8 @@ title: 'My Columbia: Up on the Roof'
 author: Henry Rosenberg
 tags:
 - Carman Hall
+- Dorm life
+- Campus
 layout: memory
 schools:
   CC: 1973

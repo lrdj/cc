@@ -5,6 +5,10 @@ layout: memory
 schools:
   CC: 1992
 primary_year: 1992
+tags:
+- Academics
+- Arts
+- Culture
 ---
 # Frankenstein Plus
 

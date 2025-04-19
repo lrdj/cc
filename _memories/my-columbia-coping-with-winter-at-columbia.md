@@ -5,6 +5,15 @@ layout: memory
 schools:
   GSAS: 1960
 primary_year: 1960
+tags:
+- Winter
+- Weather
+- Academics
+- Library
+- Study spots
+- Politics
+- Activism
+- Good trouble
 ---
 # Coping with Winter at Columbia
 

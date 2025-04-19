@@ -5,6 +5,10 @@ layout: memory
 schools:
   SEAS: 1982
 primary_year: 1982
+tags:
+- Campus
+- Library
+- Study spots
 ---
 # Hang Time - Learning in the Lab
 

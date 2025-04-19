@@ -5,6 +5,12 @@ layout: memory
 schools:
   GSAS: 1980
 primary_year: 1980
+tags:
+- Winter
+- Weather
+- Politics
+- Activism
+- Good trouble
 ---
 # Old Hells I Have Known
 

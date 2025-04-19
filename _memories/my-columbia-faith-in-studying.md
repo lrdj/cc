@@ -5,6 +5,15 @@ layout: memory
 schools:
   SW: 2002
 primary_year: 2002
+tags:
+- Spirituality
+- Religion
+- Library
+- Study spots
+- Politics
+- Activism
+- Good trouble
+- Relationships
 ---
 # Faith in studying
 

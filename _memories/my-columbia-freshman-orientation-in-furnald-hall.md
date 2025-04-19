@@ -4,6 +4,9 @@ author: Maritza Jauregui
 tags:
 - Furnald Hall
 - Hartley
+- Dorm life
+- Campus
+- Academics
 layout: memory
 schools:
   CC: 1992

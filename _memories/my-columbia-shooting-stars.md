@@ -4,6 +4,8 @@ author: L Chou
 tags:
 - Alma Mater
 - Avery Hall
+- Dorm life
+- Campus
 layout: memory
 schools:
   GSAPP: 2003

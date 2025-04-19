@@ -3,6 +3,10 @@ title: 'My Columbia: Freshman Dorm Life Lessons'
 author: Antonio Vinals
 tags:
 - John Jay
+- Dorm life
+- Campus
+- Personal growth
+- Reflection
 layout: memory
 schools:
   CC: 1989

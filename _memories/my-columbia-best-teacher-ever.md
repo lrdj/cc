@@ -6,6 +6,10 @@ schools:
   CC: 1983
   GSAS: 1986
 primary_year: 1986
+tags:
+- Academics
+- Arts
+- Culture
 ---
 # Best Teacher Ever
 

@@ -6,6 +6,12 @@ layout: memory
 schools:
   CC: 2003
 primary_year: 2003
+tags:
+- Library
+- Study spots
+- Abroad
+- Travel
+- Relationships
 ---
 # The City of Cats, Crescents, and Cigarettes: Studying Abroad in Cairo in the Fall of 2001
 

@@ -6,6 +6,10 @@ schools:
   CC: 1993
   TC: 1997
 primary_year: 1997
+tags:
+- Religion
+- Spirituality
+- Academics
 ---
 # To Value Difference
 

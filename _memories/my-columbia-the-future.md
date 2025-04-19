@@ -5,6 +5,7 @@ layout: memory
 schools:
   SEAS: 1992
 primary_year: 1992
+tags: []
 ---
 # The Future
 

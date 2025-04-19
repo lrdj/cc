@@ -5,6 +5,8 @@ layout: memory
 schools:
   BC: 1995
 primary_year: 1995
+tags:
+- Relationships
 ---
 # The Frightening City Turns Out to Be Friendly
 

@@ -4,6 +4,10 @@ author: Harold G.  Sullivan
 tags:
 - Furnald Hall
 - John Jay
+- Dorm life
+- Campus
+- Abroad
+- Travel
 layout: memory
 schools:
   SEAS: 1958

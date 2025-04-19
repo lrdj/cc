@@ -5,6 +5,11 @@ layout: memory
 schools:
   GSAS: 1952
 primary_year: 1952
+tags:
+- Religion
+- Spirituality
+- Academics
+- Lectures
 ---
 # Psychological Religion
 

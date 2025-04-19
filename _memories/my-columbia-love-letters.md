@@ -6,6 +6,12 @@ schools:
   LAW: 1954
   CC: 1951
 primary_year: 1954
+tags:
+- Abroad
+- Travel
+- Politics
+- Activism
+- Good trouble
 ---
 # Love Letters
 

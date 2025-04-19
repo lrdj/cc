@@ -4,6 +4,7 @@ author: scott benbow
 tags:
 - East Campus
 - 1980s
+- Campus
 layout: memory
 schools:
   LAW: 1989

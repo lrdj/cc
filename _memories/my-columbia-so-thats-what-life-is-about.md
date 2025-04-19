@@ -4,6 +4,11 @@ author: Robert Weber
 tags:
 - Hartley
 - Barnard
+- Dorm life
+- Campus
+- Arts
+- Culture
+- Relationships
 layout: memory
 schools:
   SEAS: 1956

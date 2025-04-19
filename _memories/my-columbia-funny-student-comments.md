@@ -3,6 +3,7 @@ title: 'My Columbia: Funny Student Comments'
 author: Aidan Wakely-Mulroney
 tags:
 - Contemporary Civilization
+- Academics
 layout: memory
 schools:
   CC: 2005

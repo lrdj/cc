@@ -5,6 +5,9 @@ layout: memory
 schools:
   CC: 2004
 primary_year: 2004
+tags:
+- Winter
+- Weather
 ---
 # NYC Winters
 

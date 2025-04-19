@@ -5,6 +5,12 @@ layout: memory
 schools:
   SEAS: 1970
 primary_year: 1970
+tags:
+- Food
+- Dining
+- Politics
+- Activism
+- Good trouble
 ---
 # Downtime at Gold Rail
 

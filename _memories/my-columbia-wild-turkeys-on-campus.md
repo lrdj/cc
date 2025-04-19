@@ -5,6 +5,8 @@ layout: memory
 schools:
   GSAPP: 2005
 primary_year: 2005
+tags:
+- Campus
 ---
 # Wild Turkeys on Campus
 

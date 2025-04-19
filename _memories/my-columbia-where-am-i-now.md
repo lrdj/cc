@@ -3,6 +3,8 @@ title: 'My Columbia: Where Am I NOw?'
 author: Jackson Sheats
 tags:
 - Columbia College
+- Academics
+- Relationships
 layout: memory
 schools:
   CC: 1948

@@ -5,6 +5,15 @@ layout: memory
 schools:
   LS: 1947
 primary_year: 1947
+tags:
+- Dorm life
+- Campus
+- Winter
+- Weather
+- Library
+- Study spots
+- Personal growth
+- Reflection
 ---
 # Unusual Memory of the Columbia Library
 

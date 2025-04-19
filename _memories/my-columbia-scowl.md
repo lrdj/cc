@@ -3,6 +3,10 @@ title: 'My Columbia: Scowl'
 author: Rick  Ansorge
 tags:
 - Commencement
+- Academics
+- Politics
+- Activism
+- Good trouble
 layout: memory
 schools:
   JRN: 1987

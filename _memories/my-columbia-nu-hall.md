@@ -5,6 +5,10 @@ layout: memory
 schools:
   CC: 1964
 primary_year: 1964
+tags:
+- Dorm life
+- Campus
+- Relationships
 ---
 # Nu? Hall
 

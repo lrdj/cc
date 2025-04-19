@@ -5,6 +5,8 @@ layout: memory
 schools:
   SEAS: 1987
 primary_year: 1987
+tags:
+- Academics
 ---
 # 2 1/2 Dimensions?
 

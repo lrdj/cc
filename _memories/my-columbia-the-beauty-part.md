@@ -4,6 +4,8 @@ author: Roy Russo
 tags:
 - Core Curriculum
 - Reunion
+- Campus
+- Academics
 layout: memory
 schools:
   CC: 1956

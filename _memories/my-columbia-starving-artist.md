@@ -5,6 +5,9 @@ layout: memory
 schools:
   GS: 1977
 primary_year: 1977
+tags:
+- Arts
+- Culture
 ---
 # Starving Artist
 

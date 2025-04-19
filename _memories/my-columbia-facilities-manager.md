@@ -4,6 +4,11 @@ author: Jennifer Williford
 tags:
 - Ruggles
 - McBain
+- Dorm life
+- Campus
+- Arts
+- Culture
+- Relationships
 layout: memory
 schools:
   CC: 1998

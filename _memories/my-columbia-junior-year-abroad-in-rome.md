@@ -3,6 +3,18 @@ title: 'My Columbia: Junior Year Abroad in Rome'
 author: Michael Browning
 tags:
 - Core Curriculum
+- Winter
+- Weather
+- Academics
+- Library
+- Study spots
+- Arts
+- Culture
+- Abroad
+- Travel
+- Politics
+- Activism
+- Good trouble
 layout: memory
 schools:
   GSAS: 1971

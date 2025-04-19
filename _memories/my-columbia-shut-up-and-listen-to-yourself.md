@@ -5,6 +5,10 @@ layout: memory
 schools:
   SW: 2000
 primary_year: 2000
+tags:
+- Academics
+- Arts
+- Culture
 ---
 # Shut Up and Listen to Yourself
 

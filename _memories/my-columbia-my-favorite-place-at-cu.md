@@ -5,6 +5,8 @@ layout: memory
 schools:
   CC: 2006
 primary_year: 2006
+tags:
+- Campus
 ---
 # My Favorite Place at CU
 

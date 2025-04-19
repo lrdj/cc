@@ -5,6 +5,13 @@ layout: memory
 schools:
   GS: 1990
 primary_year: 1990
+tags:
+- Campus
+- Academics
+- Library
+- Study spots
+- Food
+- Dining
 ---
 # Snooze
 

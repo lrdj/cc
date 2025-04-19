@@ -5,6 +5,14 @@ layout: memory
 schools:
   CC: 1994
 primary_year: 1994
+tags:
+- Library
+- Study spots
+- Abroad
+- Travel
+- Relationships
+- Personal growth
+- Reflection
 ---
 # Abroad in Kenya
 

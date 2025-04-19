@@ -6,6 +6,9 @@ schools:
   PS: 1951
   CC: 1941
 primary_year: 1951
+tags:
+- Academics
+- Relationships
 ---
 # The Teacher Who Changed My Life
 

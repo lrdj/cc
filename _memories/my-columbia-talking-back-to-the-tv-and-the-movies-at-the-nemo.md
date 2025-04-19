@@ -5,6 +5,14 @@ layout: memory
 schools:
   CC: 1962
 primary_year: 1962
+tags:
+- Dorm life
+- Campus
+- Academics
+- Library
+- Study spots
+- Arts
+- Culture
 ---
 # Talking Back to the TV (and the Movies at the Nemo)
 

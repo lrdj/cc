@@ -5,6 +5,14 @@ layout: memory
 schools:
   CC: 1990
 primary_year: 1990
+tags:
+- Religion
+- Spirituality
+- Academics
+- Arts
+- Culture
+- Personal growth
+- Reflection
 ---
 # Columbia Books to Live By
 

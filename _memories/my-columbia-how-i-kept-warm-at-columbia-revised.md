@@ -5,6 +5,13 @@ layout: memory
 schools:
   GS: 2003
 primary_year: 2003
+tags:
+- Winter
+- Weather
+- Academics
+- Politics
+- Activism
+- Good trouble
 ---
 # How I Kept Warm at Columbia: Revised
 

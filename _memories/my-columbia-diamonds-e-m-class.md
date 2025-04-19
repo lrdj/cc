@@ -5,6 +5,8 @@ layout: memory
 schools:
   SEAS: 1989
 primary_year: 1989
+tags:
+- Academics
 ---
 # Diamond's E& M Class
 

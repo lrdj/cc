@@ -6,6 +6,9 @@ schools:
   CC: 1953
   GSAPP: 1955
 primary_year: 1955
+tags:
+- Academics
+- Lectures
 ---
 # Dr. Charles Frankel -- Five Years Later
 

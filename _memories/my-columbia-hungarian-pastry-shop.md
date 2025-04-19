@@ -3,6 +3,10 @@ title: 'My Columbia: Hungarian Pastry Shop'
 author: Bruce  Kurzius
 tags:
 - Hungarian Pastry Shop
+- Library
+- Study spots
+- Food
+- Dining
 layout: memory
 schools:
   TC: 1981

@@ -5,6 +5,10 @@ layout: memory
 schools:
   CC: 1995
 primary_year: 1995
+tags:
+- Dorm life
+- Campus
+- Relationships
 ---
 # Wein Hall
 

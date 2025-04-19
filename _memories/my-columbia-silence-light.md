@@ -4,6 +4,12 @@ author: Rodolfo Barragan
 tags:
 - College Walk
 - Avery Hall
+- Dorm life
+- Campus
+- Winter
+- Weather
+- Music
+- Relationships
 layout: memory
 schools:
   GSAPP: 1993

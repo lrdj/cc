@@ -3,6 +3,12 @@ title: 'My Columbia: A Wonderful and Baffling Mix'
 author: Steve Conway
 tags:
 - Columbia College
+- Campus
+- Academics
+- Politics
+- Activism
+- Good trouble
+- Relationships
 layout: memory
 schools:
   GSAS: 1971

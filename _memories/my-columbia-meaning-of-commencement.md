@@ -3,6 +3,12 @@ title: 'My Columbia: Meaning of Commencement'
 author: Philip Schawillie
 tags:
 - Commencement
+- Campus
+- Politics
+- Activism
+- Good trouble
+- Personal growth
+- Reflection
 layout: memory
 schools:
   CC: 1979

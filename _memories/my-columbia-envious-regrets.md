@@ -5,6 +5,14 @@ tags:
 - Columbia College
 - Spectator
 - Varsity Show
+- Campus
+- Academics
+- Sports
+- Athletics
+- Music
+- Abroad
+- Travel
+- Relationships
 layout: memory
 schools:
   PS: 1953

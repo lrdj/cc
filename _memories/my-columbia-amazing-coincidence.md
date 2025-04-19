@@ -5,6 +5,8 @@ layout: memory
 schools:
   SW: 1999
 primary_year: 1999
+tags:
+- Academics
 ---
 # Amazing Coincidence
 

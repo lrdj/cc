@@ -3,6 +3,11 @@ title: 'My Columbia: Convolution'
 author: Kok-Yong Tan
 tags:
 - SEAS
+- Library
+- Study spots
+- Politics
+- Activism
+- Good trouble
 layout: memory
 schools:
   GS: 1990

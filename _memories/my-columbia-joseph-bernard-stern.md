@@ -5,6 +5,8 @@ layout: memory
 schools:
   NRS: 1957
 primary_year: 1957
+tags:
+- Academics
 ---
 # Joseph Bernard Stern
 

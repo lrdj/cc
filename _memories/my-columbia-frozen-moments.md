@@ -5,6 +5,8 @@ layout: memory
 schools:
   GS: 2002
 primary_year: 2002
+tags:
+- Academics
 ---
 # Frozen Moments
 

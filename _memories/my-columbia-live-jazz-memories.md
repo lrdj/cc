@@ -3,6 +3,11 @@ title: 'My Columbia: Live Jazz Memories'
 author: Stephen  Goldman
 tags:
 - John Jay
+- Dorm life
+- Campus
+- Music
+- Food
+- Dining
 layout: memory
 schools:
   CC: 1966

@@ -5,6 +5,12 @@ layout: memory
 schools:
   CC: 1988
 primary_year: 1988
+tags:
+- Academics
+- Lectures
+- Politics
+- Activism
+- Good trouble
 ---
 # Shenton's Army
 

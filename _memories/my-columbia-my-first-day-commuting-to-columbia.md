@@ -3,6 +3,11 @@ title: 'My Columbia: My First Day Commuting to Columbia'
 author: Shre Roy
 tags:
 - Barnard
+- Dorm life
+- Campus
+- Arts
+- Culture
+- Relationships
 layout: memory
 schools:
   SEAS: 1989

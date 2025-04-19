@@ -3,6 +3,18 @@ title: 'My Columbia: September 12, 2001'
 author: Milda De Voe
 tags:
 - Hungarian Pastry Shop
+- Campus
+- Winter
+- Weather
+- Spirituality
+- Religion
+- Library
+- Study spots
+- Arts
+- Culture
+- Food
+- Dining
+- Relationships
 layout: memory
 schools:
   SOA: 2001

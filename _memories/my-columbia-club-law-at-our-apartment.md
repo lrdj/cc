@@ -5,6 +5,10 @@ layout: memory
 schools:
   JRN: 1994
 primary_year: 1994
+tags:
+- Academics
+- Library
+- Study spots
 ---
 # Club Law at Our Apartment
 

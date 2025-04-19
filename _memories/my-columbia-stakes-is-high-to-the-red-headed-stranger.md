@@ -5,6 +5,12 @@ tags:
 - Carman Hall
 - East Campus
 - Miller Theatre
+- Dorm life
+- Campus
+- Music
+- Politics
+- Activism
+- Good trouble
 layout: memory
 schools:
   CC: 2001

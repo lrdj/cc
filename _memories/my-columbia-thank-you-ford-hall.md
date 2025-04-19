@@ -4,6 +4,20 @@ author: Roseann Fitzgerald
 tags:
 - Hartley
 - St. Paul's Chapel
+- Dorm life
+- Campus
+- Spirituality
+- Religion
+- Academics
+- Library
+- Study spots
+- Arts
+- Culture
+- Food
+- Dining
+- Politics
+- Activism
+- Good trouble
 layout: memory
 schools:
   SOA: 1988

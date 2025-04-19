@@ -3,6 +3,16 @@ title: 'My Columbia: Studying Spirituality'
 author: Susan Brown
 tags:
 - Barnard
+- Spirituality
+- Religion
+- Academics
+- Library
+- Study spots
+- Arts
+- Culture
+- Politics
+- Activism
+- Good trouble
 layout: memory
 schools:
   GSAS: 1989

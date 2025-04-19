@@ -6,6 +6,13 @@ schools:
   GSAS: 1962
   CC: 1959
 primary_year: 1962
+tags:
+- Academics
+- Arts
+- Culture
+- Politics
+- Activism
+- Good trouble
 ---
 # Blasting Through the Core
 

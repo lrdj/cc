@@ -5,6 +5,11 @@ layout: memory
 schools:
   CC: 1988
 primary_year: 1988
+tags:
+- Politics
+- Activism
+- Good trouble
+- Relationships
 ---
 # Onondaga in June
 

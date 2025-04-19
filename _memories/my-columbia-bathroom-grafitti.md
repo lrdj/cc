@@ -5,6 +5,7 @@ layout: memory
 schools:
   LAW: 1982
 primary_year: 1982
+tags: []
 ---
 # Bathroom Grafitti
 

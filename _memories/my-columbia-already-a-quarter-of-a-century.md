@@ -5,6 +5,13 @@ layout: memory
 schools:
   SW: 1980
 primary_year: 1980
+tags:
+- Spirituality
+- Religion
+- Academics
+- Politics
+- Activism
+- Good trouble
 ---
 # Already a Quarter of a Century?
 

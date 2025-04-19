@@ -3,6 +3,11 @@ title: 'My Columbia: Advice to My Columbia-Bound Self'
 author: Katherine Howe
 tags:
 - WKCR
+- Winter
+- Weather
+- Relationships
+- Personal growth
+- Reflection
 layout: memory
 schools:
   CC: 1999

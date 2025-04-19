@@ -5,6 +5,8 @@ layout: memory
 schools:
   CC: 1969
 primary_year: 1969
+tags:
+- Music
 ---
 # Music I Listened To
 

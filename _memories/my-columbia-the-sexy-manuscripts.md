@@ -3,6 +3,12 @@ title: 'My Columbia: The Sexy Manuscripts'
 author: Irwin Gray
 tags:
 - Butler Library
+- Campus
+- Academics
+- Library
+- Study spots
+- Arts
+- Culture
 layout: memory
 schools:
   BUS: 1967

@@ -5,6 +5,11 @@ layout: memory
 schools:
   CC: 2005
 primary_year: 2005
+tags:
+- Winter
+- Weather
+- Abroad
+- Travel
 ---
 # My Columbia Summers
 

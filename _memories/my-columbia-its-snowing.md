@@ -3,6 +3,12 @@ title: 'My Columbia: IT''S SNOWING'
 author: Antonio Vinals
 tags:
 - John Jay
+- Dorm life
+- Campus
+- Winter
+- Weather
+- Sports
+- Athletics
 layout: memory
 schools:
   CC: 1989

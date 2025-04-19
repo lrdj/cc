@@ -3,6 +3,9 @@ title: 'My Columbia: Chrysalis of Awareness: The First Step in World Change'
 author: Jefferson Svengsouk
 tags:
 - Core Curriculum
+- Religion
+- Spirituality
+- Academics
 layout: memory
 schools:
   CC: 1990

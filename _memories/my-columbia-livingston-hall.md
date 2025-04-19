@@ -3,6 +3,10 @@ title: 'My Columbia: Livingston Hall'
 author: James Boyce
 tags:
 - Hartley
+- Dorm life
+- Campus
+- Music
+- Relationships
 layout: memory
 schools:
   PS: 1973

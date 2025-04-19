@@ -5,8 +5,9 @@ layout: memory
 schools:
   CC: 1983
 primary_year: 1983
+tags:
+- Campus
 ---
-
 # Speedway
 
 During my junior and senior years, I resided at the College Residence Hotel on West 110th Street with several other College men. The apartment was close enough to campus to enable us to enjoy Columbia life, but we also felt very lucky to be living off-campus with so much privacy and freedom.

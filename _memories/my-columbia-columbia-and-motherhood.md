@@ -5,6 +5,9 @@ layout: memory
 schools:
   GS: 2004
 primary_year: 2004
+tags:
+- Library
+- Study spots
 ---
 # Columbia and Motherhood
 

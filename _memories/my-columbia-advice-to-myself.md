@@ -5,6 +5,11 @@ layout: memory
 schools:
   CC: 1954
 primary_year: 1954
+tags:
+- Library
+- Study spots
+- Personal growth
+- Reflection
 ---
 # Advice to Myself
 

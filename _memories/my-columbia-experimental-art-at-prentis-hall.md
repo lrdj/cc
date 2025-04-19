@@ -5,6 +5,13 @@ layout: memory
 schools:
   CC: 1995
 primary_year: 1995
+tags:
+- Dorm life
+- Campus
+- Academics
+- Arts
+- Culture
+- Music
 ---
 # Experimental Art at Prentis Hall
 

@@ -4,6 +4,15 @@ author: Joseph Cowley
 tags:
 - Contemporary Civilization
 - Spectator
+- Dorm life
+- Campus
+- Religion
+- Spirituality
+- Academics
+- Music
+- Food
+- Dining
+- Relationships
 layout: memory
 schools:
   CC: 1947

@@ -5,6 +5,14 @@ layout: memory
 schools:
   CC: 1987
 primary_year: 1987
+tags:
+- Winter
+- Weather
+- Academics
+- Sports
+- Athletics
+- Abroad
+- Travel
 ---
 # NYC Cold
 

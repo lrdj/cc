@@ -5,6 +5,14 @@ layout: memory
 schools:
   NRS: 1978
 primary_year: 1978
+tags:
+- Dorm life
+- Campus
+- Academics
+- Sports
+- Athletics
+- Music
+- Relationships
 ---
 # The Misfit
 

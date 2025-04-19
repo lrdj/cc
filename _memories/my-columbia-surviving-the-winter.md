@@ -3,6 +3,10 @@ title: 'My Columbia: Surviving the Winter'
 author: Craig Blackmon
 tags:
 - John Jay
+- Dorm life
+- Campus
+- Winter
+- Weather
 layout: memory
 schools:
   CC: 1988

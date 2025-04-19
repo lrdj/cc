@@ -5,6 +5,12 @@ layout: memory
 schools:
   CC: 1993
 primary_year: 1993
+tags:
+- Campus
+- Politics
+- Activism
+- Good trouble
+- Relationships
 ---
 # Relaxing on Sunday Mornings
 

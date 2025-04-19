@@ -6,6 +6,9 @@ schools:
   CC: 1999
   LAW: 2003
 primary_year: 2003
+tags:
+- Campus
+- Academics
 ---
 # Summers spent ... wisely?
 

@@ -4,6 +4,14 @@ author: Stan Crock
 tags:
 - Carman Hall
 - Barnard
+- Dorm life
+- Campus
+- Winter
+- Weather
+- Academics
+- Arts
+- Culture
+- Relationships
 layout: memory
 schools:
   CC: 1972

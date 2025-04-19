@@ -3,6 +3,14 @@ title: 'My Columbia: Mr. Stade'
 author: charles saydah
 tags:
 - Contemporary Civilization
+- Academics
+- Sports
+- Athletics
+- Arts
+- Culture
+- Politics
+- Activism
+- Good trouble
 layout: memory
 schools:
   CC: 1967

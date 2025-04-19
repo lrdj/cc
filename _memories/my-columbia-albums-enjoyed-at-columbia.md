@@ -5,6 +5,7 @@ layout: memory
 schools:
   SEAS: 2004
 primary_year: 2004
+tags: []
 ---
 # Albums Enjoyed at Columbia
 

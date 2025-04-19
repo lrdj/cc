@@ -6,6 +6,9 @@ schools:
   BUS: 1975
   CC: 1973
 primary_year: 1975
+tags:
+- Academics
+- Lectures
 ---
 # My Favorite Professor
 

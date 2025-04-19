@@ -3,6 +3,10 @@ title: 'My Columbia: The Pub'
 author: Kevin Donnelly
 tags:
 - John Jay
+- Campus
+- Spirituality
+- Religion
+- Relationships
 layout: memory
 schools:
   BUS: 1978

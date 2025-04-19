@@ -6,6 +6,9 @@ schools:
   SW: 1977
   SPH: 1980
 primary_year: 1980
+tags:
+- Library
+- Study spots
 ---
 # De-stressing
 

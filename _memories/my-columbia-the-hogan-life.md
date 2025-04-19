@@ -5,6 +5,12 @@ layout: memory
 schools:
   CC: 2002
 primary_year: 2002
+tags:
+- Dorm life
+- Campus
+- Library
+- Study spots
+- Relationships
 ---
 # The Hogan Life
 

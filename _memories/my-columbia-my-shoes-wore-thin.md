@@ -5,6 +5,11 @@ layout: memory
 schools:
   TC: 1960
 primary_year: 1960
+tags:
+- Campus
+- Academics
+- Abroad
+- Travel
 ---
 # My Shoes Wore Thin!
 

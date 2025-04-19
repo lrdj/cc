@@ -5,6 +5,10 @@ layout: memory
 schools:
   SOA: 2000
 primary_year: 2000
+tags:
+- Academics
+- Arts
+- Culture
 ---
 # What Is Art?
 

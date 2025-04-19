@@ -5,6 +5,12 @@ layout: memory
 schools:
   GSAPP: 1986
 primary_year: 1986
+tags:
+- Arts
+- Culture
+- Politics
+- Activism
+- Good trouble
 ---
 # A Mole
 

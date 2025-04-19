@@ -5,6 +5,17 @@ layout: memory
 schools:
   SDOS: 2004
 primary_year: 2004
+tags:
+- Winter
+- Weather
+- Academics
+- Arts
+- Culture
+- Food
+- Dining
+- Politics
+- Activism
+- Good trouble
 ---
 # Staying Warm
 

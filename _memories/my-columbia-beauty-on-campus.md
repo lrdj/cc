@@ -5,6 +5,9 @@ layout: memory
 schools:
   SEAS: 1990
 primary_year: 1990
+tags:
+- Campus
+- Relationships
 ---
 # Beauty on Campus
 

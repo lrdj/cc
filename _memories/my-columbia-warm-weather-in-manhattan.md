@@ -5,6 +5,15 @@ layout: memory
 schools:
   BUS: 1981
 primary_year: 1981
+tags:
+- Winter
+- Weather
+- Academics
+- Library
+- Study spots
+- Politics
+- Activism
+- Good trouble
 ---
 # Warm Weather in Manhattan
 

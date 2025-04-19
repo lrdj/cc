@@ -5,6 +5,12 @@ layout: memory
 schools:
   CC: 1990
 primary_year: 1990
+tags:
+- Campus
+- Winter
+- Weather
+- Arts
+- Culture
 ---
 # Acorns and Tai Chi
 

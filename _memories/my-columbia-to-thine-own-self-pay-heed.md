@@ -5,6 +5,14 @@ layout: memory
 schools:
   SEAS: 1978
 primary_year: 1978
+tags:
+- Campus
+- Academics
+- Abroad
+- Travel
+- Relationships
+- Personal growth
+- Reflection
 ---
 # To Thine Own Self Pay Heed
 

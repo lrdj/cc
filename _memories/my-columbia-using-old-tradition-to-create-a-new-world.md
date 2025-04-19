@@ -5,6 +5,7 @@ tags:
 - Core Curriculum
 - Lit Hum
 - Columbia College
+- Academics
 layout: memory
 schools:
   CC: 2004

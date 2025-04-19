@@ -4,6 +4,8 @@ author: Jerome Breslow
 tags:
 - John Jay
 - Hartley
+- Dorm life
+- Campus
 layout: memory
 schools:
   CC: 1956

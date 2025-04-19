@@ -3,6 +3,8 @@ title: 'My Columbia: This Is a Real Fire, Folks'
 author: Nat Heiner
 tags:
 - Furnald Hall
+- Dorm life
+- Campus
 layout: memory
 schools:
   CC: 1972

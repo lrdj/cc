@@ -4,6 +4,13 @@ author: Azmir Mohd Isa
 tags:
 - John Jay
 - East Campus
+- Dorm life
+- Campus
+- Winter
+- Weather
+- Academics
+- Music
+- Relationships
 layout: memory
 schools:
   SEAS: 1997

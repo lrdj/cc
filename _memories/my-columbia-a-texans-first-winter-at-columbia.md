@@ -3,6 +3,12 @@ title: 'My Columbia: A Texan''s First Winter at Columbia'
 author: Mayokia Walker
 tags:
 - Riverside Park
+- Winter
+- Weather
+- Politics
+- Activism
+- Good trouble
+- Relationships
 layout: memory
 schools:
   CC: 2004

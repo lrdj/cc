@@ -3,6 +3,7 @@ title: 'My Columbia: My Heart Remembers with a Great Fondness'
 author: Neil  Cowan
 tags:
 - College Walk
+- Campus
 layout: memory
 schools:
   GS: 1960

@@ -3,6 +3,8 @@ title: 'My Columbia: Hiding in the Stacks'
 author: Kathryn Pitrone
 tags:
 - Butler Library
+- Library
+- Study spots
 layout: memory
 schools:
   GS: 2002

@@ -5,6 +5,14 @@ tags:
 - East Campus
 - Barnard
 - Butler Library
+- Campus
+- Library
+- Study spots
+- Sports
+- Athletics
+- Arts
+- Culture
+- Relationships
 layout: memory
 schools:
   SEAS: 1990

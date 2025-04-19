@@ -6,6 +6,10 @@ schools:
   GSAPP: 2001
   CC: 1998
 primary_year: 2001
+tags:
+- Religion
+- Spirituality
+- Academics
 ---
 # Watching X-Files With No Lights On
 

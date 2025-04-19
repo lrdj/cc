@@ -5,6 +5,8 @@ layout: memory
 schools:
   BUS: 1987
 primary_year: 1987
+tags:
+- Relationships
 ---
 # Invitation
 

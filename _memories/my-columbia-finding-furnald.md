@@ -5,6 +5,9 @@ tags:
 - John Jay
 - Hamilton Hall
 - Ferris Booth
+- Dorm life
+- Campus
+- Academics
 layout: memory
 schools:
   CC: 1965

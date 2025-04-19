@@ -5,6 +5,12 @@ layout: memory
 schools:
   JRN: 1996
 primary_year: 1996
+tags:
+- Winter
+- Weather
+- Politics
+- Activism
+- Good trouble
 ---
 # The Day Ball Points Got a Chilly Reception
 

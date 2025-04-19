@@ -5,6 +5,9 @@ layout: memory
 schools:
   GS: 1965
 primary_year: 1965
+tags:
+- Arts
+- Culture
 ---
 # Great Mind
 

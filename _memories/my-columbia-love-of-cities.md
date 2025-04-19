@@ -5,6 +5,10 @@ layout: memory
 schools:
   GSAPP: 1995
 primary_year: 1995
+tags:
+- Campus
+- Library
+- Study spots
 ---
 # Love of Cities
 

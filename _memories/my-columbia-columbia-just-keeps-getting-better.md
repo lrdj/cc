@@ -5,6 +5,8 @@ layout: memory
 schools:
   GS: 1982
 primary_year: 1982
+tags:
+- Campus
 ---
 # Columbia Just Keeps Getting Better
 

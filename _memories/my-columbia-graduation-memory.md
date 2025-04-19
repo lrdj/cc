@@ -5,6 +5,11 @@ layout: memory
 schools:
   CC: 1966
 primary_year: 1966
+tags:
+- Library
+- Study spots
+- Arts
+- Culture
 ---
 # Graduation Memory
 

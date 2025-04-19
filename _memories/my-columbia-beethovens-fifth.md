@@ -3,6 +3,9 @@ title: 'My Columbia: Beethoven''s Fifth'
 author: Nancy Park
 tags:
 - John Jay
+- Dorm life
+- Campus
+- Music
 layout: memory
 schools:
   CC: 1997

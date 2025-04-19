@@ -5,6 +5,7 @@ layout: memory
 schools:
   CC: 1976
 primary_year: 1976
+tags: []
 ---
 # Tom's Restaurant
 

@@ -5,6 +5,11 @@ layout: memory
 schools:
   SEAS: 1958
 primary_year: 1958
+tags:
+- Academics
+- Lectures
+- Arts
+- Culture
 ---
 # Succinct as Could Be
 

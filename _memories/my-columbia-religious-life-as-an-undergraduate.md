@@ -5,6 +5,14 @@ layout: memory
 schools:
   CC: 1958
 primary_year: 1958
+tags:
+- Religion
+- Spirituality
+- Academics
+- Lectures
+- Arts
+- Culture
+- Relationships
 ---
 # Religious Life as an Undergraduate
 

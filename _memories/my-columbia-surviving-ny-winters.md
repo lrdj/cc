@@ -3,6 +3,13 @@ title: 'My Columbia: Surviving NY Winters'
 author: Arthur Delmhorst
 tags:
 - Low Library
+- Winter
+- Weather
+- Library
+- Study spots
+- Politics
+- Activism
+- Good trouble
 layout: memory
 schools:
   CC: 1960

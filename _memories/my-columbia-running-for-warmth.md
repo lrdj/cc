@@ -5,6 +5,14 @@ layout: memory
 schools:
   CC: 1988
 primary_year: 1988
+tags:
+- Dorm life
+- Campus
+- Winter
+- Weather
+- Politics
+- Activism
+- Good trouble
 ---
 # Running for Warmth
 

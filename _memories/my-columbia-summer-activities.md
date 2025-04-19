@@ -5,6 +5,9 @@ layout: memory
 schools:
   CC: 1957
 primary_year: 1957
+tags:
+- Food
+- Dining
 ---
 # Summer Activities
 

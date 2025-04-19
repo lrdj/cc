@@ -3,6 +3,8 @@ title: 'My Columbia: Clean & Sober Graduation'
 author: Cathleen Quigley-Soderman
 tags:
 - Alma Mater
+- Arts
+- Culture
 layout: memory
 schools:
   SOA: 1990

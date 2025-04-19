@@ -8,6 +8,17 @@ tags:
 - College Walk
 - The West End
 - Ferris Booth
+- Dorm life
+- Campus
+- Academics
+- Library
+- Study spots
+- Arts
+- Culture
+- Politics
+- Activism
+- Good trouble
+- Relationships
 layout: memory
 schools:
   SEAS: 1978

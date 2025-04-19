@@ -5,6 +5,13 @@ layout: memory
 schools:
   BUS: 1975
 primary_year: 1975
+tags:
+- Dorm life
+- Campus
+- Academics
+- Food
+- Dining
+- Relationships
 ---
 # Life at Johnson Hall
 

@@ -5,6 +5,9 @@ tags:
 - Columbia College
 - Alma Mater
 - College Walk
+- Dorm life
+- Campus
+- Relationships
 layout: memory
 schools:
   LAW: 1990

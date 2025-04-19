@@ -3,6 +3,9 @@ title: 'My Columbia: Gospel!'
 author: Wanda Holland Greene
 tags:
 - Barnard
+- Winter
+- Weather
+- Relationships
 layout: memory
 schools:
   TC: 1990

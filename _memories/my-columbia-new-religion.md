@@ -5,6 +5,9 @@ layout: memory
 schools:
   CC: 1971
 primary_year: 1971
+tags:
+- Spirituality
+- Religion
 ---
 # New Religion
 

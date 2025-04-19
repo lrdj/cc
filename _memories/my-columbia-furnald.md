@@ -6,6 +6,10 @@ schools:
   GSAS: 1974
   CC: 1973
 primary_year: 1974
+tags:
+- Campus
+- Religion
+- Spirituality
 ---
 # Furnald
 

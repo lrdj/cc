@@ -5,6 +5,10 @@ layout: memory
 schools:
   CC: 1990
 primary_year: 1990
+tags:
+- Arts
+- Culture
+- Music
 ---
 # "Little Mermaid Message"
 

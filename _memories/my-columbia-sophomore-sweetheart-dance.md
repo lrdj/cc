@@ -5,6 +5,10 @@ layout: memory
 schools:
   CC: 1959
 primary_year: 1959
+tags:
+- Academics
+- Arts
+- Culture
 ---
 # Sophomore Sweetheart Dance
 

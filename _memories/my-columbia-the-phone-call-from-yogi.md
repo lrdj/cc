@@ -5,6 +5,9 @@ layout: memory
 schools:
   CC: 1967
 primary_year: 1967
+tags:
+- Arts
+- Culture
 ---
 # The Phone Call from Yogi
 

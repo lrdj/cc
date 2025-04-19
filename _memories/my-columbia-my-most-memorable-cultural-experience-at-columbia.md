@@ -5,6 +5,8 @@ layout: memory
 schools:
   BUS: 1975
 primary_year: 1975
+tags:
+- Academics
 ---
 # My Most Memorable Cultural Experience at Columbia
 

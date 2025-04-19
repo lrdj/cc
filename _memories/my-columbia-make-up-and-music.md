@@ -5,6 +5,8 @@ layout: memory
 schools:
   CC: 1997
 primary_year: 1997
+tags:
+- Music
 ---
 # Make Up and Music
 

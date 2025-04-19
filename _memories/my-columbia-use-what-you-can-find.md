@@ -5,6 +5,9 @@ layout: memory
 schools:
   GS: 1975
 primary_year: 1975
+tags:
+- Campus
+- Relationships
 ---
 # Use What You Can Find
 

@@ -5,6 +5,15 @@ layout: memory
 schools:
   CC: 1982
 primary_year: 1982
+tags:
+- Dorm life
+- Campus
+- Academics
+- Lectures
+- Politics
+- Activism
+- Good trouble
+- Relationships
 ---
 # Civil War Draft Riots - Prof. Shenton
 

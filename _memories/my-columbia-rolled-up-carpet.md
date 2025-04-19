@@ -6,6 +6,9 @@ schools:
   SEAS: 1987
   BUS: 1991
 primary_year: 1991
+tags:
+- Dorm life
+- Campus
 ---
 # Rolled-up Carpet
 

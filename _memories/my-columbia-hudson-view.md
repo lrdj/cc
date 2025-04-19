@@ -7,6 +7,9 @@ schools:
   TC: 1982
   NRS: 1972
 primary_year: 1982
+tags:
+- Dorm life
+- Campus
 ---
 # Hudson View
 

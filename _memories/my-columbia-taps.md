@@ -5,6 +5,13 @@ tags:
 - Hartley
 - Ferris Booth
 - Reunion
+- Dorm life
+- Campus
+- Music
+- Politics
+- Activism
+- Good trouble
+- Relationships
 layout: memory
 schools:
   CC: 1967

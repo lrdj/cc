@@ -5,6 +5,8 @@ layout: memory
 schools:
   CC: 2002
 primary_year: 2002
+tags:
+- Relationships
 ---
 # Support Sticks After Graduation
 

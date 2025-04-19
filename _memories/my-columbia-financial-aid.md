@@ -6,6 +6,11 @@ tags:
 - Columbia College
 - Reunion
 - Columbia College Fund
+- Dorm life
+- Campus
+- Academics
+- Food
+- Dining
 layout: memory
 schools:
   CC: 1956

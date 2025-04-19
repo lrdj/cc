@@ -7,6 +7,10 @@ schools:
   BUS: 1970
   CC: 1956
 primary_year: 1970
+tags:
+- Dorm life
+- Campus
+- Relationships
 ---
 # Meeting the President's Wife
 

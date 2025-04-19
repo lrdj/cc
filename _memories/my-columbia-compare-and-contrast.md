@@ -5,6 +5,13 @@ layout: memory
 schools:
   CC: 1966
 primary_year: 1966
+tags:
+- Dorm life
+- Campus
+- Library
+- Study spots
+- Arts
+- Culture
 ---
 # Compare and Contrast
 

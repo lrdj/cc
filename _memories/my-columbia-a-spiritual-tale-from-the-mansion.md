@@ -5,6 +5,10 @@ layout: memory
 schools:
   SW: 1963
 primary_year: 1963
+tags:
+- Spirituality
+- Religion
+- Academics
 ---
 # A Spiritual Tale from the Mansion
 

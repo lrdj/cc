@@ -3,6 +3,9 @@ title: 'My Columbia: Hang Time'
 author: RIch Koesel
 tags:
 - Core Curriculum
+- Academics
+- Library
+- Study spots
 layout: memory
 schools:
   CC: 1993

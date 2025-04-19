@@ -5,6 +5,7 @@ layout: memory
 schools:
   CC: 2000
 primary_year: 2000
+tags: []
 ---
 # Favorite Teacher
 

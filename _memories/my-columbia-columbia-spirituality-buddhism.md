@@ -5,6 +5,13 @@ layout: memory
 schools:
   CC: 1990
 primary_year: 1990
+tags:
+- Spirituality
+- Religion
+- Buddhism
+- Academics
+- Library
+- Study spots
 ---
 # Columbia Spirituality: Buddhism
 

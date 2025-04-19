@@ -3,6 +3,10 @@ title: 'My Columbia: "He Had a Moustache"'
 author: Dorie Bulloff
 tags:
 - Alma Mater
+- Academics
+- Library
+- Study spots
+- Relationships
 layout: memory
 schools:
   SW: 1975

@@ -5,6 +5,14 @@ layout: memory
 schools:
   GSAS: 1991
 primary_year: 1991
+tags:
+- Campus
+- Library
+- Study spots
+- Arts
+- Culture
+- Food
+- Dining
 ---
 # A Happy Baby at Columbia
 

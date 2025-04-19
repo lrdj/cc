@@ -5,6 +5,11 @@ layout: memory
 schools:
   CC: 1963
 primary_year: 1963
+tags:
+- Dorm life
+- Campus
+- Religion
+- Spirituality
 ---
 # "What's a Nice Girl Like You Doing in a Place Like This?"
 

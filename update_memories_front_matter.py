@@ -87,7 +87,7 @@ for fname in os.listdir(mem_dir):
     fm_raw, body = match.groups()
     data = yaml.safe_load(fm_raw)
 
-    # Extract affiliations → build new schools hash
+    # Extract affiliations → build new schools hash if any
     schools = {}
     for aff in data.get('affiliations', []):
         name = aff.get('school')
@@ -99,17 +99,13 @@ for fname in os.listdir(mem_dir):
             except ValueError:
                 print(f"⚠️ Bad year “{year}” in {path}; skipping that affiliation.")
 
-    if not schools:
-        print(f"⚠️ No valid affiliations in {path}; skipping.")
-        continue
-
-    # Compute the primary (max) year
-    primary_year = max(schools.values())
-
-    # Update front matter
-    data.pop('affiliations', None)
-    data['schools'] = schools
-    data['primary_year'] = primary_year
+    # Migrate affiliations to schools/primary_year if present
+    if schools:
+        primary_year = max(schools.values())
+        data.pop('affiliations', None)
+        data['schools'] = schools
+        data['primary_year'] = primary_year
+    # Otherwise, keep existing schools/primary_year
 
     # Auto-tag based on content (title, body, filename)
     existing_tags = data.get('tags', []) or []

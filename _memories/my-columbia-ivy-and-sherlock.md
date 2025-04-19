@@ -5,6 +5,9 @@ layout: memory
 schools:
   GSAS: 1961
 primary_year: 1961
+tags:
+- Arts
+- Culture
 ---
 # Ivy and Sherlock
 

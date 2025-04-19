@@ -5,6 +5,9 @@ layout: memory
 schools:
   GSAS: 2002
 primary_year: 2002
+tags:
+- Winter
+- Weather
 ---
 # Adoption
 

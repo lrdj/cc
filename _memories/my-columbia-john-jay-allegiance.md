@@ -4,6 +4,15 @@ author: Christina Wright
 tags:
 - John Jay
 - The West End
+- Dorm life
+- Campus
+- Winter
+- Weather
+- Academics
+- Music
+- Food
+- Dining
+- Relationships
 layout: memory
 schools:
   CC: 2003

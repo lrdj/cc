@@ -5,6 +5,14 @@ layout: memory
 schools:
   CC: 1951
 primary_year: 1951
+tags:
+- Dorm life
+- Campus
+- Academics
+- Library
+- Study spots
+- Arts
+- Culture
 ---
 # Dormitory Life
 

@@ -6,6 +6,16 @@ schools:
   GSAS: 1997
   TC: 1993
 primary_year: 1997
+tags:
+- Campus
+- Spirituality
+- Religion
+- Academics
+- Library
+- Study spots
+- Arts
+- Culture
+- Relationships
 ---
 # Spirituality During My Years at Columbia
 

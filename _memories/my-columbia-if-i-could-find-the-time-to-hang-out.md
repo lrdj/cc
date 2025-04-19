@@ -3,6 +3,8 @@ title: 'My Columbia: If I Could Find the Time to Hang Out...'
 author: Yalman Onaran
 tags:
 - Low Library
+- Library
+- Study spots
 layout: memory
 schools:
   SIPA: 1993

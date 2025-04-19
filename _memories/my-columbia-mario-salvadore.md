@@ -5,6 +5,9 @@ layout: memory
 schools:
   GSAPP: 1989
 primary_year: 1989
+tags:
+- Academics
+- Lectures
 ---
 # Mario Salvadore
 

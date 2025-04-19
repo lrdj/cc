@@ -5,6 +5,14 @@ layout: memory
 schools:
   CC: 1965
 primary_year: 1965
+tags:
+- Dorm life
+- Campus
+- Winter
+- Weather
+- Politics
+- Activism
+- Good trouble
 ---
 # The Big Chill
 

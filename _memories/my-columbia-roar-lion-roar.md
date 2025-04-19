@@ -3,6 +3,11 @@ title: 'My Columbia: Roar Lion Roar'
 author: Mike  Griffin
 tags:
 - Hartley
+- Dorm life
+- Campus
+- Academics
+- Sports
+- Athletics
 layout: memory
 schools:
   CC: 1965

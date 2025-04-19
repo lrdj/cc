@@ -3,6 +3,11 @@ title: 'My Columbia: Combat Veterans'
 author: Stanley Edelman
 tags:
 - Columbia College
+- Academics
+- Lectures
+- Politics
+- Activism
+- Good trouble
 layout: memory
 schools:
   PS: 1953

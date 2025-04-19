@@ -4,6 +4,8 @@ author: Stanley Futterman
 tags:
 - Hartley
 - Spectator
+- Dorm life
+- Campus
 layout: memory
 schools:
   CC: 1961

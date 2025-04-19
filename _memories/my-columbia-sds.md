@@ -5,6 +5,10 @@ layout: memory
 schools:
   LS: 1963
 primary_year: 1963
+tags:
+- Politics
+- Activism
+- Good trouble
 ---
 # SDS
 

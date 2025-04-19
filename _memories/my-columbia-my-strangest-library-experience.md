@@ -5,6 +5,14 @@ layout: memory
 schools:
   GS: 2003
 primary_year: 2003
+tags:
+- Campus
+- Winter
+- Weather
+- Library
+- Study spots
+- Arts
+- Culture
 ---
 # My Strangest Library Experience
 

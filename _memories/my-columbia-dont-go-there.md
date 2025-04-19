@@ -5,6 +5,14 @@ layout: memory
 schools:
   CC: 1967
 primary_year: 1967
+tags:
+- Dorm life
+- Campus
+- Academics
+- Politics
+- Activism
+- Good trouble
+- Relationships
 ---
 # "Don't go there"
 

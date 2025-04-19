@@ -5,6 +5,10 @@ layout: memory
 schools:
   SEAS: 1971
 primary_year: 1971
+tags:
+- Winter
+- Weather
+- Academics
 ---
 # Seeing Snow for the First Time
 

@@ -4,6 +4,12 @@ author: Carla Stone
 tags:
 - Mudd
 - 1980s
+- Campus
+- Arts
+- Culture
+- Food
+- Dining
+- Relationships
 layout: memory
 schools:
   SEAS: 1973

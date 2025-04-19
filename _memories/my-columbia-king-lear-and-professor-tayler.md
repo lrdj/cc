@@ -6,6 +6,11 @@ schools:
   CC: 1987
   TC: 1994
 primary_year: 1994
+tags:
+- Academics
+- Lectures
+- Personal growth
+- Reflection
 ---
 # King Lear and Professor Tayler
 

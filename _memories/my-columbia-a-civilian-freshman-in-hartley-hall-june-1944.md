@@ -4,6 +4,10 @@ author: Robert Knapp
 tags:
 - Hartley
 - Columbia College
+- Dorm life
+- Campus
+- Academics
+- Lectures
 layout: memory
 schools:
   CC: 1949

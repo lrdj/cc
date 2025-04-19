@@ -5,6 +5,8 @@ layout: memory
 schools:
   BUS: 1959
 primary_year: 1959
+tags:
+- Relationships
 ---
 # Meeting My Wife
 

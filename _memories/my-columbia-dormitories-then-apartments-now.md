@@ -3,6 +3,11 @@ title: 'My Columbia: Dormitories then, apartments now'
 author: Harold Hotelling
 tags:
 - John Jay
+- Dorm life
+- Campus
+- Arts
+- Culture
+- Relationships
 layout: memory
 schools:
   CC: 1966

@@ -6,6 +6,13 @@ schools:
   BUS: 1953
   CC: 1952
 primary_year: 1953
+tags:
+- Academics
+- Politics
+- Activism
+- Good trouble
+- Personal growth
+- Reflection
 ---
 # Freshman Orientation
 

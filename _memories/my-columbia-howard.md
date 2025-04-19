@@ -5,6 +5,9 @@ layout: memory
 schools:
   SOA: 1990
 primary_year: 1990
+tags:
+- Dorm life
+- Campus
 ---
 # Howard
 

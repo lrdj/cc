@@ -5,6 +5,9 @@ layout: memory
 schools:
   SEAS: 1983
 primary_year: 1983
+tags:
+- Arts
+- Culture
 ---
 # My Hang Time at CU
 

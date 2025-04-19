@@ -3,6 +3,16 @@ title: 'My Columbia: Staying Alive'
 author: Edward Yasuna
 tags:
 - The West End
+- Academics
+- Library
+- Study spots
+- Music
+- Abroad
+- Travel
+- Politics
+- Activism
+- Good trouble
+- Relationships
 layout: memory
 schools:
   CC: 1967

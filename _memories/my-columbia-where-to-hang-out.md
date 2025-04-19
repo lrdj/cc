@@ -4,6 +4,13 @@ author: Thomas Wm. Hamilton
 tags:
 - Barnard
 - WKCR
+- Academics
+- Library
+- Study spots
+- Music
+- Food
+- Dining
+- Relationships
 layout: memory
 schools:
   CC: 1960

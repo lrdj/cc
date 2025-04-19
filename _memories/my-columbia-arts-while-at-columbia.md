@@ -5,6 +5,13 @@ layout: memory
 schools:
   PPT: 1958
 primary_year: 1958
+tags:
+- Academics
+- Arts
+- Culture
+- Politics
+- Activism
+- Good trouble
 ---
 # Arts While at Columbia
 

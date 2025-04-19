@@ -5,6 +5,10 @@ layout: memory
 schools:
   GSAS: 1977
 primary_year: 1977
+tags:
+- Dorm life
+- Campus
+- Academics
 ---
 # Declaiming in Johnson
 

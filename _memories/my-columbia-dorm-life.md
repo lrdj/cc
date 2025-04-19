@@ -4,6 +4,13 @@ author: E. Michael Geiger
 tags:
 - John Jay
 - Barnard
+- Dorm life
+- Campus
+- Library
+- Study spots
+- Politics
+- Activism
+- Good trouble
 layout: memory
 schools:
   CC: 1958

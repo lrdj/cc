@@ -6,6 +6,19 @@ tags:
 - Butler Library
 - Riverside Park
 - Ferris Booth
+- Dorm life
+- Campus
+- Winter
+- Weather
+- Academics
+- Library
+- Study spots
+- Arts
+- Culture
+- Politics
+- Activism
+- Good trouble
+- Relationships
 layout: memory
 schools:
   LS: 1987

@@ -3,6 +3,14 @@ title: 'My Columbia: Snowed In'
 author: georgia kernell
 tags:
 - Low Library
+- Dorm life
+- Campus
+- Winter
+- Weather
+- Library
+- Study spots
+- Food
+- Dining
 layout: memory
 schools:
   GSAS: 2007

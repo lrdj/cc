@@ -4,6 +4,9 @@ author: Thomas Wm. Hamilton
 tags:
 - Barnard
 - WKCR
+- Campus
+- Academics
+- Relationships
 layout: memory
 schools:
   CC: 1960

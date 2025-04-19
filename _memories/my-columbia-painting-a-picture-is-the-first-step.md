@@ -5,6 +5,12 @@ layout: memory
 schools:
   SIPA: 2003
 primary_year: 2003
+tags:
+- Arts
+- Culture
+- Relationships
+- Personal growth
+- Reflection
 ---
 # Painting a Picture Is the First Step
 

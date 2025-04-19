@@ -5,6 +5,8 @@ layout: memory
 schools:
   LAW: 1952
 primary_year: 1952
+tags:
+- Academics
 ---
 # "Great Minds of My Generation"
 

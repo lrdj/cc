@@ -5,6 +5,15 @@ layout: memory
 schools:
   PS: 1974
 primary_year: 1974
+tags:
+- Library
+- Study spots
+- Abroad
+- Travel
+- Politics
+- Activism
+- Good trouble
+- Relationships
 ---
 # Frank: Learning to Love
 

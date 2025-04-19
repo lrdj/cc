@@ -3,6 +3,8 @@ title: 'My Columbia: CU through a Newcomer''s Eyes'
 author: Jacie Buitenkant
 tags:
 - Butler Library
+- Library
+- Study spots
 layout: memory
 schools:
   CC: 1998

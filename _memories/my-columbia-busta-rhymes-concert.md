@@ -5,6 +5,11 @@ tags:
 - Bacchanal
 - Butler Library
 - Alma Mater
+- Winter
+- Weather
+- Library
+- Study spots
+- Music
 layout: memory
 schools:
   CC: 2002

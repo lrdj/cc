@@ -5,6 +5,9 @@ layout: memory
 schools:
   BUS: 1968
 primary_year: 1968
+tags:
+- Winter
+- Weather
 ---
 # How to Prepare for Winter at Columbia
 

@@ -3,6 +3,11 @@ title: 'My Columbia: Furnald Fun'
 author: Elizabeth Olesh
 tags:
 - Furnald Hall
+- Dorm life
+- Campus
+- Winter
+- Weather
+- Relationships
 layout: memory
 schools:
   CC: 1995

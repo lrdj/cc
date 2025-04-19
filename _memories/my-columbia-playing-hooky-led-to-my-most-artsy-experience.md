@@ -5,6 +5,10 @@ layout: memory
 schools:
   CC: 1962
 primary_year: 1962
+tags:
+- Academics
+- Arts
+- Culture
 ---
 # Playing Hooky Led to My Most Artsy Experience!
 

@@ -4,6 +4,10 @@ author: Lawrence  [Larry] Ross
 tags:
 - Varsity Show
 - Hamilton Hall
+- Dorm life
+- Campus
+- Academics
+- Lectures
 layout: memory
 schools:
   CC: 1945

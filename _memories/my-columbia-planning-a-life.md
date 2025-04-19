@@ -7,6 +7,12 @@ schools:
   BUS: 1992
   SPH: 1993
 primary_year: 1993
+tags:
+- Campus
+- Library
+- Study spots
+- Personal growth
+- Reflection
 ---
 # Planning a Life
 

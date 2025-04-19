@@ -3,6 +3,10 @@ title: 'My Columbia: JJ7 24/7 365 420'
 author: Hamesh Mehta
 tags:
 - John Jay
+- Dorm life
+- Campus
+- Academics
+- Relationships
 layout: memory
 schools:
   CC: 2004

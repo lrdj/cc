@@ -5,6 +5,7 @@ layout: memory
 schools:
   CC: 1994
 primary_year: 1994
+tags: []
 ---
 # Make It Good!
 

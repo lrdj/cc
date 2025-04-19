@@ -5,6 +5,12 @@ layout: memory
 schools:
   CC: 1998
 primary_year: 1998
+tags:
+- Winter
+- Weather
+- Politics
+- Activism
+- Good trouble
 ---
 # Sledding on the Lowe Steps
 

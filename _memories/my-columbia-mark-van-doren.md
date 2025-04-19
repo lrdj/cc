@@ -5,6 +5,9 @@ layout: memory
 schools:
   CC: 1954
 primary_year: 1954
+tags:
+- Academics
+- Lectures
 ---
 # Mark Van Doren
 

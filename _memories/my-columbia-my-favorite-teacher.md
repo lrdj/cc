@@ -3,6 +3,8 @@ title: 'My Columbia: My Favorite Teacher'
 author: Daniel Johnson
 tags:
 - Contemporary Civilization
+- Academics
+- Lectures
 layout: memory
 schools:
   CC: 1961

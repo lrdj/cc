@@ -6,6 +6,10 @@ schools:
   BUS: 1968
   LAW: 1968
 primary_year: 1968
+tags:
+- Campus
+- Spirituality
+- Religion
 ---
 # A  Peaceful Visit
 

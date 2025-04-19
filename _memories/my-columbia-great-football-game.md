@@ -5,6 +5,10 @@ layout: memory
 schools:
   CC: 1948
 primary_year: 1948
+tags:
+- Sports
+- Athletics
+- Relationships
 ---
 # Great Football Game
 

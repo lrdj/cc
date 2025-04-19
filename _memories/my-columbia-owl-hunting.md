@@ -3,6 +3,10 @@ title: 'My Columbia: Owl Hunting'
 author: Caitlin Schrein
 tags:
 - Spectator
+- Politics
+- Activism
+- Good trouble
+- Relationships
 layout: memory
 schools:
   CC: 1999

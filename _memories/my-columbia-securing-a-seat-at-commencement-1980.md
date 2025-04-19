@@ -5,6 +5,12 @@ tags:
 - Low Library
 - Alma Mater
 - Commencement
+- Dorm life
+- Campus
+- Library
+- Study spots
+- Arts
+- Culture
 layout: memory
 schools:
   GSAS: 1980

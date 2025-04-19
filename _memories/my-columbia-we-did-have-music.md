@@ -3,6 +3,9 @@ title: 'My Columbia: We Did Have Music!'
 author: John T Herbert
 tags:
 - Ferris Booth
+- Dorm life
+- Campus
+- Music
 layout: memory
 schools:
   PS: 1973

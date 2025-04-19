@@ -3,6 +3,12 @@ title: 'My Columbia: My "Artsy" Experience'
 author: William  Hooper
 tags:
 - Ferris Booth
+- Dorm life
+- Campus
+- Academics
+- Arts
+- Culture
+- Music
 layout: memory
 schools:
   BUS: 1974

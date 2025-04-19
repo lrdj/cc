@@ -3,6 +3,8 @@ title: 'My Columbia: A Just Education'
 author: Asher Rubin
 tags:
 - Barnard
+- Dorm life
+- Campus
 layout: memory
 schools:
   CC: 1958

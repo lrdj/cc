@@ -5,6 +5,9 @@ layout: memory
 schools:
   GS: 1954
 primary_year: 1954
+tags:
+- Arts
+- Culture
 ---
 # my favorite text book
 

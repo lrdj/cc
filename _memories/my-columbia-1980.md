@@ -3,6 +3,10 @@ title: 'My Columbia: 1980'
 author: May  Kesler
 tags:
 - St. Paul's Chapel
+- Spirituality
+- Religion
+- Music
+- Relationships
 layout: memory
 schools:
   PPT: 1982

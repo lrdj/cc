@@ -5,6 +5,11 @@ tags:
 - Furnald Hall
 - East Campus
 - Columbia College
+- Dorm life
+- Campus
+- Sports
+- Athletics
+- Music
 layout: memory
 schools:
   GSAS: 1980

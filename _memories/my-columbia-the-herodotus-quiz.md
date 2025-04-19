@@ -3,6 +3,9 @@ title: 'My Columbia: The Herodotus Quiz'
 author: Christin Driscoll
 tags:
 - Butler Library
+- Campus
+- Library
+- Study spots
 layout: memory
 schools:
   SIPA: 1992

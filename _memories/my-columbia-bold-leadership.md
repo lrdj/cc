@@ -5,6 +5,7 @@ layout: memory
 schools:
   BUS: 1997
 primary_year: 1997
+tags: []
 ---
 # Bold Leadership
 

@@ -5,6 +5,13 @@ layout: memory
 schools:
   CC: 2005
 primary_year: 2005
+tags:
+- Winter
+- Weather
+- Library
+- Study spots
+- Music
+- Relationships
 ---
 # Show Time
 

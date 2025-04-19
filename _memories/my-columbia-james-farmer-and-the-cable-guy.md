@@ -5,6 +5,9 @@ tags:
 - Spectator
 - WKCR
 - Hamilton Hall
+- Dorm life
+- Campus
+- Academics
 layout: memory
 schools:
   CC: 1963

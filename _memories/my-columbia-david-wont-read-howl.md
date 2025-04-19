@@ -5,6 +5,7 @@ layout: memory
 schools:
   GS: 2007
 primary_year: 2007
+tags: []
 ---
 # DAVID WON'T READ HOWL
 

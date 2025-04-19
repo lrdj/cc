@@ -3,6 +3,13 @@ title: 'My Columbia: How I Kept Warm'
 author: David Kenner
 tags:
 - Ruggles
+- Dorm life
+- Campus
+- Winter
+- Weather
+- Politics
+- Activism
+- Good trouble
 layout: memory
 schools:
   LAW: 1983

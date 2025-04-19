@@ -3,6 +3,13 @@ title: 'My Columbia: Boy Meets 616'
 author: Andrew Arnold
 tags:
 - Barnard
+- Campus
+- Academics
+- Library
+- Study spots
+- Food
+- Dining
+- Relationships
 layout: memory
 schools:
   CC: 2003

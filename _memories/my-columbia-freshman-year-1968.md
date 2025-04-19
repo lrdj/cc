@@ -3,6 +3,9 @@ title: 'My Columbia: Freshman Year 1968'
 author: Arthur Mehmel
 tags:
 - Hartley
+- Dorm life
+- Campus
+- Relationships
 layout: memory
 schools:
   CC: 1972

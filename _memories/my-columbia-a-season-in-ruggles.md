@@ -5,6 +5,12 @@ tags:
 - John Jay
 - Ruggles
 - Butler Library
+- Dorm life
+- Campus
+- Library
+- Study spots
+- Arts
+- Culture
 layout: memory
 schools:
   GSAS: 1980

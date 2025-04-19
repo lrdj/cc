@@ -5,6 +5,9 @@ layout: memory
 schools:
   SEAS: 1972
 primary_year: 1972
+tags:
+- Arts
+- Culture
 ---
 # Noise
 

@@ -5,6 +5,9 @@ layout: memory
 schools:
   CC: 1998
 primary_year: 1998
+tags:
+- Academics
+- Lectures
 ---
 # Professor Rice
 

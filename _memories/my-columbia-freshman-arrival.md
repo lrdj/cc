@@ -3,6 +3,7 @@ title: 'My Columbia: Freshman Arrival'
 author: Antonio Vinals
 tags:
 - John Jay
+- Academics
 layout: memory
 schools:
   CC: 1989

@@ -5,6 +5,7 @@ layout: memory
 schools:
   CC: 1970
 primary_year: 1970
+tags: []
 ---
 # Playoff
 

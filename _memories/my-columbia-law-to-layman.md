@@ -5,6 +5,11 @@ layout: memory
 schools:
   LAW: 1948
 primary_year: 1948
+tags:
+- Winter
+- Weather
+- Academics
+- Lectures
 ---
 # Law to Layman
 

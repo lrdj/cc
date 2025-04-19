@@ -6,6 +6,10 @@ schools:
   BC: 1998
   SPH: 2002
 primary_year: 2002
+tags:
+- Dorm life
+- Campus
+- Relationships
 ---
 # Pains and Pleasures of Dorm Life
 

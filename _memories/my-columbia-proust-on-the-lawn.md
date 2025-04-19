@@ -3,6 +3,12 @@ title: 'My Columbia: Proust on the Lawn'
 author: Arvin Levine
 tags:
 - Furnald Hall
+- Dorm life
+- Campus
+- Academics
+- Politics
+- Activism
+- Good trouble
 layout: memory
 schools:
   CC: 1971

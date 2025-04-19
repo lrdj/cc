@@ -5,6 +5,9 @@ tags:
 - Carman Hall
 - Columbia College
 - Barnard
+- Dorm life
+- Campus
+- Academics
 layout: memory
 schools:
   CC: 1986

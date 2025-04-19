@@ -3,6 +3,8 @@ title: 'My Columbia: An Arizona Columbia Wedding'
 author: Aylin Tashman
 tags:
 - John Jay
+- Academics
+- Relationships
 layout: memory
 schools:
   BUS: 2007

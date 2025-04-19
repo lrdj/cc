@@ -5,6 +5,10 @@ layout: memory
 schools:
   CC: 1986
 primary_year: 1986
+tags:
+- Campus
+- Spirituality
+- Religion
 ---
 # Campus Spirituality?
 

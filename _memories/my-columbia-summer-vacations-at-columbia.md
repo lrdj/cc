@@ -5,6 +5,8 @@ layout: memory
 schools:
   GSAPP: 2000
 primary_year: 2000
+tags:
+- Relationships
 ---
 # Summer Vacations at Columbia
 

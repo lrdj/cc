@@ -3,6 +3,8 @@ title: 'My Columbia: Oh, those wonderful dorms'
 author: Matt Yospin
 tags:
 - East Campus
+- Dorm life
+- Campus
 layout: memory
 schools:
   CC: 1999

@@ -3,6 +3,16 @@ title: 'My Columbia: Timeless Meaning'
 author: Rich Koesel
 tags:
 - Core Curriculum
+- Religion
+- Spirituality
+- Academics
+- Library
+- Study spots
+- Arts
+- Culture
+- Relationships
+- Personal growth
+- Reflection
 layout: memory
 schools:
   CC: 1993

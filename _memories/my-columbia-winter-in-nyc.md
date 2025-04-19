@@ -5,6 +5,11 @@ layout: memory
 schools:
   JRN: 1981
 primary_year: 1981
+tags:
+- Winter
+- Weather
+- Arts
+- Culture
 ---
 # Winter in NYC
 

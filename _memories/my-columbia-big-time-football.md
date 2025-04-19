@@ -5,6 +5,10 @@ layout: memory
 schools:
   BUS: 1977
 primary_year: 1977
+tags:
+- Sports
+- Athletics
+- Relationships
 ---
 # Big Time Football
 

@@ -6,6 +6,11 @@ schools:
   GSAS: 1959
   SEAS: 1959
 primary_year: 1959
+tags:
+- Academics
+- Library
+- Study spots
+- Music
 ---
 # Sound from the Depths of Philosophy
 

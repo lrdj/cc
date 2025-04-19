@@ -5,6 +5,11 @@ layout: memory
 schools:
   GSAS: 1937
 primary_year: 1937
+tags:
+- Academics
+- Arts
+- Culture
+- Relationships
 ---
 # When Fruit Fly Genetics Only Cost a Nickel
 

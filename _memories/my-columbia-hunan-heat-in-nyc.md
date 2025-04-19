@@ -5,6 +5,9 @@ layout: memory
 schools:
   LS: 1971
 primary_year: 1971
+tags:
+- Dorm life
+- Campus
 ---
 # Hunan Heat in NYC
 

@@ -5,6 +5,13 @@ layout: memory
 schools:
   CC: 1990
 primary_year: 1990
+tags:
+- Campus
+- Sports
+- Athletics
+- Abroad
+- Travel
+- Relationships
 ---
 # Best Sports Event I Saw
 

@@ -4,6 +4,13 @@ title: 'My Columbia: Wien Hall, Tacos, and a Toilet: One Year in the 11th-floor 
 author: Hilary Weckstein
 tags:
 - Wien Hall
+- Dorm life
+- Campus
+- Politics
+- Activism
+- Good trouble
+- Personal growth
+- Reflection
 layout: memory
 schools:
   CC: 2002

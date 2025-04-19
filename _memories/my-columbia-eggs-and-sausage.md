@@ -3,6 +3,9 @@ title: 'My Columbia: Eggs and Sausage'
 author: Andrew D'Amico
 tags:
 - College Walk
+- Winter
+- Weather
+- Relationships
 layout: memory
 schools:
   CC: 1977

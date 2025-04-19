@@ -4,6 +4,8 @@ author: Steven Stastny
 tags:
 - Ferris Booth
 - Carman
+- Dorm life
+- Campus
 layout: memory
 schools:
   CC: 1988

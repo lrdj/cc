@@ -6,6 +6,16 @@ schools:
   GSAS: 2001
   CC: 1998
 primary_year: 2001
+tags:
+- Dorm life
+- Campus
+- Academics
+- Lectures
+- Library
+- Study spots
+- Politics
+- Activism
+- Good trouble
 ---
 # Trying to Study
 

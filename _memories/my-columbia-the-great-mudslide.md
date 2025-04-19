@@ -4,6 +4,8 @@ author: joseph graif
 tags:
 - Hartley
 - Wallach
+- Sports
+- Athletics
 layout: memory
 schools:
   BUS: 1978

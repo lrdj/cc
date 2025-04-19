@@ -5,6 +5,12 @@ layout: memory
 schools:
   LS: 1957
 primary_year: 1957
+tags:
+- Dorm life
+- Campus
+- Spirituality
+- Religion
+- Relationships
 ---
 # Sunday mornings at Columbia Chapel
 

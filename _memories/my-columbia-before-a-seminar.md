@@ -3,6 +3,10 @@ title: 'My Columbia: Before a Seminar'
 author: Katherine James
 tags:
 - Butler Library
+- Academics
+- Lectures
+- Library
+- Study spots
 layout: memory
 schools:
   SOA: 2006

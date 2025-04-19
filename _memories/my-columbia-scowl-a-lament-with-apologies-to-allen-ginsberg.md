@@ -3,6 +3,14 @@ title: 'My Columbia: Scowl (A Lament, with Apologies to Allen Ginsberg)'
 author: David  Gawarecki
 tags:
 - Columbia College
+- Dorm life
+- Campus
+- Winter
+- Weather
+- Academics
+- Politics
+- Activism
+- Good trouble
 layout: memory
 schools:
   CC: 1975

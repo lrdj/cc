@@ -5,6 +5,9 @@ layout: memory
 schools:
   CC: 1992
 primary_year: 1992
+tags:
+- Library
+- Study spots
 ---
 # Orgo Night
 

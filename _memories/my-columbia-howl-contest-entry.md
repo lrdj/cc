@@ -6,6 +6,10 @@ schools:
   CC: 1991
   GSAS: 1998
 primary_year: 1998
+tags:
+- Politics
+- Activism
+- Good trouble
 ---
 # Howl Contest Entry
 

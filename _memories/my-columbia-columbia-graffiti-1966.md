@@ -5,6 +5,9 @@ layout: memory
 schools:
   SEAS: 1969
 primary_year: 1969
+tags:
+- Library
+- Study spots
 ---
 # Columbia Graffiti, 1966
 

@@ -4,6 +4,10 @@ author: Andrew Fisher
 tags:
 - WKCR
 - Ferris Booth
+- Dorm life
+- Campus
+- Sports
+- Athletics
 layout: memory
 schools:
   CC: 1965

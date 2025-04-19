@@ -3,6 +3,8 @@ title: 'My Columbia: Eclipse'
 author: Walter Ebmeyer
 tags:
 - Butler Library
+- Library
+- Study spots
 layout: memory
 schools:
   LS: 1973

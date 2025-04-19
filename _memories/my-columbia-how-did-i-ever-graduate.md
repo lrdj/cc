@@ -3,6 +3,8 @@ title: 'My Columbia: How Did I Ever Graduate?!'
 author: Ruth Mullen
 tags:
 - Mudd
+- Dorm life
+- Campus
 layout: memory
 schools:
   GSAS: 1977

@@ -3,6 +3,10 @@ title: 'My Columbia: A Perfect Match Made in the Dormitory'
 author: Adam Bender
 tags:
 - Carman Hall
+- Dorm life
+- Campus
+- Arts
+- Culture
 layout: memory
 schools:
   CC: 1964

@@ -3,6 +3,15 @@ title: 'My Columbia: AN ORIGINAL SAM'
 author: Dan Alexander
 tags:
 - Low Library
+- Campus
+- Academics
+- Lectures
+- Library
+- Study spots
+- Music
+- Politics
+- Activism
+- Good trouble
 layout: memory
 schools:
   SEAS: 1972

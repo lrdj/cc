@@ -5,6 +5,8 @@ layout: memory
 schools:
   SW: 1997
 primary_year: 1997
+tags:
+- Music
 ---
 # Social Work Meets Jazz in Manhattan
 

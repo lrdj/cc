@@ -5,6 +5,8 @@ layout: memory
 schools:
   GSAS: 1977
 primary_year: 1977
+tags:
+- Academics
 ---
 # Pre-Meds Are Scary
 

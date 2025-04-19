@@ -3,6 +3,12 @@ title: 'My Columbia: Perfect Columbia Day'
 author: Rod Allee
 tags:
 - Avery Hall
+- Dorm life
+- Campus
+- Academics
+- Politics
+- Activism
+- Good trouble
 layout: memory
 schools:
   GSAS: 1997

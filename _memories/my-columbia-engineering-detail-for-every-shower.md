@@ -5,6 +5,9 @@ layout: memory
 schools:
   SEAS: 1968
 primary_year: 1968
+tags:
+- Academics
+- Lectures
 ---
 # Engineering Detail for Every Shower
 

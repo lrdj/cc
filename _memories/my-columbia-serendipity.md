@@ -5,6 +5,11 @@ tags:
 - Spectator
 - The West End
 - Hungarian Pastry Shop
+- Arts
+- Culture
+- Food
+- Dining
+- Relationships
 layout: memory
 schools:
   CC: 2004

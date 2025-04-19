@@ -6,6 +6,11 @@ schools:
   SEAS: 1968
   CC: 1964
 primary_year: 1968
+tags:
+- Dorm life
+- Campus
+- Academics
+- Relationships
 ---
 # Livingston Hall: All Three Varieties
 

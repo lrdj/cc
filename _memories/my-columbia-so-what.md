@@ -3,6 +3,10 @@ title: 'My Columbia: So What'
 author: Matthew Susman
 tags:
 - The West End
+- Campus
+- Music
+- Arts
+- Culture
 layout: memory
 schools:
   CC: 1979

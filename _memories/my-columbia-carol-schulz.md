@@ -3,6 +3,7 @@ title: 'My Columbia: Carol Schulz'
 author: Douglas Lee
 tags:
 - Columbia College
+- Campus
 layout: memory
 schools:
   LAW: 1992

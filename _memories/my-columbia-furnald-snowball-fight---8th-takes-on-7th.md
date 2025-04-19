@@ -3,6 +3,14 @@ title: 'My Columbia: Furnald Snowball Fight - 8th takes on 7th'
 author: Robert Muirhead
 tags:
 - Barnard
+- Dorm life
+- Campus
+- Winter
+- Weather
+- Academics
+- Politics
+- Activism
+- Good trouble
 layout: memory
 schools:
   CC: 1978

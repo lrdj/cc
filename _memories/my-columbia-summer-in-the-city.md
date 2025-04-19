@@ -6,6 +6,18 @@ schools:
   JRN: 1972
   LAW: 1976
 primary_year: 1976
+tags:
+- Academics
+- Lectures
+- Library
+- Study spots
+- Arts
+- Culture
+- Food
+- Dining
+- Politics
+- Activism
+- Good trouble
 ---
 # Summer in the City
 

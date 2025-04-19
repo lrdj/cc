@@ -5,6 +5,7 @@ layout: memory
 schools:
   CC: 1996
 primary_year: 1996
+tags: []
 ---
 # The DJ Stretch Armstrong Show Featuring Bobbito the Barber
 

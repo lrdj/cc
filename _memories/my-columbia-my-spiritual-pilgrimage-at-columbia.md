@@ -5,6 +5,12 @@ layout: memory
 schools:
   SEAS: 1951
 primary_year: 1951
+tags:
+- Spirituality
+- Religion
+- Academics
+- Lectures
+- Relationships
 ---
 # My Spiritual Pilgrimage at Columbia
 

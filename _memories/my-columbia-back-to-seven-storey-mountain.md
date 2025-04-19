@@ -3,6 +3,10 @@ title: 'My Columbia: Back to "Seven Storey Mountain"'
 author: Martha Delano
 tags:
 - Barnard
+- Spirituality
+- Religion
+- Arts
+- Culture
 layout: memory
 schools:
   TC: 1959

@@ -5,6 +5,11 @@ layout: memory
 schools:
   GSAS: 1974
 primary_year: 1974
+tags:
+- Dorm life
+- Campus
+- Library
+- Study spots
 ---
 # A Perfect Columbia Day
 

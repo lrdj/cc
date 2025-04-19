@@ -5,6 +5,10 @@ layout: memory
 schools:
   CC: 1963
 primary_year: 1963
+tags:
+- Campus
+- Academics
+- Relationships
 ---
 # The Lesson of the Wrong Train
 

@@ -5,6 +5,11 @@ layout: memory
 schools:
   LS: 1968
 primary_year: 1968
+tags:
+- Campus
+- Academics
+- Library
+- Study spots
 ---
 # Documents to the People
 

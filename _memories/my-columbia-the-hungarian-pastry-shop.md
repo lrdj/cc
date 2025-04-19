@@ -5,6 +5,14 @@ tags:
 - Columbia College
 - Hamilton Hall
 - Hungarian Pastry Shop
+- Dorm life
+- Campus
+- Academics
+- Library
+- Study spots
+- Food
+- Dining
+- Relationships
 layout: memory
 schools:
   LAW: 1996

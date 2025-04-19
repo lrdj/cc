@@ -5,6 +5,7 @@ layout: memory
 schools:
   CC: 1990
 primary_year: 1990
+tags: []
 ---
 # The Time of My Life: Fraternity Pre-Initiation
 

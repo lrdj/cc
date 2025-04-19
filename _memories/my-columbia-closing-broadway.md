@@ -6,6 +6,11 @@ schools:
   BUS: 1998
   BC: 1991
 primary_year: 1998
+tags:
+- Sports
+- Athletics
+- Arts
+- Culture
 ---
 # Closing Broadway
 

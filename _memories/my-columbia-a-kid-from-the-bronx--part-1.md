@@ -1,20 +1,21 @@
 ---
-title: "My Columbia: A Kid from the Bronx—Part 1"
-author: Daniel Freeman
+title: "My Columbia: A Kid from the Bronx\u2014Part\_1"
+author: "Daniel\_Freeman"
 tags:
-  - Core Curriculum
-  - The West End
-
+- Core Curriculum
+- The West End
+- Campus
+- Academics
+- Politics
+- Activism
+- Good trouble
 schools:
   GSAS: 1982
-  CC:   1956
-  GS:   1976
-
+  CC: 1956
+  GS: 1976
 primary_year: 1982
-
 layout: memory
 ---
-
 # A Kid from the Bronx--Part 1
 
 I arrived at the College in September 1952.  At that time, a large percentage of Columbia "Men" (remember those dark days before women were admitted?) lived at home in the city or nearby suburbs and commuted to campus.  It didn't take very long for me to get from the northeast Bronx to Morningside everyday--only about an hour and a quarter.

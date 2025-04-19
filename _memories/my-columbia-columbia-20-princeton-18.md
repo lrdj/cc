@@ -3,6 +3,9 @@ title: 'My Columbia: Columbia 20, Princeton 18'
 author: Bob Levine
 tags:
 - Homecoming
+- Campus
+- Sports
+- Athletics
 layout: memory
 schools:
   CC: 1968

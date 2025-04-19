@@ -5,6 +5,9 @@ layout: memory
 schools:
   GSAS: 1962
 primary_year: 1962
+tags:
+- Arts
+- Culture
 ---
 # A Book by Lionel Trilling
 

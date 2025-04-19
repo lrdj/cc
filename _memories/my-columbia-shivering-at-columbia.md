@@ -5,6 +5,17 @@ tags:
 - John Jay
 - College Walk
 - The West End
+- Dorm life
+- Campus
+- Winter
+- Weather
+- Academics
+- Arts
+- Culture
+- Politics
+- Activism
+- Good trouble
+- Relationships
 layout: memory
 schools:
   CC: 2003

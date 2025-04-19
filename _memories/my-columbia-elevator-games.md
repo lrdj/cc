@@ -5,6 +5,7 @@ layout: memory
 schools:
   CC: 1969
 primary_year: 1969
+tags: []
 ---
 # Elevator Games
 

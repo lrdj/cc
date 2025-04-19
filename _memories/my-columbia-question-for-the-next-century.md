@@ -5,6 +5,10 @@ layout: memory
 schools:
   CC: 1960
 primary_year: 1960
+tags:
+- Politics
+- Activism
+- Good trouble
 ---
 # Question for the next century
 

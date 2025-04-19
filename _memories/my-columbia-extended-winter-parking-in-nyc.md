@@ -5,6 +5,10 @@ layout: memory
 schools:
   SIPA: 1996
 primary_year: 1996
+tags:
+- Winter
+- Weather
+- Academics
 ---
 # Extended Winter Parking in NYC
 

@@ -3,6 +3,9 @@ title: 'My Columbia: The Lectures'
 author: Malena Jackson
 tags:
 - Alma Mater
+- Campus
+- Academics
+- Lectures
 layout: memory
 schools:
   JRN: 2005

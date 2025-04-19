@@ -5,6 +5,14 @@ layout: memory
 schools:
   JRN: 1967
 primary_year: 1967
+tags:
+- Academics
+- Lectures
+- Arts
+- Culture
+- Abroad
+- Travel
+- Relationships
 ---
 # The Everlasting Year
 

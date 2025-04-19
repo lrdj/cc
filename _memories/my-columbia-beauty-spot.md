@@ -5,6 +5,8 @@ layout: memory
 schools:
   SEAS: 1940
 primary_year: 1940
+tags:
+- Campus
 ---
 # Beauty Spot
 

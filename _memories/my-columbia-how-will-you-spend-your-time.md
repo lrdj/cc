@@ -5,6 +5,9 @@ layout: memory
 schools:
   BUS: 1985
 primary_year: 1985
+tags:
+- Academics
+- Relationships
 ---
 # How Will You Spend Your Time?
 

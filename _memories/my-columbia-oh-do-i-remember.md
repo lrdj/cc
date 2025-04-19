@@ -4,6 +4,11 @@ author: joseph dorinson
 tags:
 - Columbia College
 - Columbia College Fund
+- Academics
+- Politics
+- Activism
+- Good trouble
+- Relationships
 layout: memory
 schools:
   CC: 1958

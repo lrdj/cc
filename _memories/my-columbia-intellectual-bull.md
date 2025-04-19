@@ -5,6 +5,8 @@ layout: memory
 schools:
   CC: 1947
 primary_year: 1947
+tags:
+- Academics
 ---
 # Intellectual Bull
 

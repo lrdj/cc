@@ -7,6 +7,24 @@ tags:
 - Mudd
 - Symposium
 - 1980s
+- Dorm life
+- Campus
+- Winter
+- Weather
+- Academics
+- Lectures
+- Library
+- Study spots
+- Arts
+- Culture
+- Abroad
+- Travel
+- Politics
+- Activism
+- Good trouble
+- Relationships
+- Personal growth
+- Reflection
 layout: memory
 schools:
   SEAS: 1964

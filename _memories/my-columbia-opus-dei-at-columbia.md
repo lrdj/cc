@@ -3,6 +3,11 @@ title: 'My Columbia: Opus Dei at Columbia'
 author: Joseph Babendreier
 tags:
 - Contemporary Civilization
+- Dorm life
+- Campus
+- Academics
+- Library
+- Study spots
 layout: memory
 schools:
   SEAS: 1976

@@ -5,6 +5,11 @@ layout: memory
 schools:
   SW: 1986
 primary_year: 1986
+tags:
+- Academics
+- Library
+- Study spots
+- Relationships
 ---
 # The first day of class
 

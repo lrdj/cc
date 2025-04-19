@@ -3,6 +3,11 @@ title: 'My Columbia: Financial Aid:  Thanks, `55'
 author: Andrew Fisher
 tags:
 - Reunion
+- Dorm life
+- Campus
+- Academics
+- Sports
+- Athletics
 layout: memory
 schools:
   CC: 1965

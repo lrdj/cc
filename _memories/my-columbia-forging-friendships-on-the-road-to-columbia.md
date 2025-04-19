@@ -3,6 +3,9 @@ title: 'My Columbia: Forging Friendships on the Road to Columbia'
 author: Laurie Garda
 tags:
 - Mudd
+- Dorm life
+- Campus
+- Relationships
 layout: memory
 schools:
   SEAS: 1987

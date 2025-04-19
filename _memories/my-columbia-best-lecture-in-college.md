@@ -6,6 +6,11 @@ schools:
   CC: 1973
   JRN: 1976
 primary_year: 1976
+tags:
+- Academics
+- Lectures
+- Library
+- Study spots
 ---
 # Best Lecture in College
 

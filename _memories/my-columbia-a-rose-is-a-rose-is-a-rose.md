@@ -3,6 +3,7 @@ title: 'My Columbia: A Rose Is a Rose Is a Rose'
 author: Arnold Wasserman
 tags:
 - Barnard
+- Academics
 layout: memory
 schools:
   CC: 1947

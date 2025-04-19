@@ -5,6 +5,17 @@ layout: memory
 schools:
   GSAS: 1969
 primary_year: 1969
+tags:
+- Dorm life
+- Campus
+- Spirituality
+- Religion
+- Academics
+- Lectures
+- Politics
+- Activism
+- Good trouble
+- Relationships
 ---
 # Religion at Columbia
 

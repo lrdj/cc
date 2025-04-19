@@ -4,6 +4,19 @@ author: Patrick Holder
 tags:
 - Low Library
 - Alma Mater
+- Campus
+- Winter
+- Weather
+- Library
+- Study spots
+- Sports
+- Athletics
+- Food
+- Dining
+- Politics
+- Activism
+- Good trouble
+- Relationships
 layout: memory
 schools:
   CC: 2003

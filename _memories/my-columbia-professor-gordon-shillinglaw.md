@@ -5,6 +5,9 @@ layout: memory
 schools:
   BUS: 1964
 primary_year: 1964
+tags:
+- Academics
+- Relationships
 ---
 # Professor Gordon Shillinglaw
 

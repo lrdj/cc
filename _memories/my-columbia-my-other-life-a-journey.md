@@ -4,6 +4,10 @@ author: Ingrid Magnani
 tags:
 - John Jay
 - SEAS
+- Dorm life
+- Campus
+- Academics
+- Relationships
 layout: memory
 schools:
   SEAS: 2001

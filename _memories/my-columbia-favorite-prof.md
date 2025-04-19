@@ -5,6 +5,8 @@ layout: memory
 schools:
   CC: 1987
 primary_year: 1987
+tags:
+- Academics
 ---
 # Favorite Prof
 

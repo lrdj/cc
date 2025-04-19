@@ -5,6 +5,13 @@ layout: memory
 schools:
   CC: 1976
 primary_year: 1976
+tags:
+- Academics
+- Lectures
+- Politics
+- Activism
+- Good trouble
+- Relationships
 ---
 # full circle
 

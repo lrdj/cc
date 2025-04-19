@@ -3,6 +3,8 @@ title: 'My Columbia: Life in NYC'
 author: Harold  Rosenholtz
 tags:
 - Butler Library
+- Library
+- Study spots
 layout: memory
 schools:
   GSAS: 1969

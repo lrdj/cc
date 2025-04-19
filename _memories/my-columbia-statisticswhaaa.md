@@ -5,6 +5,12 @@ layout: memory
 schools:
   SPH: 1997
 primary_year: 1997
+tags:
+- Academics
+- Politics
+- Activism
+- Good trouble
+- Relationships
 ---
 # Statistics...Whaaa?
 

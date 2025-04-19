@@ -5,6 +5,10 @@ layout: memory
 schools:
   NRS: 1970
 primary_year: 1970
+tags:
+- Winter
+- Weather
+- Relationships
 ---
 # Support in the Big City
 

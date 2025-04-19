@@ -5,6 +5,15 @@ layout: memory
 schools:
   CC: 1983
 primary_year: 1983
+tags:
+- Library
+- Study spots
+- Arts
+- Culture
+- Music
+- Food
+- Dining
+- Relationships
 ---
 # As La Rosita Goes, So Goes Morningside Heights
 

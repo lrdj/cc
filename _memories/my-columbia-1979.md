@@ -5,6 +5,9 @@ layout: memory
 schools:
   SEAS: 1983
 primary_year: 1983
+tags:
+- Dorm life
+- Campus
 ---
 # 1979
 

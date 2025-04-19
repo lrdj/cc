@@ -3,6 +3,15 @@ title: 'My Columbia: The Columbia Riots of 1968'
 author: Tom Williams
 tags:
 - Low Library
+- Campus
+- Library
+- Study spots
+- Food
+- Dining
+- Politics
+- Activism
+- Good trouble
+- Relationships
 layout: memory
 schools:
   GS: 1974

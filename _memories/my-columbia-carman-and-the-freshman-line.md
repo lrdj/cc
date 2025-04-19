@@ -3,6 +3,9 @@ title: 'My Columbia: Carman and the Freshman Line'
 author: David Shofi
 tags:
 - Carman Hall
+- Dorm life
+- Campus
+- Academics
 layout: memory
 schools:
   SEAS: 1988

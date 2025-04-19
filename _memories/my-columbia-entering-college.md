@@ -3,6 +3,10 @@ title: 'My Columbia: Entering College'
 author: Stan  Edelman
 tags:
 - Columbia College
+- Academics
+- Politics
+- Activism
+- Good trouble
 layout: memory
 schools:
   CC: 1949

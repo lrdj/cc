@@ -5,6 +5,9 @@ layout: memory
 schools:
   SEAS: 1988
 primary_year: 1988
+tags:
+- Sports
+- Athletics
 ---
 # Sports Glory
 

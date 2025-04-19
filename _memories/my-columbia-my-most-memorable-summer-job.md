@@ -6,6 +6,7 @@ schools:
   CC: 1953
   SEAS: 1954
 primary_year: 1954
+tags: []
 ---
 # My Most Memorable Summer Job
 

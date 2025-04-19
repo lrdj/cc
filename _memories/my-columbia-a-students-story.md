@@ -5,6 +5,10 @@ layout: memory
 schools:
   CC: 1951
 primary_year: 1951
+tags:
+- Spirituality
+- Religion
+- Academics
 ---
 # A Student's Story
 

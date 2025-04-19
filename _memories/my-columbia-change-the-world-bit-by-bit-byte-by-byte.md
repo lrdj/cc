@@ -6,6 +6,14 @@ schools:
   JRN: 1990
   BUS: 1990
 primary_year: 1990
+tags:
+- Academics
+- Politics
+- Activism
+- Good trouble
+- Relationships
+- Personal growth
+- Reflection
 ---
 # Change the World, Bit by Bit, Byte by Byte
 

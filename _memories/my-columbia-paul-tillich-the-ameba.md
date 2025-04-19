@@ -6,6 +6,9 @@ schools:
   PS: 1964
   CC: 1959
 primary_year: 1964
+tags:
+- Dorm life
+- Campus
 ---
 # Paul Tillich:  The Ameba
 

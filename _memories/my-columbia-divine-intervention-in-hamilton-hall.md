@@ -3,6 +3,9 @@ title: 'My Columbia: Divine Intervention in Hamilton Hall'
 author: Leonard Levine
 tags:
 - Hamilton Hall
+- Dorm life
+- Campus
+- Academics
 layout: memory
 schools:
   GSAS: 1976

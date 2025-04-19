@@ -5,6 +5,8 @@ layout: memory
 schools:
   PS: 1959
 primary_year: 1959
+tags:
+- Academics
 ---
 # Columbia on My Mind
 

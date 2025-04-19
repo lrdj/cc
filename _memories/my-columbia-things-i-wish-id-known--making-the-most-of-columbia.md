@@ -5,6 +5,13 @@ layout: memory
 schools:
   CC: 2003
 primary_year: 2003
+tags:
+- Academics
+- Arts
+- Culture
+- Relationships
+- Personal growth
+- Reflection
 ---
 # Things I Wish I'd Known--Making the Most of Columbia
 

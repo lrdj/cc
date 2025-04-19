@@ -5,6 +5,23 @@ layout: memory
 schools:
   GS: 1978
 primary_year: 1978
+tags:
+- Campus
+- Winter
+- Weather
+- Spirituality
+- Religion
+- Academics
+- Lectures
+- Library
+- Study spots
+- Arts
+- Culture
+- Abroad
+- Travel
+- Relationships
+- Personal growth
+- Reflection
 ---
 # Look Up
 

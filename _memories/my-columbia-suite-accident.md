@@ -5,6 +5,9 @@ layout: memory
 schools:
   GSAS: 1997
 primary_year: 1997
+tags:
+- Dorm life
+- Campus
 ---
 # Suite Accident
 

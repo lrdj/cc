@@ -5,6 +5,13 @@ layout: memory
 schools:
   CC: 1990
 primary_year: 1990
+tags:
+- Dorm life
+- Campus
+- Library
+- Study spots
+- Arts
+- Culture
 ---
 # Favorite Place (Not) to Study
 

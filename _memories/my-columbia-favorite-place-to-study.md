@@ -5,6 +5,12 @@ layout: memory
 schools:
   SDOS: 1961
 primary_year: 1961
+tags:
+- Winter
+- Weather
+- Library
+- Study spots
+- Music
 ---
 # Favorite Place to Study
 

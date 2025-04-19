@@ -5,6 +5,8 @@ layout: memory
 schools:
   CC: 1981
 primary_year: 1981
+tags:
+- Music
 ---
 # The Local Punk Scene
 

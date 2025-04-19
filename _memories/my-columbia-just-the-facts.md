@@ -5,6 +5,9 @@ layout: memory
 schools:
   LAW: 1965
 primary_year: 1965
+tags:
+- Academics
+- Relationships
 ---
 # Just the Facts
 

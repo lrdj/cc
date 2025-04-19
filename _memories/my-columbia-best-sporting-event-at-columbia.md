@@ -3,6 +3,8 @@ title: 'My Columbia: Best Sporting Event at Columbia'
 author: Eic Hirschhorn
 tags:
 - Barnard
+- Sports
+- Athletics
 layout: memory
 schools:
   LAW: 1968

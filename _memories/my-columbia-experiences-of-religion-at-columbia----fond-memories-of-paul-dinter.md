@@ -6,6 +6,9 @@ layout: memory
 schools:
   CC: 1989
 primary_year: 1989
+tags:
+- Religion
+- Spirituality
 ---
 # Experiences of Religion at Columbia -- Fond Memories of Paul Dinter
 

@@ -3,6 +3,11 @@ title: 'My Columbia: Bomb Squad'
 author: Ralph Scott
 tags:
 - Butler Library
+- Library
+- Study spots
+- Politics
+- Activism
+- Good trouble
 layout: memory
 schools:
   LS: 1970

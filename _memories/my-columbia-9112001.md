@@ -4,6 +4,8 @@ author: Steven Chao
 tags:
 - Wien Hall
 - East Campus
+- Dorm life
+- Campus
 layout: memory
 schools:
   CC: 2003

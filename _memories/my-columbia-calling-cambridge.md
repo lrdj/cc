@@ -3,6 +3,10 @@ title: 'My Columbia: Calling Cambridge'
 author: John Gaguine
 tags:
 - Carman Hall
+- Dorm life
+- Campus
+- Arts
+- Culture
 layout: memory
 schools:
   CC: 1969

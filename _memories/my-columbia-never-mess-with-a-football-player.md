@@ -3,6 +3,10 @@ title: 'My Columbia: Never Mess with a Football Player'
 author: Richard J. Roth
 tags:
 - Ferris Booth
+- Dorm life
+- Campus
+- Sports
+- Athletics
 layout: memory
 schools:
   CC: 1962

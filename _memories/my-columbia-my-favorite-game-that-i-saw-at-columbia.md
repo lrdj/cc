@@ -5,6 +5,11 @@ layout: memory
 schools:
   CC: 1950
 primary_year: 1950
+tags:
+- Sports
+- Athletics
+- Arts
+- Culture
 ---
 # My Favorite Game That I Saw at Columbia
 

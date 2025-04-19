@@ -5,6 +5,14 @@ layout: memory
 schools:
   SPH: 1997
 primary_year: 1997
+tags:
+- Dorm life
+- Campus
+- Winter
+- Weather
+- Politics
+- Activism
+- Good trouble
 ---
 # My Thesis or My Life
 

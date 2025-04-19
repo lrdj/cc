@@ -6,6 +6,9 @@ schools:
   CC: 1993
   GSAS: 2005
 primary_year: 2005
+tags:
+- Arts
+- Culture
 ---
 # Bookish
 

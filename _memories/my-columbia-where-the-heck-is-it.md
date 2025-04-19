@@ -3,6 +3,9 @@ title: 'My Columbia: Where the Heck Is It?'
 author: Bob  Lauterborn
 tags:
 - Hartley
+- Dorm life
+- Campus
+- Academics
 layout: memory
 schools:
   CC: 1956
