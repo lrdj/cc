@@ -4,13 +4,11 @@ author: Harold G.  Sullivan
 tags:
 - Furnald Hall
 - John Jay
-affiliations:
-- school: School of Engineering and Applied Science
-  class_year: 1958
-  role: Alum
 layout: memory
+schools:
+  SEAS: 1958
+primary_year: 1958
 ---
-
 # Arriving Early
 
 In the fall of 1956, a fellow student and I arrived at Colubmai as the first two students to attend engineering school on the Combined Plan from Hendrix College in Conway, Arkansas.  Neither of us had been out of Arkansas for any extensive travel.  We arrived at columbia with an idea of what an Ivy League university should look, so we were totally confused when we got out of the subway at 116th and Broaway.  By chance, we exited the mid-block exit downtown from 116th.  We really must have looked lost, because someone stopped and asked if they could help us find something.  We said we were looking for Columbia University, and all we saw were tall buildings.  They pointed us to the 116th Street entrance.

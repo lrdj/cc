@@ -1,16 +1,12 @@
 ---
 title: 'My Columbia: The Teacher Who Changed My Life'
 author: Charles Plotz
-affiliations:
-- school: College of Physicians and Surgeons
-  class_year: 1951
-  role: Alum
-- school: Columbia College
-  class_year: 1941
-  role: Alum
 layout: memory
+schools:
+  PS: 1951
+  CC: 1941
+primary_year: 1951
 ---
-
 # The Teacher Who Changed My Life
 
 It was unlikely that I, a solidly pre-medical student from a solidly medical family (father was P&S '00) would be impressed by a distinguished professor of philosophy.  Yet it was James Gutmann who introduced this little kid (youngest in the class) to thought for its own sake and particularly to Plato and Saint Paul.  Gutmann, although he knew I was committed to medicine, perhaps because he knew that, made sure that a thinking person, introduced to the great philosophers, would be a better scientist.

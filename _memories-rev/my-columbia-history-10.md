@@ -1,16 +1,11 @@
 ---
 title: 'My Columbia: History 10'
 author: Neil  Cowan
-affiliations:
-- school: School of General Studies
-  class_year: 1960
-  role: Alum
-- school: School of General Studies
-  class_year: 1960
-  role: Alum
 layout: memory
+schools:
+  GS: 1960
+primary_year: 1960
 ---
-
 # History 10
 
 Professor Bernhardt was teaching the second course in the basic American history course, which I loved with a passion.  He assigned the students to write book reviews, and mine was James McGregor Burns's (I hope I have this right?) Roosevelt: The Lion and the Fox.

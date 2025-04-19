@@ -1,16 +1,12 @@
 ---
 title: 'My Columbia: Sound from the Depths of Philosophy'
 author: Winston Nelson
-affiliations:
-- school: Graduate School of Arts and Sciences
-  class_year: 1959
-  role: Alum
-- school: School of Engineering and Applied Science
-  class_year: 1959
-  role: Alum
 layout: memory
+schools:
+  GSAS: 1959
+  SEAS: 1959
+primary_year: 1959
 ---
-
 # Sound from the Depths of Philosophy
 
 I had come to Columbia in 1950 on a research fellowship in the Electrical Engineering Dept. My sponsor was Prof. Harvey Fletcher, who had recently retired as director of research at Bell Labs. He was organizing a study program in acoustics and electronic sound production in the EE Dept. and had brought from Bell Labs the stereophonic sound system used in 1933 for the first high- quality stereophonic music recording to be broadcast over telephone lines from Philadelphia to Washington, DC. The equipment from this demonstration consisted of a four-track optical film-reader machine, three banks of Western Electric pre-amps and power amplifiers and three banks of speakers with huge 5x5x5 foot folded-horn bass speakers and three 3x4 arrays of mid & high range speakers.

@@ -1,16 +1,11 @@
 ---
 title: 'My Columbia: The Return of Mario Salvadori'
 author: Roch  Baamonde
-affiliations:
-- school: School of Engineering and Applied Science
-  class_year: 1982
-  role: Alum
-- school: School of Engineering and Applied Science
-  class_year: 1988
-  role: Alum
 layout: memory
+schools:
+  SEAS: 1988
+primary_year: 1988
 ---
-
 # The Return of Mario Salvadori
 
 In 1978, all engineering freshmen were required to attend a once-a-week engineering overview lecture.  The professor was Mario Salvadori, who was prompted to "un-retire" for this class.

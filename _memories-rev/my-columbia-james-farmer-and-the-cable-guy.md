@@ -5,13 +5,11 @@ tags:
 - Spectator
 - WKCR
 - Hamilton Hall
-affiliations:
-- school: Columbia College
-  class_year: 1963
-  role: Alum
 layout: memory
+schools:
+  CC: 1963
+primary_year: 1963
 ---
-
 # James Farmer and the Cable Guy
 
 In senior year I arranged for James Farmer, head of the Congress of Racial Equality (CORE), to speak at Columbia.  I reserved a large corner room in Hamilton Hall, infomed "Spectator" and WKCR, and put up flyers.   WKCR requested permission to record the address for subsequent broadcast.  I checked with CORE, and told WKCR that would be fine.

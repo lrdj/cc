@@ -5,16 +5,12 @@ tags:
 - Columbia College
 - Spectator
 - Varsity Show
-affiliations:
-- school: College of Physicians and Surgeons
-  class_year: 1953
-  role: Alum
-- school: Columbia College
-  class_year: 1949
-  role: Alum
 layout: memory
+schools:
+  PS: 1953
+  CC: 1949
+primary_year: 1953
 ---
-
 # Envious Regrets
 
 I went through the college as a young 16 year old, still living at home in Washington Heights, focused on a pre-med education and adolescent socialization. I helped out on the Columbia Review, wrote humerous poems for the Spectator under the pseudonym of "jog," was a "manager" of the baseball team (for which I won my letter C), and got to know the football stars. In the last position, I kept the score of the Yale game once and wrote in a left-handed first baseman for Yale named George H. Bush.

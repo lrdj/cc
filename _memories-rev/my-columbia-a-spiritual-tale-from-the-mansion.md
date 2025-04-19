@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: A Spiritual Tale from the Mansion'
 author: Sara  Nordholm Brown
-affiliations:
-- school: School of Social Work
-  class_year: 1963
-  role: Alum
 layout: memory
+schools:
+  SW: 1963
+primary_year: 1963
 ---
-
 # A Spiritual Tale from the Mansion
 
 I started Columbia School of Social Work as a newly married, college graduate from Minnesota.  The challenges of living in the city, starting graduate school, and married life were exciting and amazing.  Learning to work with the poor and hurting populatons in the Richmans House two days a week, and then going to State Island Department of Human Services three days a week for my practicum  was a spiritual experience for me.  The day that President Kennedy was killed our class was in shock.  My teacher wept with us, and when I saw him again 25 years later at a conference we remembered this experience together and wept again.

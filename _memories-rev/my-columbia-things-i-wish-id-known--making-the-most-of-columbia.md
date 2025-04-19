@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: Things I Wish I''d Known--Making the Most of Columbia'
 author: Diana Flynn
-affiliations:
-- school: Columbia College
-  class_year: 2003
-  role: Alum
 layout: memory
+schools:
+  CC: 2003
+primary_year: 2003
 ---
-
 # Things I Wish I'd Known--Making the Most of Columbia
 
 Overall, I've found my Columbia education -- liberal arts impracticality and all -- to be invaluable.  I look at a movie, a building, a worm dying on the ground and I know what it has to do with fifteenth-century Japanese import laws or plate tectonics or hope and death in human existence.

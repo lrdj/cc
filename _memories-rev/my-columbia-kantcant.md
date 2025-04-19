@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: Kant/Can''t'
 author: Diana  Jividen
-affiliations:
-- school: School of General Studies
-  class_year: 1975
-  role: Alum
 layout: memory
+schools:
+  GS: 1975
+primary_year: 1975
 ---
-
 # Kant/Can't
 
 This is not a student comment, but a funny professor comment.

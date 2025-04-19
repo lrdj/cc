@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: Best Teacher'
 author: Stephen Page
-affiliations:
-- school: School of General Studies
-  class_year: 1997
-  role: Alum
 layout: memory
+schools:
+  GS: 1997
+primary_year: 1997
 ---
-
 # Best Teacher
 
 Colette Inez.

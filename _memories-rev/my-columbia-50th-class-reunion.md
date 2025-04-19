@@ -4,13 +4,11 @@ author: Stan Edelman
 tags:
 - Columbia College
 - Reunion
-affiliations:
-- school: Columbia College
-  class_year: 1999
-  role: Alum
 layout: memory
+schools:
+  CC: 1999
+primary_year: 1999
 ---
-
 # 50th Class Reunion
 
 On May 18-19, 1999, the Class of 1949 celebrated our 50th graduation ceremony. On May 18, 1999, I was nominated to give out the 1999 graduation pins to all the seniors of the graduating class of 1999 on the dais.

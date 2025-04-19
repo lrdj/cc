@@ -4,13 +4,11 @@ author: Thomas Wm. Hamilton
 tags:
 - Barnard
 - WKCR
-affiliations:
-- school: Columbia College
-  class_year: 1960
-  role: Alum
 layout: memory
+schools:
+  CC: 1960
+primary_year: 1960
 ---
-
 # Where to Hang Out
 
 I had three hangs-outs during my time at Columbia.  My favorite was WKCR's lounge, as my Barnard girlfriend did a classical music show there, and I could count on her showing up a lot of the time.  Beyond that, I had friends there, and it was reasonably peaceful since too much noise would have disrupted whatever was airing.

@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: Sledding on the Lowe Steps'
 author: Matthew Yospin
-affiliations:
-- school: Columbia College
-  class_year: 1998
-  role: Alum
 layout: memory
+schools:
+  CC: 1998
+primary_year: 1998
 ---
-
 # Sledding on the Lowe Steps
 
 How we kept warm in the winter: we would borrow lunch trays from the cafetorium when we got a good snow, and sled down the Steps.  It was  fun, and challenging.  Those trays don't offer much of a handhold.  That was the winter part -- the keeping warm came from charging back up the steps.  That, and snowball fighting and wrestling.

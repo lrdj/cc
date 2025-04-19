@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: My Favorite Game That I Saw at Columbia'
 author: Arthur L. Thomas
-affiliations:
-- school: Columbia College
-  class_year: 1950
-  role: Alum
 layout: memory
+schools:
+  CC: 1950
+primary_year: 1950
 ---
-
 # My Favorite Game That I Saw at Columbia
 
 In the late 1940s, Columbia played Army in football at Baker Field. Army had a formidable team and was expected to make quick work of Columbia. Army also had two teams, I believe, an offensive team and a defensive team. This was the beginning of the era of two groups playing football for a college. Columbia had, it seems, only one team with a few reserves, if I remember correctly. Gene Rossides played quarterback. Bill Swiacki played an end. At the half Army may have led by 20-14. The cadets pulled out their white handkerchiefs and waved them. Late in the game Gene Rossides threw a pass to Bill Swiacki that set the stage for Columbia to win 21-20. Bill Swiacki made an incredible catch labelled the "shoestring" catch. There was electricity in the air that day. The Columbia win was a tremendous tribute to the human spirit.

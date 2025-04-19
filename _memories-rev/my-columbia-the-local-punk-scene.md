@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: The Local Punk Scene'
 author: Roger Keller
-affiliations:
-- school: Columbia College
-  class_year: 1981
-  role: Alum
 layout: memory
+schools:
+  CC: 1981
+primary_year: 1981
 ---
-
 # The Local Punk Scene
 
 When I first arrived at Columbia, I was put on the fencing "jock" floor because I was going to be on the fencing team.  I was not a jock.  After first playing clarinet with the marching band, I finally found my freedom and my survival in music.  In the late 70's, the punk scene was exploding at Columbia.  The years at Columbia were rough, and I know I would not have survived if it hadn't been for rock 'n roll.  We were driving with my son years later and thanking Jesus for different things and my son must have caught an echo of my Columbia years becasue he said, "thank you, Jesus, for rock n' roll."

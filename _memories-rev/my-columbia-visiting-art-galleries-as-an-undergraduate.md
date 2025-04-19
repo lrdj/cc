@@ -3,13 +3,11 @@ title: 'My Columbia: Visiting Art Galleries as an Undergraduate'
 author: Doug Anderson
 tags:
 - Columbia College
-affiliations:
-- school: Columbia College
-  class_year: 1963
-  role: Alum
 layout: memory
+schools:
+  CC: 1963
+primary_year: 1963
 ---
-
 # Visiting Art Galleries as an Undergraduate
 
 Columbia College in the City of New York was the way it was put to us.  New York City is a great resource for Columbia students, and as a college student majoring in art history, I haunted the galleries.

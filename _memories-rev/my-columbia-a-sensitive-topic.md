@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: A Sensitive Topic'
 author: Alison Jordan
-affiliations:
-- school: School of General Studies
-  class_year: 1970
-  role: Alum
 layout: memory
+schools:
+  GS: 1970
+primary_year: 1970
 ---
-
 # A Sensitive Topic
 
 While studying anthropology at Columbia University I learned to think.

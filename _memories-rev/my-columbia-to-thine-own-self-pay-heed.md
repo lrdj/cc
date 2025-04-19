@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: To Thine Own Self Pay Heed'
 author: Lawrence Chung
-affiliations:
-- school: School of Engineering and Applied Science
-  class_year: 1978
-  role: Alum
 layout: memory
+schools:
+  SEAS: 1978
+primary_year: 1978
 ---
-
 # To Thine Own Self Pay Heed
 
 If I could travel back in time to 1974 and translate my regrets into good counsel to my freshman self,  I would say go ahead and be a "grub."

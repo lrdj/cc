@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: Strange Library'
 author: Thomas Wm. Hamilton
-affiliations:
-- school: Columbia College
-  class_year: 1960
-  role: Alum
 layout: memory
+schools:
+  CC: 1960
+primary_year: 1960
 ---
-
 # Strange Library
 
 In 1958, I was taking American History with Prof. Henry Graff.  He assigned a term paper, which I decided to do on one of my favorite characters, Tom Paine.  I went to the library to read "Common Sense," and they handed me a thick volume, which I did not understand, since "Common Sense" is a thin pamphlet.  It turned out that the material I wanted was bound with three other Paine pamphlets, and his book, "Crimes of the Kings of France."

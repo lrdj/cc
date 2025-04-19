@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: My Thesis or My Life'
 author: Anthony Choe
-affiliations:
-- school: School of Public Health
-  class_year: 1997
-  role: Alum
 layout: memory
+schools:
+  SPH: 1997
+primary_year: 1997
 ---
-
 # My Thesis or My Life
 
 During graduate school, I lived on the 29th floor of Haven Tower 2 at the Health Sciences campus.  One winter morning, around 4am, one of my three apartment-mates burst into my bedroom and told me that there was a fire.

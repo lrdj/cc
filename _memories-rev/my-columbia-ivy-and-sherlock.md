@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: Ivy and Sherlock'
 author: james quattlebaum
-affiliations:
-- school: Graduate School of Arts and Sciences
-  class_year: 1961
-  role: Alum
 layout: memory
+schools:
+  GSAS: 1961
+primary_year: 1961
 ---
-
 # Ivy and Sherlock
 
 Arriving at Columbia from the south, I was curious about what "Ivy" might mean to me day-to-day. One thing I noticed quickly was that searches for referenced papers and books were essentially always successful.

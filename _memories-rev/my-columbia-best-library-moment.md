@@ -5,13 +5,11 @@ tags:
 - East Campus
 - Barnard
 - Butler Library
-affiliations:
-- school: School of Engineering and Applied Science
-  class_year: 1990
-  role: Alum
 layout: memory
+schools:
+  SEAS: 1990
+primary_year: 1990
 ---
-
 # Best Library Moment
 
 Sophomore year I was living with my ex-girlfriend and my best friend, Vince, in a 3-person suite in East Campus. It was close to mid-terms, and the tension in the suite was rising as exams got closer. The stress of exams and the uncomfortable nature of my living situation had really been bringing me down. The three of us had been avoiding each other, my ex and I for obvious reasons and Vince because he just couldn't take living with 2 friends that weren't talking much. The solution seemed to be studying in different places, something that we adopted somewhere mid-semester, prior to exams. My ex-girlfriend liked studying in the Law Library, Vince liked Butler Library, and I stayed in the suite.

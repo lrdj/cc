@@ -3,13 +3,11 @@ title: 'My Columbia: Southern Californian Not Ready for Real Cold'
 author: Mike Werthman
 tags:
 - Hamilton Hall
-affiliations:
-- school: Columbia College
-  class_year: 1962
-  role: Alum
 layout: memory
+schools:
+  CC: 1962
+primary_year: 1962
 ---
-
 # Southern Californian Not Ready for Real Cold
 
 My reaction to the first cold days I experienced in Morningside Heights were a little like Dorothy's initial response to being in Oz: "I don't think we're in Kansas anymore."

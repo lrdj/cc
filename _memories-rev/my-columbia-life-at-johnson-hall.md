@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: Life at Johnson Hall'
 author: Brian Brouse
-affiliations:
-- school: Graduate School of Business
-  class_year: 1975
-  role: Alum
 layout: memory
+schools:
+  BUS: 1975
+primary_year: 1975
 ---
-
 # Life at Johnson Hall
 
 I arrived at Columbia University and Johnson Hall in August/September of 1975.  This was the first academic year that Johnson Hall was coed. Previously it had been a women's graduate dorm.  I believe two or three floors housed men.  We had security and a "house mother."  Because it was coed and because of the house mother, cleanliness and orderliness were good.  And as far as dorm food was concerned, it was good.

@@ -3,13 +3,11 @@ title: 'My Columbia: "He Had a Moustache"'
 author: Dorie Bulloff
 tags:
 - Alma Mater
-affiliations:
-- school: School of Social Work
-  class_year: 1975
-  role: Alum
 layout: memory
+schools:
+  SW: 1975
+primary_year: 1975
 ---
-
 # "He Had a Moustache"
 
 The year before I saw him again--in the Columbia library--we had been students together in Dr. Schwartz's Social Work "Group" class. He sat next to me, told me jokes and helped me get through the class with Dr. Schwartz and the professor's ascerbic wit.  

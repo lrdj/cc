@@ -3,13 +3,11 @@ title: 'My Columbia: Perfect Columbia Day'
 author: Rod Allee
 tags:
 - Avery Hall
-affiliations:
-- school: Graduate School of Arts and Sciences
-  class_year: 1997
-  role: Alum
 layout: memory
+schools:
+  GSAS: 1997
+primary_year: 1997
 ---
-
 # Perfect Columbia Day
 
 Submitted by Rod Allee, GSAS '97, American Studies

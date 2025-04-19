@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: The Time of My Life: Fraternity Pre-Initiation'
 author: Jefferson Svengsouk
-affiliations:
-- school: Columbia College
-  class_year: 1990
-  role: Alum
 layout: memory
+schools:
+  CC: 1990
+primary_year: 1990
 ---
-
 # The Time of My Life: Fraternity Pre-Initiation
 
 The most memorable time of my life at Columbia was the pre-initiation night for me and my pledge brothers of Zeta Psi fraternity. As we went from one assigned mission to the next through the entire night until the wee hours of morning, I was electrified by the unified efforts of my pledge brothers in a shared experience, striving towards a common goal. We strove to participate in and entwine our existences with a fraternity community with generations of history, liberating ourselves from the restraints of common and decent society through directed, sophomoric, insane, yet non-malignant behavior to become one with something bigger than any one of us alone. 

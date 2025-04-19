@@ -3,13 +3,11 @@ title: 'My Columbia: Breaking the Tension in Low'
 author: Marcel Agueros
 tags:
 - Low Library
-affiliations:
-- school: Columbia College
-  class_year: 1996
-  role: Alum
 layout: memory
+schools:
+  CC: 1996
+primary_year: 1996
 ---
-
 # Breaking the Tension in Low
 
 It was during the days of the Ethnic Studies protests in April 1996. Students had entered Low Library to lend support to negotiators meeting with administrators--but President Rupp took umbrage, and would not meet until the students left...a classic standoff.

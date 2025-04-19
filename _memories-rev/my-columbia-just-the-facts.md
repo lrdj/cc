@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: Just the Facts'
 author: Julian Tepper
-affiliations:
-- school: School of Law
-  class_year: 1965
-  role: Alum
 layout: memory
+schools:
+  LAW: 1965
+primary_year: 1965
 ---
-
 # Just the Facts
 
 The class was evidence. The professor was Michael Sovern, later to become Dean of the Law School.

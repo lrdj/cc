@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: NYC Cold'
 author: Laura Adams
-affiliations:
-- school: Columbia College
-  class_year: 1987
-  role: Alum
 layout: memory
+schools:
+  CC: 1987
+primary_year: 1987
 ---
-
 # NYC Cold
 
 In response to your call for anecdotes regarding weathering the NYC cold...

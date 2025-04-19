@@ -3,13 +3,11 @@ title: 'My Columbia: 1968: Year of Decision'
 author: Philip Henry
 tags:
 - Columbia College
-affiliations:
-- school: Columbia College
-  class_year: 1967
-  role: Alum
 layout: memory
+schools:
+  CC: 1967
+primary_year: 1967
 ---
-
 # 1968: Year of Decision
 
 I am a Vietnam Veteran, a college graduate of the Vietnam Era, and a professional journalist. That should establish either some kind of credibility or culpability. The Vietnam War began when I was l7 years old and ended when I was 30. That means my generation of draft-aged males lived with the reality of War throughout their adolescence. I went to college in the '60s and, like most of my classmates, lived under the shadow of Vietnam for my entire college career. Flunk out, you get drafted. That happened to a friend of mine at Yale. He partied too heartily and ended up as a grunt in the Mekong Delta. As the war escalated, so did the dissent and the polarization of the country.

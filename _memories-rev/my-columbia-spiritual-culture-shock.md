@@ -3,16 +3,12 @@ title: 'My Columbia: Spiritual Culture Shock'
 author: joseph graif
 tags:
 - Columbia College
-affiliations:
-- school: Graduate School of Business
-  class_year: 1978
-  role: Alum
-- school: Columbia College
-  class_year: 1976
-  role: Alum
 layout: memory
+schools:
+  BUS: 1978
+  CC: 1976
+primary_year: 1978
 ---
-
 # Spiritual Culture Shock
 
 I came to the College in the fall of 1972 as an eager music major. Having already worked as a pastoral musician (organist and choir director) in the Catholic church since the age of 12, I considered myself to be knowledgable and experienced. Even though I was born and raised in Brooklyn and Queens, the fact is that my decidedly "middle middle-class" background had left me completely ignorant of other religions and cultures. There were only three African-American kids in my high school class, and I had NEVER met a Jewish person in my life (consider that fact given the demographics of the typical Columbia College class in the early 1970's!).

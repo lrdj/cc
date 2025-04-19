@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: Bold Leadership'
 author: Stephen Harper
-affiliations:
-- school: Graduate School of Business
-  class_year: 1997
-  role: Alum
 layout: memory
+schools:
+  BUS: 1997
+primary_year: 1997
 ---
-
 # Bold Leadership
 
 The most memorable day at Columbia invokes memories of others like it.  Here are two anecdotes that demonstrate strong leadership.  First, when I was leaving CBS, I typed a letter of things I liked and didn't like about my experience.  I left my thoughts with Dean Feldberg's admin.  That day, the Dean left a copy of the note in my box with the message "Please come see me."  We met in the Dean's office, and he listened to my constructive criticism.

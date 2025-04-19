@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: The Big Chill'
 author: Jay Woodworth
-affiliations:
-- school: Columbia College
-  class_year: 1965
-  role: Alum
 layout: memory
+schools:
+  CC: 1965
+primary_year: 1965
 ---
-
 # The Big Chill
 
 Are you kidding?  "Big Chill??"  I came to the College from Minnesota, where men are men and only whooses put on parkas when the temp drops below zero (Fahrenheit).  Winters in New York City were a tropical breeze after my own personal record-cold temperature of 45 below zero on a frosty morning on the way to school in St. Paul.  Keeping warm in the overheated dorms at Columbia was a piece of cake--well, maybe helped by a cappuccino and a hot combo at Le Figaro down in the Village on a Friday or Saturday night.  I never brought any of my really cold-weather gear to New York.

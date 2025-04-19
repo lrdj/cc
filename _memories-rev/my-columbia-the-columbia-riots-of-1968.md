@@ -3,16 +3,12 @@ title: 'My Columbia: The Columbia Riots of 1968'
 author: Tom Williams
 tags:
 - Low Library
-affiliations:
-- school: School of General Studies
-  class_year: 1974
-  role: Alum
-- school: School of Library Service
-  class_year: 1976
-  role: Alum
 layout: memory
+schools:
+  GS: 1974
+  LS: 1976
+primary_year: 1976
 ---
-
 # The Columbia Riots of 1968
 
 In the fall of 1967 I entered the School of General Studies, following a three-year stint as a Peace Corps Volunteer in Bolivia.  I won't say that the spring of 1968 was my happiest time at Columbia but it was certainly the most interesting.

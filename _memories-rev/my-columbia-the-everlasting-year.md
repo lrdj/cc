@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: The Everlasting Year'
 author: meriemil rodriguez
-affiliations:
-- school: Graduate School of Journalism
-  class_year: 1967
-  role: Alum
 layout: memory
+schools:
+  JRN: 1967
+primary_year: 1967
 ---
-
 # The Everlasting Year
 
 I arrived at the Columbia Graduate School of Journalism in Sept. of 1967 from San Juan, Puerto Rico. It was a year of many firsts for me: my first time in New York, my first subway ride, and my first formal education in journalism.

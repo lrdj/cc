@@ -3,13 +3,11 @@ title: 'My Columbia: The Anabaptist Vision'
 author: Ross Bender
 tags:
 - Ruggles
-affiliations:
-- school: Graduate School of Arts and Sciences
-  class_year: 1980
-  role: Alum
 layout: memory
+schools:
+  GSAS: 1980
+primary_year: 1980
 ---
-
 # The Anabaptist Vision
 
 One of the more momentous, though still little-known, lectures ever given at Columbia was delivered by Harold S. Bender on December 28, 1943, in the Men's Faculty Club. The occasion was the annual meeting of the American Society of Church History, of which Bender was president.

@@ -3,16 +3,12 @@ title: 'My Columbia: West End Bar & Grill'
 author: Arthur Delmhorst
 tags:
 - The West End
-affiliations:
-- school: Columbia College
-  class_year: 1960
-  role: Alum
-- school: Graduate School of Journalism
-  class_year: 1964
-  role: Alum
 layout: memory
+schools:
+  CC: 1960
+  JRN: 1964
+primary_year: 1964
 ---
-
 # West End Bar & Grill
 
 There have been many memories in the New York Times this week [April 2006] about the West End Bar & Grill.

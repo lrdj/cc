@@ -3,16 +3,12 @@ title: 'My Columbia: Farewell to Student Life'
 author: Emily Goodman
 tags:
 - Butler Library
-affiliations:
-- school: Graduate School of Arts and Sciences
-  class_year: 1988
-  role: Alum
-- school: School of General Studies
-  class_year: 1985
-  role: Alum
 layout: memory
+schools:
+  GSAS: 1988
+  GS: 1985
+primary_year: 1988
 ---
-
 # Farewell to Student Life
 
 It's one of my definitive memories of graduate school. I'd been struggling for a week to complete my final master's essay to get my M.A. in English (as a part-time student, I had always intended for the M.A. to be my final degree; it was something I was doing for myself only). I went to the library almost every day to work. It was exam week, and the tables in Butler were full of students bowed over books, working furiously, with tension in the air. I agonized over that essay; it was a real struggle to write it, but it was my final requirement for the degree. When I finally turned it in in the English office, I had finished. For some reason, on the way out, instead of just walking home, I stopped back at Butler Library, went inside, and walked upstairs to the big reading room. I stood in the doorway and looked over all the bowed heads of students still working, where I had been just hours before. And I thought, "They are still working, but I'm not there any more. I'm done." Somehow, standing in the doorway like that made it real for me that I was no longer a Columbia student. I walked out the door, left Butler Library, and walked away into the rest of my life.

@@ -1,16 +1,12 @@
 ---
 title: 'My Columbia: My Favorite Professor'
 author: barry etra
-affiliations:
-- school: Graduate School of Business
-  class_year: 1975
-  role: Alum
-- school: Columbia College
-  class_year: 1973
-  role: Alum
 layout: memory
+schools:
+  BUS: 1975
+  CC: 1973
+primary_year: 1975
 ---
-
 # My Favorite Professor
 
 The best professor I ( and many others) had was Gene Santomasso, who taught a very popular architecture course. He was a terrific guy, always interested in the students, but he really shone as an educator. His lectures were laced with enthusiasm as well as real content; as well, he had a great sense of the absurd. He was so popular that when his time came for tenure (and there was none to give him), there was such an outcry that Dean Pouncey went to alumni to have an additional chair funded.

@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: Frankenstein Plus'
 author: Jessy Randall
-affiliations:
-- school: Columbia College
-  class_year: 1992
-  role: Alum
 layout: memory
+schools:
+  CC: 1992
+primary_year: 1992
 ---
-
 # Frankenstein Plus
 
 My junior year, I took a course in Gothic Literature. I was trying to save money on books and discovered that many of the novels we were reading were available in Butler -- and nobody else seemed to have figured that out. I borrowed, rather than bought, most of my books for the class, and for Frankenstein I ended up with an annotated, illustrated edition from 1977.

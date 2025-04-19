@@ -4,13 +4,11 @@ author: Rodolfo Barragan
 tags:
 - College Walk
 - Avery Hall
-affiliations:
-- school: Graduate School of Architecture, Planning, and Preservation
-  class_year: 1993
-  role: Alum
 layout: memory
+schools:
+  GSAPP: 1993
+primary_year: 1993
 ---
-
 # SILENCE & LIGHT
 
 I remember two experiences which happened before, and after my graduation at Columbia. Although both were secular events I remember them as profound and at least for me religious experiences.

@@ -4,16 +4,12 @@ author: Harvey Leifert
 tags:
 - WKCR
 - Hamilton Hall
-affiliations:
-- school: Columbia College
-  class_year: 1959
-  role: Alum
-- school: Graduate School of Arts and Sciences
-  class_year: 1961
-  role: Alum
 layout: memory
+schools:
+  CC: 1959
+  GSAS: 1961
+primary_year: 1961
 ---
-
 # The Chopped Liver Malted
 
 When WKCR was located in Hamilton Hall Annex in the 1950s, there was a coffee shop across Amsterdam Avenue called Columbia Chemists. Every afternoon, the WKCR regulars would repair there for a cup of coffee and a cruller. We always ordered the same thing, but Dottie, the seen-it-all and unimpressed waitress, insisted that we actually state what we wanted each time.

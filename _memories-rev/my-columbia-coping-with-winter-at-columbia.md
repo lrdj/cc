@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: Coping with Winter at Columbia'
 author: Geoff Pietsch
-affiliations:
-- school: Graduate School of Arts and Sciences
-  class_year: 1960
-  role: Alum
 layout: memory
+schools:
+  GSAS: 1960
+primary_year: 1960
 ---
-
 # Coping with Winter at Columbia
 
 No problemo.*   I commuted from home on Long Island while getting my masters at Columbia.  Never outside for more than a minute - from house to car, from car to LIRR station - from subway to class or library - then the same going home.

@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: A Student''s Story'
 author: John Handley
-affiliations:
-- school: Columbia College
-  class_year: 1951
-  role: Alum
 layout: memory
+schools:
+  CC: 1951
+primary_year: 1951
 ---
-
 # A Student's Story
 
 My first year in a CC class upset my applecart. Catechism instruction did not prepare me for the daily debates. Occasionally I made a point. The one I remember is "omission  can be as much  an offense against virtue and honesty as commission!" But I had my doubts about Catholicism and Christianity. I explored alternatives. There were misadventures. My best results came when adhering to virtue and honesty guidelines.

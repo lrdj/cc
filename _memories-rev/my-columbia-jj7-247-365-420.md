@@ -3,16 +3,12 @@ title: 'My Columbia: JJ7 24/7 365 420'
 author: Hamesh Mehta
 tags:
 - John Jay
-affiliations:
-- school: Columbia College
-  class_year: 2004
-  role: Alum
-- school: School of Engineering and Applied Science
-  class_year: 2004
-  role: Alum
 layout: memory
+schools:
+  CC: 2004
+  SEAS: 2004
+primary_year: 2004
 ---
-
 # JJ7 24/7 365 420
 
 Ask Class of 2004 residents of the seventh floor of John Jay Hall about JJ7 and a wry smile will quickly adorn their faces. JJ7, as we affectionately called it, was our introduction to Columbia--and what an introduction it turned out to be!

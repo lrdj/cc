@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: Abroad in Kenya'
 author: Bruce Curtis
-affiliations:
-- school: Columbia College
-  class_year: 1994
-  role: Alum
 layout: memory
+schools:
+  CC: 1994
+primary_year: 1994
 ---
-
 # Abroad in Kenya
 
 The early 90s were somewhat charged with cross-cultural issues, accentuated by the Audubon Ballroom construction plans.  I had decided a year before, as a wise fool, that I would take the rural south head-on through Teach for America and that I needed to learn more about African cultures.  I found a study abroad program with SIT in Kenya and switched from a decade-long study of Spanish to Swahili.

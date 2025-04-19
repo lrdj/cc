@@ -1,16 +1,12 @@
 ---
 title: 'My Columbia: To Value Difference'
 author: Michael Taylor
-affiliations:
-- school: Columbia College
-  class_year: 1993
-  role: Alum
-- school: Teachers College
-  class_year: 1997
-  role: Alum
 layout: memory
+schools:
+  CC: 1993
+  TC: 1997
+primary_year: 1997
 ---
-
 # To Value Difference
 
 As an African-American male, feelings of isolation and hostility abounded during my years at the College. Misrepresentations of historical contributions of my forefathers and foremothers permeated my "classical" education and gave ongoing foundation to the insanity of racial reasoning that dominated daily interactions.

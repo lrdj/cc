@@ -3,13 +3,11 @@ title: 'My Columbia: Surviving NY Winters'
 author: Arthur Delmhorst
 tags:
 - Low Library
-affiliations:
-- school: Columbia College
-  class_year: 1960
-  role: Alum
 layout: memory
+schools:
+  CC: 1960
+primary_year: 1960
 ---
-
 # Surviving NY Winters
 
 The hardest part of Columbia winters was rowing on the Harlem River.

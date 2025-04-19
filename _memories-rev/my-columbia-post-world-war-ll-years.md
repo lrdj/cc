@@ -3,16 +3,12 @@ title: 'My Columbia: Post World War ll Years'
 author: Stan Edelman
 tags:
 - Columbia College
-affiliations:
-- school: Columbia College
-  class_year: 1949
-  role: Alum
-- school: College of Physicians and Surgeons
-  class_year: 1953
-  role: Alum
 layout: memory
+schools:
+  CC: 1949
+  PS: 1953
+primary_year: 1953
 ---
-
 # Post World War ll Years
 
 Dear Editor,

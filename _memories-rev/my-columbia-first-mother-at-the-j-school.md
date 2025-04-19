@@ -3,13 +3,11 @@ title: 'My Columbia: First Mother at the J-School'
 author: Sylvia Auerbach
 tags:
 - Reunion
-affiliations:
-- school: Graduate School of Journalism
-  class_year: 1960
-  role: Alum
 layout: memory
+schools:
+  JRN: 1960
+primary_year: 1960
 ---
-
 # First Mother at the J-School
 
 Can youthful dreams come true?

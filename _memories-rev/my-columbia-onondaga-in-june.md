@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: Onondaga in June'
 author: Marc McCann
-affiliations:
-- school: Columbia College
-  class_year: 1988
-  role: Alum
 layout: memory
+schools:
+  CC: 1988
+primary_year: 1988
 ---
-
 # Onondaga in June
 
 June of 1988 saw the Freshman Heavyweight Crew wrap up an extremely long season that included fall racing in Boston and New York, January work in Tampa Bay, Spring Break in New York City, and daily practices in between.  Follow that with regattas around the northeast through May and then a week training in Kent, Connecticut leading up to the International Rowing Association (IRA) Regatta in Sycracuse in June, the closest thing to a national championship at the time.

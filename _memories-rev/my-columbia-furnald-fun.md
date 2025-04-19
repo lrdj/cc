@@ -3,13 +3,11 @@ title: 'My Columbia: Furnald Fun'
 author: Elizabeth Olesh
 tags:
 - Furnald Hall
-affiliations:
-- school: Columbia College
-  class_year: 1995
-  role: Alum
 layout: memory
+schools:
+  CC: 1995
+primary_year: 1995
 ---
-
 # Furnald Fun
 
 Who doesn't have a story about the dorms?  I remember trekking up all those flights of stairs in my Columbia boxers to move into Carman 13, the band that practiced down the hall and only seemed to know "Smells Like Teen Spirit," suitemate drama, and much more.  If I were only to share one experience, though, it would be the story of senior year in Furnald.

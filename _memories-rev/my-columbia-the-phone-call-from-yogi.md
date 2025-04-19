@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: The Phone Call from Yogi'
 author: William Bracciodieta MD
-affiliations:
-- school: Columbia College
-  class_year: 1967
-  role: Alum
 layout: memory
+schools:
+  CC: 1967
+primary_year: 1967
 ---
-
 # The Phone Call from Yogi
 
 In April of 1964, I was a freshman baseball player at Columbia who, in February, had been named the receipient of the Yogi Berra scholarship. However, it took several phone calls from the New York Yankees front office and a call from Yogi Berra himself to convince me that these phone calls were legitimate and not a hoax perpetrated by my freshman baseball teammates.

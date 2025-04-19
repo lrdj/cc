@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: How I Kept Warm at Columbia: Revised'
 author: Andre Gorelkin
-affiliations:
-- school: School of General Studies
-  class_year: 2003
-  role: Alum
 layout: memory
+schools:
+  GS: 2003
+primary_year: 2003
 ---
-
 # How I Kept Warm at Columbia: Revised
 
 As I put myself through Columbia via loans, work, and other forms of  "creative financing,"* I had relatively limited resources with which to keep myself warm during the long, cold, and dark winter nights. However, I did have the good fortune to discover two devices which proved most useful in limiting the need for medical attention due to hypothermia and frost bite (though they did not eradicate these needs all together).

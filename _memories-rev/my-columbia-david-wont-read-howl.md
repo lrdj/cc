@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: DAVID WON''T READ HOWL'
 author: Joseph Dobkin
-affiliations:
-- school: School of General Studies
-  class_year: 2007
-  role: Alum
 layout: memory
+schools:
+  GS: 2007
+primary_year: 2007
 ---
-
 # DAVID WON'T READ HOWL
 
 David won't read Howl

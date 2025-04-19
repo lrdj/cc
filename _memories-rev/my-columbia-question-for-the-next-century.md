@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: Question for the next century'
 author: Thomas Wm. Hamilton
-affiliations:
-- school: Columbia College
-  class_year: 1960
-  role: Alum
 layout: memory
+schools:
+  CC: 1960
+primary_year: 1960
 ---
-
 # Question for the next century
 
 Questions for the next century:

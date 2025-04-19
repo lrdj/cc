@@ -3,16 +3,12 @@ title: 'My Columbia: Junior Year Abroad in Rome'
 author: Michael Browning
 tags:
 - Core Curriculum
-affiliations:
-- school: Graduate School of Arts and Sciences
-  class_year: 1971
-  role: Alum
-- school: Columbia College
-  class_year: 1970
-  role: Alum
 layout: memory
+schools:
+  GSAS: 1971
+  CC: 1970
+primary_year: 1971
 ---
-
 # Junior Year Abroad in Rome
 
 "What are you going to DO with it?" is a question all Latin majors hear a hundred times. All I can reply is, at age 56, I'm gainfully employed and have never missed a meal.

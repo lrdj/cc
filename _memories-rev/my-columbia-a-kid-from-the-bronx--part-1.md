@@ -5,13 +5,11 @@ tags:
   - Core Curriculum
   - The West End
 
-#–– only the schools you attended, keyed by their code ––
 schools:
   GSAS: 1982
   CC:   1956
   GS:   1976
 
-#–– the single “max” year for sorting ––
 primary_year: 1982
 
 layout: memory

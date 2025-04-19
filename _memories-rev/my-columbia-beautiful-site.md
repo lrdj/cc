@@ -4,13 +4,11 @@ author: janet averill
 tags:
 - Low Library
 - Commencement
-affiliations:
-- school: Graduate School of Architecture, Planning, and Preservation
-  class_year: 1990
-  role: Alum
 layout: memory
+schools:
+  GSAPP: 1990
+primary_year: 1990
 ---
-
 # Beautiful Site
 
 Although many of the gardens on campus are lovely throughout the year, my family and I especially appreciate the beds of Columbia Blue iris that bloom just once each year around the base of Low Library.

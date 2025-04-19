@@ -1,16 +1,12 @@
 ---
 title: 'My Columbia: Love Letters'
 author: Donald J. Rapson
-affiliations:
-- school: School of Law
-  class_year: 1954
-  role: Alum
-- school: Columbia College
-  class_year: 1951
-  role: Alum
 layout: memory
+schools:
+  LAW: 1954
+  CC: 1951
+primary_year: 1954
 ---
-
 # Love Letters
 
 The best teacher I had at Columbia was Professor Gilbert Highet from whom I took Humanities in the fall of 1947. He had just returned to Columbia after having served in British Intelligence during World War II. Professor Highet was, of course, already a noted Greek and Roman scholar and truly a wordly person---but the added experience of his having been in Berlin pre-WWII and having observed Hitler and the Nazis in person made his presence an overwhelming and fascinating experience.

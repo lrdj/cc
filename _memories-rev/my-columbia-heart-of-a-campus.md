@@ -4,16 +4,12 @@ author: David Garnes
 tags:
 - Low Library
 - Butler Library
-affiliations:
-- school: Graduate School of Arts and Sciences
-  class_year: 1965
-  role: Alum
-- school: School of Library Service
-  class_year: 1975
-  role: Alum
 layout: memory
+schools:
+  GSAS: 1965
+  LS: 1975
+primary_year: 1975
 ---
-
 # Heart of a Campus
 
 I arrived at Columbia as a graduate student in the fall of 1963. Though I'd visited New York a number of times, I hadn't really experienced life in a big city and certainly not life on a big urban campus.

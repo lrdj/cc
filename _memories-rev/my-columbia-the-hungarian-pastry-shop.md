@@ -5,16 +5,12 @@ tags:
 - Columbia College
 - Hamilton Hall
 - Hungarian Pastry Shop
-affiliations:
-- school: School of Law
-  class_year: 1996
-  role: Alum
-- school: Columbia College
-  class_year: 1992
-  role: Alum
 layout: memory
+schools:
+  LAW: 1996
+  CC: 1992
+primary_year: 1996
 ---
-
 # The Hungarian Pastry Shop
 
 At the beginning of my sophomore year at Columbia College, in 1989, I decided to study Russian.  Within a week of starting my first-year Russian class, taught by a charming graduate student whose name escapes me, I feel deeply in love with this exotic language, its beautiful Cyrillic characters, passionate vowels and angry consonants, and with its brilliant, melancholy literature.

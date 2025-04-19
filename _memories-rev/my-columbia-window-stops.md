@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: Window Stops'
 author: Victor Kan
-affiliations:
-- school: School of Engineering and Applied Science
-  class_year: 1989
-  role: Alum
 layout: memory
+schools:
+  SEAS: 1989
+primary_year: 1989
 ---
-
 # Window Stops
 
 I lived in the Schapiro residence hall the year that it first opened.  It was (and I hope still is) an excellent dormitory.  Perhaps the most bizarre experience of my life at Columbia was when URH had a crackdown on people removing the window stops from the sliding windows in Schapiro. URH sent maintenance crews to check and reinstall stops from every dorm room in the building where the stops had been removed and sent a bill to students who had removed them for some amount of money (I forget, maybe $50 or $100?).

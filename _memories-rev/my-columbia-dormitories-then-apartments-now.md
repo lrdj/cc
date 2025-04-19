@@ -3,13 +3,11 @@ title: 'My Columbia: Dormitories then, apartments now'
 author: Harold Hotelling
 tags:
 - John Jay
-affiliations:
-- school: Columbia College
-  class_year: 1966
-  role: Alum
 layout: memory
+schools:
+  CC: 1966
+primary_year: 1966
 ---
-
 # Dormitories then, apartments now
 
 Furnald, in the early 1960's, had the wood panelling, the fireplace, the overstuffed lounge chairs, and the red brick elegance of McKim, Mead, and White, along with a view of resident comfort which is absolutely stark by today's standards. As I look at the residences at the college where I teach  today, obviously I see the computer facilities and the audio and video gear.

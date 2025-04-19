@@ -1,19 +1,12 @@
 ---
 title: 'My Columbia: Spirituality During My Years at Columbia'
 author: Robert Lafayette
-affiliations:
-- school: Graduate School of Arts and Sciences
-  class_year: 1995
-  role: Alum
-- school: Graduate School of Arts and Sciences
-  class_year: 1997
-  role: Alum
-- school: Teachers College
-  class_year: 1993
-  role: Alum
 layout: memory
+schools:
+  GSAS: 1997
+  TC: 1993
+primary_year: 1997
 ---
-
 # Spirituality During My Years at Columbia
 
 At the ripe old age of "over 40," I began my long term full-time graduate work at TC in 1991. That work was the culmination of a lifelong dream to attend Columbia.  Early on during that time, I moved into the campus housing at Teachers College, and took in the campus and surrounding Columbia and Morningside area as if I were a five year old willingly seeing so much of life for the first time.  I loved the classes, the libraries, the studying, the intellectual stimulation, and the people, too.

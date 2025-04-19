@@ -3,13 +3,11 @@ title: 'My Columbia: A Rose Is a Rose Is a Rose'
 author: Arnold Wasserman
 tags:
 - Barnard
-affiliations:
-- school: Columbia College
-  class_year: 1947
-  role: Alum
 layout: memory
+schools:
+  CC: 1947
+primary_year: 1947
 ---
-
 # A Rose Is a Rose Is a Rose
 
 In regards to my social life while at Columbia: With the name Wasserman, I was the talk (if not the laugh) of my class because I dated a Barnard student named "Siff"!

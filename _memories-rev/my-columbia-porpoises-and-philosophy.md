@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: Porpoises and Philosophy'
 author: Thomas Cockbill
-affiliations:
-- school: Graduate School of Arts and Sciences
-  class_year: 1976
-  role: Alum
 layout: memory
+schools:
+  GSAS: 1976
+primary_year: 1976
 ---
-
 # Porpoises and Philosophy
 
 It was the first lecture in a graduate course on German philosophy between Kant and Hegel.  Dieter Henrich, a visiting professor from Germany, was giving the packed lecture hall an introduction to the subject, when a person in the last row of seats suddenly called out, "What is the purpose of philosophy?"  The questioner, who was not enrolled at the university, frequented philosophy classes on campus, in one classroom moving about from desk to desk throughout the period.

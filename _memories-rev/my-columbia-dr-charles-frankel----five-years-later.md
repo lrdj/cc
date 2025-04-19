@@ -1,16 +1,12 @@
 ---
 title: 'My Columbia: Dr. Charles Frankel -- Five Years Later'
 author: Thomas Nisbet
-affiliations:
-- school: Columbia College
-  class_year: 1953
-  role: Alum
-- school: Graduate School of Architecture, Planning, and Preservation
-  class_year: 1955
-  role: Alum
 layout: memory
+schools:
+  CC: 1953
+  GSAPP: 1955
+primary_year: 1955
 ---
-
 # Dr. Charles Frankel -- Five Years Later
 
 Dr. Frankel exposed this freshman to Contemporary Civilizations; each lecture, "lights" would go on!

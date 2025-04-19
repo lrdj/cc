@@ -3,13 +3,11 @@ title: 'My Columbia: The Closing of the Ring'
 author: Norman Glover
 tags:
 - John Jay
-affiliations:
-- school: School of Engineering and Applied Science
-  class_year: 1950
-  role: Alum
 layout: memory
+schools:
+  SEAS: 1950
+primary_year: 1950
 ---
-
 # The Closing of the Ring
 
 Although I am now a New Yorker again, I have lived and worked on six of the seven continents.

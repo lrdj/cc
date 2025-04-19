@@ -6,13 +6,11 @@ tags:
 - Butler Library
 - Riverside Park
 - Ferris Booth
-affiliations:
-- school: School of Library Service
-  class_year: 1987
-  role: Alum
 layout: memory
+schools:
+  LS: 1987
+primary_year: 1987
 ---
-
 # Oddly Collegial
 
 In the fall of 1986 I somewhat reluctantly entered the School of Library Service.  In the five years since graduating college, I had considered law, theater, journalism, wildlife ecology and clown school. I'd worked in libraries through college and afterward, so when friends suggested library school as a quick fix for diploma fever that comes with a pay increase, I was game.  With offers from Califoria, Wisconsin, Chicago and Columbia, I played my enrollment cards against the clock.  Berkeley and Wisconsin began early -- late August -- so I headed for Columbia just after Labor Day.  I held Chicago up my sleeve since their fall quarter began in mid-October.

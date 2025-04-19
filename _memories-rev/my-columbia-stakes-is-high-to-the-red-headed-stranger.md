@@ -5,13 +5,11 @@ tags:
 - Carman Hall
 - East Campus
 - Miller Theatre
-affiliations:
-- school: Columbia College
-  class_year: 2001
-  role: Alum
 layout: memory
+schools:
+  CC: 2001
+primary_year: 2001
 ---
-
 # Stakes Is High to the Red Headed Stranger
 
 The first thing I heard when I stepped into my suite at Carman Hall was the album Stakes Is High by De La Soul.  The last thing I heard at Columbia, leaving my suite in East Campus, was the album Chopper City in the Ghetto by BG.  Somewhere in between, I went to see:

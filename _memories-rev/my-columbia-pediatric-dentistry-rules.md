@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: Pediatric Dentistry Rules!!!'
 author: Scott Bialik
-affiliations:
-- school: School of Dental and Oral Surgery
-  class_year: 1994
-  role: Alum
 layout: memory
+schools:
+  SDOS: 1994
+primary_year: 1994
 ---
-
 # Pediatric Dentistry Rules!!!
 
 Pediatric dentistry rules!!!

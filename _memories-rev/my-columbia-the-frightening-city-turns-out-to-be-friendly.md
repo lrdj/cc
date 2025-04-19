@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: The Frightening City Turns Out to Be Friendly'
 author: Kristin Bell
-affiliations:
-- school: Barnard College
-  class_year: 1995
-  role: Alum
 layout: memory
+schools:
+  BC: 1995
+primary_year: 1995
 ---
-
 # The Frightening City Turns Out to Be Friendly
 
 I will never forget the first day I arrived at Columbia. I had just flown in from the West Coast and had managed to traverse the airport and shove all of my stuff into a cab. I had never been to Columbia or New York before; I was alone and didn't know a single soul. I was arriving early for the Columbia Urban Experience group that I was lucky to be a part of. I had some kind of map, but didn't know where to get out of the cab!

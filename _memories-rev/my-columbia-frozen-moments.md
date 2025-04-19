@@ -1,19 +1,11 @@
 ---
 title: 'My Columbia: Frozen Moments'
 author: Christopher  Hagan
-affiliations:
-- school: School of General Studies
-  class_year: 2002
-  role: Alum
-- school: School of General Studies
-  class_year: 2002
-  role: Alum
-- school: School of General Studies
-  class_year: 2002
-  role: Alum
 layout: memory
+schools:
+  GS: 2002
+primary_year: 2002
 ---
-
 # Frozen Moments
 
 All our states of elevations

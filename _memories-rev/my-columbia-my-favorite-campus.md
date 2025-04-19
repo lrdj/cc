@@ -8,13 +8,11 @@ tags:
 - College Walk
 - The West End
 - Ferris Booth
-affiliations:
-- school: School of Engineering and Applied Science
-  class_year: 1978
-  role: Alum
 layout: memory
+schools:
+  SEAS: 1978
+primary_year: 1978
 ---
-
 # My Favorite Campus
 
 My favorite times to hang out on the Columbia campus were in the summers. From the times when the South Field was slippery with the dew of the humid mornings to the times when the night sky stars start peeking over Pupin, the campus was one poor kid's warm weather oasis. In those off-season months, I had favorite hang-out spots on both sides of Broadway.

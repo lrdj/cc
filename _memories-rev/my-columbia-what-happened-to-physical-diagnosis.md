@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: What Happened to Physical Diagnosis'
 author: Douglas Tompkins
-affiliations:
-- school: College of Physicians and Surgeons
-  class_year: 1950
-  role: Alum
 layout: memory
+schools:
+  PS: 1950
+primary_year: 1950
 ---
-
 # What Happened to Physical Diagnosis
 
 I have been retired for ten years. As do most of my contemporaries, I have had a variety of ailments.  I am struck by the almost universal cursoriness of physical examinations by today's physicians. The reliance is almost totally on tests: MRIs, etc., etc.

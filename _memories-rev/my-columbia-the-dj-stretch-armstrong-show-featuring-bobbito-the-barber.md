@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: The DJ Stretch Armstrong Show Featuring Bobbito the Barber'
 author: Marcel Agueros
-affiliations:
-- school: Columbia College
-  class_year: 1996
-  role: Alum
 layout: memory
+schools:
+  CC: 1996
+primary_year: 1996
 ---
-
 # The DJ Stretch Armstrong Show Featuring Bobbito the Barber
 
 Stretch was the DJ, Bob the hype-man/host--together they did the Stretch Armstrong Show on KCR from 1 to 5 AM Fridays. Starting in '92, I taped their show religiously. They played all the underground hiphop before it got big--and featured unknown guests who would soon be household names.

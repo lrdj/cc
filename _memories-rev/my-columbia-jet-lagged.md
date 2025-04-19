@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: Jet Lagged'
 author: Diana  Jividen
-affiliations:
-- school: School of General Studies
-  class_year: 1975
-  role: Alum
 layout: memory
+schools:
+  GS: 1975
+primary_year: 1975
 ---
-
 # Jet Lagged
 
 When I first arrived in Paris, I was tired from my long trip from New York to Reykjavik to Luxembourg, then a train ride to the Gare du Nord. At Reid Hall I was told I couldn't check into my hotel until after 3 pm and I should have fun walking around the city.  I walked and walked, bought some Paris postcards, and sat down with a lovely building facing me.  I was so tired it didn't dawn on me what this building was.  I looked it up and low and behold it was Notre Dame!  I enjoyed all the nooks and crannies of the building and wrote my post cards.  It was heaven on a sunny fall day.

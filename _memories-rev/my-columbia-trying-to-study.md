@@ -1,16 +1,12 @@
 ---
 title: 'My Columbia: Trying to Study'
 author: Howard Wu
-affiliations:
-- school: Graduate School of Arts and Sciences
-  class_year: 2001
-  role: Alum
-- school: Columbia College
-  class_year: 1998
-  role: Alum
 layout: memory
+schools:
+  GSAS: 2001
+  CC: 1998
+primary_year: 2001
 ---
-
 # Trying to Study
 
 When I was an undergrad, a lot of my mental energy, maybe too much of it, was expended in search of the perfect place to study.  As an easily distracted student, I was always looking for a physical environment in which I could easily enter the "zone," that elusive mental state in which one became engrossed in one's studies and actually got work done. As a first-year, I initially did most of my studying in Butler's large readings rooms but soon abandoned them, as they were good for people-watching but too distracting.

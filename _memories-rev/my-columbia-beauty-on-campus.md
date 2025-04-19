@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: Beauty on Campus'
 author: Richard Yaker
-affiliations:
-- school: School of Engineering and Applied Science
-  class_year: 1990
-  role: Alum
 layout: memory
+schools:
+  SEAS: 1990
+primary_year: 1990
 ---
-
 # Beauty on Campus
 
 I was on campus from Aug 1986-May 1990. I spent most of time on the steps overlooking the beautiful quad. Every day (weather permitting) for four years, I'd spend multiple hours on the steps just to the right of Alma (if you are facing Low, which I wasn't since I was sitting on the steps facing Butler). My senior year--that would be spring 1990--we even had a BBQ on the steps (which we probably weren't allowed to do). All security did was to tell us to put our beer in bags. I was a member of Sigma Alpha Mu, and the pledges began calling me Steps Yaker since that is where they could find me on a daily basis.

@@ -3,13 +3,11 @@ title: 'My Columbia: Scowl'
 author: Rick  Ansorge
 tags:
 - Commencement
-affiliations:
-- school: Graduate School of Journalism
-  class_year: 1987
-  role: Alum
 layout: memory
+schools:
+  JRN: 1987
+primary_year: 1987
 ---
-
 # Scowl
 
 New York at its meanest - circa 1986

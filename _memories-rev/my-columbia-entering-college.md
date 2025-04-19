@@ -3,16 +3,12 @@ title: 'My Columbia: Entering College'
 author: Stan  Edelman
 tags:
 - Columbia College
-affiliations:
-- school: Columbia College
-  class_year: 1949
-  role: Alum
-- school: College of Physicians and Surgeons
-  class_year: 1953
-  role: Alum
 layout: memory
+schools:
+  CC: 1949
+  PS: 1953
+primary_year: 1953
 ---
-
 # Entering College
 
 I was a graduate of Lafayette H. S. in Brooklyn, N. Y. in 1942.  World War ll had started, and I enlisted in the Army Air Corps as an Aviation Cadet. After flying as a Bombardier with the 8th Air Force in 35 combat missions over Germany, I returned to "civilian life" in October 1945.

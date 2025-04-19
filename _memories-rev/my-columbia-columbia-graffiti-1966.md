@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: Columbia Graffiti, 1966'
 author: Jim Parker
-affiliations:
-- school: School of Engineering and Applied Science
-  class_year: 1969
-  role: Alum
 layout: memory
+schools:
+  SEAS: 1969
+primary_year: 1969
 ---
-
 # Columbia Graffiti, 1966
 
 Graffiti found on Columbia study desks (circa 1966):

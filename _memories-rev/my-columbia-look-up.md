@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: Look Up'
 author: Peter Mondello
-affiliations:
-- school: School of General Studies
-  class_year: 1978
-  role: Alum
 layout: memory
+schools:
+  GS: 1978
+primary_year: 1978
 ---
-
 # Look Up
 
 My spiritual experience at Columbia was, in a word: awful. Before becoming a student at Columbia I was baptized and confirmed in the Episcopal Church. I grew up in Huntington, Long Island, New York. This was a great place when I was a young kid. I spent many wonderful days running around in the huge potato farms and sunny green meadows, barefoot and chasing after butterflies with my friends, our trusty dogs always at our sides, Wham-o slingshots stuffed in our back pockets. We were sort of upper middle class and many of my friends were of Irish, English and Jewish ethnic backgrounds. I loved my friends and my childhood was very carefree and happy.

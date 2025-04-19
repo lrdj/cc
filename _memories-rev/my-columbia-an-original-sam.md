@@ -3,13 +3,11 @@ title: 'My Columbia: AN ORIGINAL SAM'
 author: Dan Alexander
 tags:
 - Low Library
-affiliations:
-- school: School of Engineering and Applied Science
-  class_year: 1972
-  role: Alum
 layout: memory
+schools:
+  SEAS: 1972
+primary_year: 1972
 ---
-
 # AN ORIGINAL SAM
 
 Some of you will remember Sam.  When I arrived at Columbia after the spring 1970 riots, he was sitting on Low Library steps or at the Broadway Gate selling his color abstracts.   They were always of fanciful otherworldly creatures brought to life with magic marker.  Sam was not a normal person.

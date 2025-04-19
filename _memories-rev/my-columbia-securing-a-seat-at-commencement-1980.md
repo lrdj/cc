@@ -5,13 +5,11 @@ tags:
 - Low Library
 - Alma Mater
 - Commencement
-affiliations:
-- school: Graduate School of Arts and Sciences
-  class_year: 1980
-  role: Alum
 layout: memory
+schools:
+  GSAS: 1980
+primary_year: 1980
 ---
-
 # Securing a Seat at Commencement 1980
 
 Desmond Tutu was to have been the Commencement speaker in 1980, but he was unavoidably detained, apparently assisting the police with their inquiries back in South Africa. I forget who spoke in his place.

@@ -3,13 +3,11 @@ title: 'My Columbia: Eggs and Sausage'
 author: Andrew D'Amico
 tags:
 - College Walk
-affiliations:
-- school: Columbia College
-  class_year: 1977
-  role: Alum
 layout: memory
+schools:
+  CC: 1977
+primary_year: 1977
 ---
-
 # Eggs and Sausage
 
 During the middle 70s, the Morningside Heights neighborhood, especially Broadway, was just beginning to change.   A College student with meager resources still had a number of choices of fine, inexpensive places to eat and drink.  The College Inn served grilled sandwiches late into the night, the L & M on Amsterdam, (in a building still served by direct current!) had the deserved reputation for the best hamburgers, and CDR, despite being below street level on 119th Street, had a daily dinner special and beer.  The Chock Full O' Nuts across from College Walk on Broadway was always in great demand, decades before the current coffee craze.  All of these restaurants were outstanding values and welcomed students and neighborhood residents alike.

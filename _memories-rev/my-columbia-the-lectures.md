@@ -3,13 +3,11 @@ title: 'My Columbia: The Lectures'
 author: Malena Jackson
 tags:
 - Alma Mater
-affiliations:
-- school: Graduate School of Journalism
-  class_year: 2005
-  role: Alum
 layout: memory
+schools:
+  JRN: 2005
+primary_year: 2005
 ---
-
 # The Lectures
 
 Not a day goes by that I don't think about my beloved Columbia University.

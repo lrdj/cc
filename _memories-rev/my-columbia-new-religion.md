@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: New Religion'
 author: jack binder
-affiliations:
-- school: Columbia College
-  class_year: 1971
-  role: Alum
 layout: memory
+schools:
+  CC: 1971
+primary_year: 1971
 ---
-
 # New Religion
 
 I was at Columbia at a special time - the late 60's.  I was a good Jewish boy from Brooklyn.  Due to certain life style influences, my pre-existing religious beliefs were totally fragmented.  I became newly spiritual based on the experiences, mostly extra-curricular, prevalent at that time.  It was the time of the hippies.  Peace, love, rock and roll.  This probably sounds stupid, but I suppose you had to be there.

@@ -3,19 +3,13 @@ title: 'My Columbia: Who Owns New York?'
 author: Stanley Freid
 tags:
 - Columbia College
-affiliations:
-- school: Graduate School of Arts and Sciences
-  class_year: 1961
-  role: Alum
-- school: School of Engineering and Applied Science
-  class_year: 1952
-  role: Alum
-- school: Columbia College
-  class_year: 1951
-  role: Alum
 layout: memory
+schools:
+  GSAS: 1961
+  SEAS: 1952
+  CC: 1951
+primary_year: 1961
 ---
-
 # Who Owns New York?
 
 Every time the cadets scored they stood up across the field to taunt us, waving their clean and pressed white handkerchiefs. But at four in the afternoon we had the last wave.

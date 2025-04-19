@@ -4,16 +4,12 @@ author: joseph graif
 tags:
 - Hartley
 - Wallach
-affiliations:
-- school: Graduate School of Business
-  class_year: 1978
-  role: Alum
-- school: Columbia College
-  class_year: 1976
-  role: Alum
 layout: memory
+schools:
+  BUS: 1978
+  CC: 1976
+primary_year: 1978
 ---
-
 # The Great Mudslide
 
 One late night during the spring of 1975, right in the middle of final exams, a substantial spring shower turned a section of the quad used for touch football and frisbee into a field of mud. Such is the stuff that gives birth to inspired events.

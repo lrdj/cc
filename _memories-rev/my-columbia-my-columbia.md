@@ -3,13 +3,11 @@ title: 'My Columbia: My Columbia'
 author: Franklin Baez
 tags:
 - McBain
-affiliations:
-- school: School of Engineering and Applied Science
-  class_year: 1992
-  role: Alum
 layout: memory
+schools:
+  SEAS: 1992
+primary_year: 1992
 ---
-
 # My Columbia
 
 This is a reply to the question of whether I still keep in touch with fellow Columbia alumni.  I mainly keep in touch with:

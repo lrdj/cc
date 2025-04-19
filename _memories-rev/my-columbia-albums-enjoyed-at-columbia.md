@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: Albums Enjoyed at Columbia'
 author: Arthur Feldman
-affiliations:
-- school: School of Engineering and Applied Science
-  class_year: 2004
-  role: Alum
 layout: memory
+schools:
+  SEAS: 2004
+primary_year: 2004
 ---
-
 # Albums Enjoyed at Columbia
 
 Strokes - Is This It

@@ -3,16 +3,24 @@ title: 'My Columbia: The Ike and I'
 author: Sidney B Royal
 tags:
 - Butler Library
-affiliations:
-- school: School of Pharmaceutical Sciences
-  class_year: 1952
-  role: Alum
+
+schools:
+  PHRM: 1952
+
+primary_year: 1952
+
 layout: memory
 ---
 
 # The Ike and I
 
-As a student at The College of Pharmacy (68th St. and Broadway), I was in my sophomore year. We had to go to Pupin Hall on the campus for physics. During a lab period, we were interrupted by visitors. Eisenhower was being shown around the campus prior to his presidency at Columbia. He came over to me, and we had a conversation for about 15 minutes about physics, the University and my future. During our lunch break, we usually had lunch on the grass in front of Pupin Hall.  Eisenhower walked by with his guide, and I casually said hello. He acknowledged the greeting and kept walking. I had my 15 minutes of fame and a paragraph about the meeting appeared in the Pharmacy School newspaper. The title was "The Ike and I."
+As a student at The College of Pharmacy (68th St. and Broadway), I was in my sophomore year. 
+
+We had to go to Pupin Hall on the campus for physics. During a lab period, we were interrupted by visitors. Eisenhower was being shown around the campus prior to his presidency at Columbia. He came over to me, and we had a conversation for about 15 minutes about physics, the University and my future. 
+
+During our lunch break, we usually had lunch on the grass in front of Pupin Hall.  Eisenhower walked by with his guide, and I casually said hello. He acknowledged the greeting and kept walking. I had my 15 minutes of fame and a paragraph about the meeting appeared in the Pharmacy School newspaper. 
+
+The title was "The Ike and I."
 
 A few weeks later I was there, in front of Butler Library, when the U.S. Army Band assembled and played "Happy Birthday" for Ike.
 

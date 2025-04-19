@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: Documents to the People'
 author: RE CARSCH
-affiliations:
-- school: School of Library Service
-  class_year: 1968
-  role: Alum
 layout: memory
+schools:
+  LS: 1968
+primary_year: 1968
 ---
-
 # Documents to the People
 
 In April 1968, the turmoil on campus led the University to close Butler  Library.  The Library School was on the top floor of Butler.  With the library closed, we were unable to attend classes.

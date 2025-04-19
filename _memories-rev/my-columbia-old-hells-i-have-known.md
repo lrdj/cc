@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: Old Hells I Have Known'
 author: Ross Bender
-affiliations:
-- school: Graduate School of Arts and Sciences
-  class_year: 1980
-  role: Alum
 layout: memory
+schools:
+  GSAS: 1980
+primary_year: 1980
 ---
-
 # Old Hells I Have Known
 
 OLD HELLS I HAVE KNOWN

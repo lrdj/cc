@@ -1,16 +1,11 @@
 ---
 title: 'My Columbia: My Favorite Place'
 author: Ann Ingram
-affiliations:
-- school: School of Nursing
-  class_year: 1983
-  role: Alum
-- school: School of Nursing
-  class_year: 1980
-  role: Alum
 layout: memory
+schools:
+  NRS: 1980
+primary_year: 1980
 ---
-
 # My Favorite Place
 
 When I was at Columbia,  I was on the Health Science Campus at 168th St.  which is not known for it's "beauty."  At that time, the School of Nursing was located in Maxwell Hall, and we had our residence, some of our classes, and our social events in this building.  Our room keys were "skeleton" keys, and if you lost one, the entire lock needed to be changed out.  This building was  quaint, with leaded glass, wooden floors, lovely wooden frames and plaster molding.  Surrounding it was a small patch of gardens and grass, a true rarety in that neighborhood.  Maxwell Hall stood proudly among the giant new buildings of the Columbia Presbyterian Hospital community...but I digress.

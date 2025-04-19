@@ -3,13 +3,11 @@ title: 'My Columbia: Opera in Hartley Hall'
 author: Rod Parke
 tags:
 - Hartley
-affiliations:
-- school: Columbia College
-  class_year: 1961
-  role: Alum
 layout: memory
+schools:
+  CC: 1961
+primary_year: 1961
 ---
-
 # Opera in Hartley Hall
 
 My sophomore Arts Humanities professor described van Gogh as "passion nearly out of control."  I took that line to bed with me in my Hartley dorm and had the following dream:

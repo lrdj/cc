@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: How Columbia''s Training Helped Me to Change TWO Worlds'
 author: Thomas Wm. Hamilton
-affiliations:
-- school: Columbia College
-  class_year: 1960
-  role: Alum
 layout: memory
+schools:
+  CC: 1960
+primary_year: 1960
 ---
-
 # How Columbia's Training Helped Me to Change TWO Worlds
 
 Three years after graduating from my astronomy program, I was hired to work on the Apollo Project with a group of over 40 people.  The others were engineers, mathematicians, programmers, draftsmen, etc.  After starting, I heard frequent references to the spacecraft's "central angle."  After requesting an explanation, I had to tell them that going back to Kepler, this was properly called the true anomaly.  I made a few other corrections while I designed a backup rendezvous technique and determined the characteristics of circumlunar orbits.

@@ -3,13 +3,11 @@ title: 'My Columbia: Calling Cambridge'
 author: John Gaguine
 tags:
 - Carman Hall
-affiliations:
-- school: Columbia College
-  class_year: 1969
-  role: Alum
 layout: memory
+schools:
+  CC: 1969
+primary_year: 1969
 ---
-
 # Calling Cambridge
 
 One day in the late 1960s the folks in Carman Hall, Suite 604--the suite right behind the open area in front of the elevators--got a private phone connected.  Later that day someone came to use the campus phone, which was attached to the wall (ah, those wonderful cinderblock walls!) shared with Suite 604.  The phone user picked up the phone, realized that the dial tone sounded different, and tried to make a long-distance call.  It worked!  Obviously the phone installers had screwed up, and hooked the campus phone into the private phone line.

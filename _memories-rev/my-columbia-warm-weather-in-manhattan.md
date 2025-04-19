@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: Warm Weather in Manhattan'
 author: "Guy B\xE9lisle"
-affiliations:
-- school: Graduate School of Business
-  class_year: 1981
-  role: Alum
 layout: memory
+schools:
+  BUS: 1981
+primary_year: 1981
 ---
-
 # Warm Weather in Manhattan
 
 In Canada, where I'm from, September marks the end of summer, with days getting shorter and temperatures dropping. In November, snow starts, and it gets really dark outside. Then, in December, it gets very cold, and life seems to stop for a few months...

@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: Beauty Beneath'
 author: David Andrusia
-affiliations:
-- school: Columbia College
-  class_year: 1978
-  role: Alum
 layout: memory
+schools:
+  CC: 1978
+primary_year: 1978
 ---
-
 # Beauty Beneath
 
 No one would dare call Earl Hall a beauty.  It may actually be among campus's bleakest buildings; ironically, it is the geographical mirror counterpart--if memory serves--to the Maison Francaise, one of the loveliest.

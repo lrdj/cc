@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: Intellectual Bull'
 author: Arnold Wasserman
-affiliations:
-- school: Columbia College
-  class_year: 1947
-  role: Alum
 layout: memory
+schools:
+  CC: 1947
+primary_year: 1947
 ---
-
 # Intellectual Bull
 
 One of my most favorite stories involves my very first class on the very first day attending Columbia back in September of 1941.

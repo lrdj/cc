@@ -1,16 +1,12 @@
 ---
 title: 'My Columbia: Change the World, Bit by Bit, Byte by Byte'
 author: Imran Anwar
-affiliations:
-- school: Graduate School of Journalism
-  class_year: 1990
-  role: Alum
-- school: Graduate School of Business
-  class_year: 1990
-  role: Alum
 layout: memory
+schools:
+  JRN: 1990
+  BUS: 1990
+primary_year: 1990
 ---
-
 # Change the World, Bit by Bit, Byte by Byte
 
 Two aspects of my Columbia experience turned out to be the opposite of what I had expected. And two other aspects of Columbia changed me -- or didn't!

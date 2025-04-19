@@ -5,13 +5,11 @@ tags:
 - John Jay
 - Hamilton Hall
 - Ferris Booth
-affiliations:
-- school: Columbia College
-  class_year: 1965
-  role: Alum
 layout: memory
+schools:
+  CC: 1965
+primary_year: 1965
 ---
-
 # Finding Furnald
 
 During my first year at Columbia, my home was 929 Livingston, a double with a view across the John Jay airshaft.  If you got really close to the window and moved over to one side, you could see a sliver of Amsterdam Avenue.
