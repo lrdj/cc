@@ -3,13 +3,11 @@ title: 'My Columbia: John Jay'
 author: Jeffrey  Becker
 tags:
 - John Jay
-affiliations:
-- school: Columbia College
-  class_year: 1978
-  role: Alum
 layout: memory
+schools:
+  CC: 1978
+primary_year: 1978
 ---
-
 # John Jay
 
 More Rooms than the Tombs

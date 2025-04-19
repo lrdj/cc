@@ -1,16 +1,12 @@
 ---
 title: 'My Columbia: King Lear and Professor Tayler'
 author: Jon Nelson
-affiliations:
-- school: Columbia College
-  class_year: 1987
-  role: Alum
-- school: Teachers College
-  class_year: 1994
-  role: Alum
 layout: memory
+schools:
+  CC: 1987
+  TC: 1994
+primary_year: 1994
 ---
-
 # King Lear and Professor Tayler
 
 Although at age 19 I had little understanding of Professor Tayler's lectures on Shakespeare's great tragedies, I knew enough to copy what he was saying as completely as I could.  I recall him standing at the lectern, hovering over the yellowed pages of his notebook, held together by tape of various kinds.  I recall the way he paused occasionally to look up from his notes, as if to see if we were still with him.  When we reached King Lear after a year-long journey through three-quarters of Shakespeare's plays, he seemed to change right before my eyes.  As he read excerpts from the play--"pray you, undo this button"--and paused as tears welled in his eyes, Professor Tayler seemed to move a little slower, seemed to age right before my eyes.

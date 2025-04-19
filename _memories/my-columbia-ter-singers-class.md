@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: T.E.R. Singer''s Class'
 author: Barbara Forgione
-affiliations:
-- school: School of Library Service
-  class_year: 1962
-  role: Alum
 layout: memory
+schools:
+  LS: 1962
+primary_year: 1962
 ---
-
 # T.E.R. Singer's Class
 
 It was a very hot day in June, 1959.  We all were seated in Butler Hall, on the top floor, waiting for the professor to arrive.  There was no air conditioning, and no fan in the room.  It was my very first class at Columbia.

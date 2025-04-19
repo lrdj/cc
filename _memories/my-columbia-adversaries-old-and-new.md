@@ -4,13 +4,11 @@ author: Andrew Fisher
 tags:
 - WKCR
 - Ferris Booth
-affiliations:
-- school: Columbia College
-  class_year: 1965
-  role: Alum
 layout: memory
+schools:
+  CC: 1965
+primary_year: 1965
 ---
-
 # Adversaries, Old and New
 
 In 1964, I was a staff announcer at WKCR and was assigned to do the halftime newscast at the Columbia-Princeton basketball game.  For some reason, I could not do the newscast from the WKCR studios in Ferris Booth Hall and had to deliver the newscast from the sidelines of the game itself, in the old University Hall gym.

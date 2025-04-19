@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: Columbia Spirituality: Buddhism'
 author: Jefferson Svengsouk
-affiliations:
-- school: Columbia College
-  class_year: 1990
-  role: Alum
 layout: memory
+schools:
+  CC: 1990
+primary_year: 1990
 ---
-
 # Columbia Spirituality: Buddhism
 
 As a Theravada Buddhist by family tradition, I arrived at Columbia with a cultural exposure to layperson Buddhist practice, as well as a superficial understanding acquired through the excuse of getting out of bible study class at my Episcopalian high school.

@@ -3,16 +3,12 @@ title: 'My Columbia: Back to "Seven Storey Mountain"'
 author: Martha Delano
 tags:
 - Barnard
-affiliations:
-- school: Teachers College
-  class_year: 1959
-  role: Alum
-- school: School of Nursing
-  class_year: 1949
-  role: Alum
 layout: memory
+schools:
+  TC: 1959
+  NRS: 1949
+primary_year: 1959
 ---
-
 # Back to "Seven Storey Mountain"
 
 This will be brief. Some time at Columbia (two years at Barnard), around 1944-46, I became acquainted with the writings of Thomas Merton. I read "The Seven Storey Mountain" and particularly enjoyed his recollections of university life. I do not recall being at all involved in any religious organizations although I knew of Father Ford at Corpus Christi Church, which was in the community.

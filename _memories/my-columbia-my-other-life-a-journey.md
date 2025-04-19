@@ -4,13 +4,11 @@ author: Ingrid Magnani
 tags:
 - John Jay
 - SEAS
-affiliations:
-- school: School of Engineering and Applied Science
-  class_year: 2001
-  role: Alum
 layout: memory
+schools:
+  SEAS: 2001
+primary_year: 2001
 ---
-
 # My Other Life: A Journey
 
 When I hear someone say "I wish I were in 21 again; life was so easy," I always respond: "You can take 19-23. I'll stay who I am now!"

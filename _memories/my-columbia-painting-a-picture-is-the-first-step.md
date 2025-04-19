@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: Painting a Picture Is the First Step'
 author: Galina Duckworth
-affiliations:
-- school: School of International and Public Affairs
-  class_year: 2003
-  role: Alum
 layout: memory
+schools:
+  SIPA: 2003
+primary_year: 2003
 ---
-
 # Painting a Picture Is the First Step
 
 I was entering the second year of the Master's program at SIPA when my life was suddenly changed - once and forever.

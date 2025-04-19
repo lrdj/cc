@@ -6,7 +6,9 @@ permalink: /decades/
 
 # {{ page.title }}
 
-<p class="intro">Browse all submitted memories grouped by the decade the author graduated. Each era captures a distinct cultural and campus mood.</p>
+<p class="intro">
+  Browse all submitted memories grouped by the decade the author graduated. Each era captures a distinct cultural and campus mood.
+</p>
 
 <div class="decade-grid">
   {% assign decades = 
@@ -20,19 +22,22 @@ permalink: /decades/
      1990s:Grunge, activism, and the rise of the internet;
      2000s:9/11, community, and campus response;
      2010s:Occupy, climate protest, and digital life on campus;
-     2020s:Pandemic, Black Lives Matter, and the return to campus" | split: ";" %}
+     2020s:Pandemic, Black Lives Matter, and the return to campus"
+    | split: ";" 
+  %}
 
   {% for item in decades %}
-    {% assign parts = item | split: ":" %}
-    {% assign decade = parts[0] %}
+    {% assign clean    = item | strip %}
+    {% assign parts    = clean | split: ":" %}
+    {% assign decade   = parts[0] %}
     {% assign subtitle = parts[1] %}
 
     <div class="decade-card">
-      <a href="/decades/{{ decade | downcase }}/">
+      <a href="/decades/{{ decade | downcase | strip }}/">
         <h2>{{ decade }}</h2>
         <p>{{ subtitle }}</p>
       </a>
     </div>
+
   {% endfor %}
 </div>
-

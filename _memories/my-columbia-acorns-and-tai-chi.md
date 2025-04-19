@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: Acorns and Tai Chi'
 author: Noreen (Flanigan) Whysel
-affiliations:
-- school: Columbia College
-  class_year: 1990
-  role: Alum
 layout: memory
+schools:
+  CC: 1990
+primary_year: 1990
 ---
-
 # Acorns and Tai Chi
 
 I have a few Furnald stories.

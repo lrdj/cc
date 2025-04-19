@@ -3,16 +3,12 @@ title: 'My Columbia: Freshman Year 1968'
 author: Arthur Mehmel
 tags:
 - Hartley
-affiliations:
-- school: Columbia College
-  class_year: 1972
-  role: Alum
-- school: Graduate School of Business
-  class_year: 1976
-  role: Alum
 layout: memory
+schools:
+  CC: 1972
+  BUS: 1976
+primary_year: 1976
 ---
-
 # Freshman Year 1968
 
 We formed a terrific group of friends in Hartley Hall in 1968, a time when we slept on bunk beds, doors had to be open when a girl was in the room, and the hallway floors were uncarpeted tiles.

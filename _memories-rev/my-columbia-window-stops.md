@@ -1,0 +1,17 @@
+---
+title: 'My Columbia: Window Stops'
+author: Victor Kan
+affiliations:
+- school: School of Engineering and Applied Science
+  class_year: 1989
+  role: Alum
+layout: memory
+---
+
+# Window Stops
+
+I lived in the Schapiro residence hall the year that it first opened.  It was (and I hope still is) an excellent dormitory.  Perhaps the most bizarre experience of my life at Columbia was when URH had a crackdown on people removing the window stops from the sliding windows in Schapiro. URH sent maintenance crews to check and reinstall stops from every dorm room in the building where the stops had been removed and sent a bill to students who had removed them for some amount of money (I forget, maybe $50 or $100?).
+
+The bizarreness wasn't so much that there were window stops in the first place (well, I thought it was kinda crazy), or that I was billed in error for removing the stop, which I never did, but that when I tried to correct URH's error, I fell into the trap of having to prove I didn't do something.  It's the kind of thing you might discuss in an argumentative writing class as a freshman, or maybe in a logic offering from the Philosophy department, or an evidentiary standards course in the Law School. But this was no thought experiment--I was living this!  I had no proof that I didn't do it (how could I?), URH claimed to have records that maintenance workers went to my room, saw the stop missing, replaced it and charged me, and there was nothing I could do to get the fine reversed. Given that I was a senior and about to graduate and move on to the next stage of my adult life, I just gritted my teeth and paid the fine.
+
+I remember getting screwed over by URH every time I receive a fund raising solicitation from Columbia.  I know I'm being petty and not really accomplishing anything.  Maybe if URH adopts (or has adopted) a reasonable dispute resolution policy, I might reconsider my alumni giving.

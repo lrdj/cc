@@ -1,16 +1,12 @@
 ---
 title: 'My Columbia: Summer in the City'
 author: Janine  Petit Greenwood
-affiliations:
-- school: Graduate School of Journalism
-  class_year: 1972
-  role: Alum
-- school: School of Law
-  class_year: 1976
-  role: Alum
 layout: memory
+schools:
+  JRN: 1972
+  LAW: 1976
+primary_year: 1976
 ---
-
 # Summer in the City
 
 The celebration of graduation by law students is always just a little muted.  In the back of your mind is always the dreaded bar exam.

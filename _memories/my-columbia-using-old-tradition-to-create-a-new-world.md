@@ -5,13 +5,11 @@ tags:
 - Core Curriculum
 - Lit Hum
 - Columbia College
-affiliations:
-- school: Columbia College
-  class_year: 2004
-  role: Alum
 layout: memory
+schools:
+  CC: 2004
+primary_year: 2004
 ---
-
 # Using Old Tradition to Create a New World
 
 Columbia's reputed "traditional" core curriculum was one of the things that drew me to the school. Throughout Lit Hum and CC, I fully appreciated that we were engaging with texts that were at the base of our culture. I believe it was this solid foundation in classic areas that lead me to create and complete a new, non-traditional major at Columbia College: Yiddish Studies. Knowing that I had background in mainstream Western thinking gave me the freedom to devote time to such a specific, non-mainstream area.

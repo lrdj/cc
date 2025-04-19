@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: "Great Minds of My Generation"'
 author: Peter Kenton
-affiliations:
-- school: School of Law
-  class_year: 1952
-  role: Alum
 layout: memory
+schools:
+  LAW: 1952
+primary_year: 1952
 ---
-
 # "Great Minds of My Generation"
 
 The greatest mind of my generation, it was my privilege to know, belonged to my classmate, the late and much regretted Allan Farnsworth. 

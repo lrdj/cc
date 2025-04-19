@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: Laetitia et Pulchritudo'
 author: Andrew Fisher
-affiliations:
-- school: Columbia College
-  class_year: 1965
-  role: Alum
 layout: memory
+schools:
+  CC: 1965
+primary_year: 1965
 ---
-
 # Laetitia et Pulchritudo
 
 In the fall semester of my sophomore year, I was quite adrift, with little or no sense of what I was doing at Columbia.  I had done very poorly in my freshman year and was amazed that my scholarship had not been withdrawn.

@@ -3,19 +3,12 @@ title: 'My Columbia: My Favorite Teacher'
 author: Daniel Johnson
 tags:
 - Contemporary Civilization
-affiliations:
-- school: Columbia College
-  class_year: 1961
-  role: Alum
-- school: Graduate School of Arts and Sciences
-  class_year: 1962
-  role: Alum
-- school: Graduate School of Arts and Sciences
-  class_year: 1966
-  role: Alum
 layout: memory
+schools:
+  CC: 1961
+  GSAS: 1966
+primary_year: 1966
 ---
-
 # My Favorite Teacher
 
 During my years at Columbia, I had many outstanding teachers in contemporary civilization, economics, and psychology, which was my undergrad co-major (with economics) and the concentration for my M.A. and Ph.D.

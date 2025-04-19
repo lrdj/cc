@@ -4,13 +4,11 @@ author: Jennifer Williford
 tags:
 - Ruggles
 - McBain
-affiliations:
-- school: Columbia College
-  class_year: 1998
-  role: Alum
 layout: memory
+schools:
+  CC: 1998
+primary_year: 1998
 ---
-
 # Facilities Manager
 
 I spent my first and only summer on campus after completing my freshman year.  I had decided not to return to Cleveland, so as to avoid working in the mall or at a restaurant waiting tables.  Of course, I ended up spending the following summer doing just that.

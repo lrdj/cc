@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: Wild Turkeys on Campus'
 author: Ron  Slangen
-affiliations:
-- school: Graduate School of Architecture, Planning, and Preservation
-  class_year: 2005
-  role: Alum
 layout: memory
+schools:
+  GSAPP: 2005
+primary_year: 2005
 ---
-
 # Wild Turkeys on Campus
 
 I have fond memories of morning coffee on the back porch of the Monell Building for international climate research at the Lamont-Doherty Earth Observatory (LDEO).  On one occasion, I spent a few moments with two charismatic wild turkeys. Where else on Columbia's campus can that happen?   Lamont is a peaceful respite from university's urban setting and, for me, the most beautiful part of campus.

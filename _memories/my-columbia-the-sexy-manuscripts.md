@@ -3,19 +3,13 @@ title: 'My Columbia: The Sexy Manuscripts'
 author: Irwin Gray
 tags:
 - Butler Library
-affiliations:
-- school: Graduate School of Business
-  class_year: 1967
-  role: Alum
-- school: School of Engineering and Applied Science
-  class_year: 1958
-  role: Alum
-- school: Graduate School of Journalism
-  class_year: 2002
-  role: Alum
 layout: memory
+schools:
+  BUS: 1967
+  SEAS: 1958
+  JRN: 2002
+primary_year: 2002
 ---
-
 # The Sexy Manuscripts
 
 It was back in 1957, when I was on campus taking my MS in Mechanical Engineering.  I had some time between classes and decided to explore Butler Library from top to bottom.

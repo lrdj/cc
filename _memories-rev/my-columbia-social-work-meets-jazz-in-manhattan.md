@@ -1,0 +1,15 @@
+---
+title: 'My Columbia: Social Work Meets Jazz in Manhattan'
+author: Nikola Alenkin
+affiliations:
+- school: School of Social Work
+  class_year: 1997
+  role: Alum
+layout: memory
+---
+
+# Social Work Meets Jazz in Manhattan
+
+My memories of being in New York during my studies at the School of Social Work are always peppered with the sound of music--more specifically, with that of jazz.  When I did have the opportunity to "escape" from my studies, I used to go to a place on 106th and Broadway (which is no longer there) that had a big "A" out front.  There were usually many students there on the same voyage I was on.
+
+I can still remember the smell of the place: cheap beer, even cheaper cologne (hey, we were students!) and the occasional hamburger or two.  For me, though, hearing the musicians (who often were other students) and being in the "Big Apple" in a "jazz club" made me feel at home.  I can't say enough about that place, but I can tell you that my superstitious belief that the giant "A" out front meant that I would do very well on all my papers proved true, and it is a lasting memory I still have of being at Columbia and in New York.

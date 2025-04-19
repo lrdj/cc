@@ -4,13 +4,11 @@ author: Thomas Wm. Hamilton
 tags:
 - Barnard
 - WKCR
-affiliations:
-- school: Columbia College
-  class_year: 1960
-  role: Alum
 layout: memory
+schools:
+  CC: 1960
+primary_year: 1960
 ---
-
 # Something New for Astronomy Class
 
 My defining moment at Columbia involves neither my arrival on campus nor meeting a Barnard co-ed.  In fact, I was not even on campus when it started, but home eating dinner when a reporter on the radio said the Soviet Union claimed to have placed something they called a Sputnik in space.

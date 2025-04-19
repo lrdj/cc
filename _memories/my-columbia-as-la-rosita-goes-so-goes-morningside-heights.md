@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: As La Rosita Goes, So Goes Morningside Heights'
 author: Tom Meltzer
-affiliations:
-- school: Columbia College
-  class_year: 1983
-  role: Alum
 layout: memory
+schools:
+  CC: 1983
+primary_year: 1983
 ---
-
 # As La Rosita Goes, So Goes Morningside Heights
 
 I arrived on Manhattan's Morningside Heights 27 years ago, a Baltimore suburbanite with little experience of urban living. I immediately fell in love with the place, embracing its grunginess with much enthusiasm. And it was grungy. My apartment on 109th and Amsterdam got hot water maybe 2 hours a day; sometimes there was no running water at all. I was mugged three times in my first five years in the city. A drug deal on the corner a few yards from my front door culminated in one fellow shooting another in the face. Reports that yet another landlord had torched a building in order to rid himself of pesky rent-control tenants and rebuild as a condo were met with a shrug more appropriate to a "dog bites man" news story. I have several friends who lost their apartments in just that way, in fact.

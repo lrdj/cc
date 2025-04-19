@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: Running for Warmth'
 author: Marc McCann
-affiliations:
-- school: Columbia College
-  class_year: 1988
-  role: Alum
 layout: memory
+schools:
+  CC: 1988
+primary_year: 1988
 ---
-
 # Running for Warmth
 
 Coming to Columbia from Cleveland in 1984, I was pleasantly surprised to find the temperature relatively balmy in New York, with the buildings trapping heat and generally knocking down the wind.  So after growing up on the shores of Lake Eerie, with its icy winds and lake-effect snows, I enjoyed the higher New York City temperatures, and enjoyed a sense of being pretty warm.

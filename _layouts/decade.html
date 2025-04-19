@@ -1,0 +1,41 @@
+---
+layout: default
+---
+
+<h1>Memories from the {{ page.decade }}</h1>
+<p class="intro">All memories from graduates in the {{ page.decade }}.</p>
+
+{% comment %}
+  Turn “1920s” ⇒ 192 ⇒ *10 ⇒ [1920…1929] 
+{% endcomment %}
+{% assign start = page.decade | remove: "s" | plus: 0 %}
+{% assign end   = start | plus: 9 %}
+
+{% assign memories_in_decade = site.memories 
+    | where_exp: "m", "m.primary_year >= start and m.primary_year <= end" 
+    | sort: "primary_year" 
+%}
+
+{% if memories_in_decade.size > 0 %}
+  <ul class="memory-list">
+    {% for mem in memories_in_decade %}
+      <li class="memory-item">
+        <a href="{{ mem.url }}">
+          <h2>{{ mem.title }}</h2>
+        </a>
+        <small>{{ mem.primary_year }}</small>
+        {% if mem.schools %}
+          <p class="schools">
+            {% for pair in mem.schools %}
+              {% assign code = pair[0] %}
+              {% assign year = pair[1] %}
+              {{ site.data.schoolcodes[code] }} {{ year }}{% unless forloop.last %}, {% endunless %}
+            {% endfor %}
+          </p>
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+{% else %}
+  <p>No memories found for the {{ page.decade }}.</p>
+{% endif %}

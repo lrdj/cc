@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: Staying Warm'
 author: Amy Bryer Rojas
-affiliations:
-- school: School of Dental and Oral Surgery
-  class_year: 2004
-  role: Alum
 layout: memory
+schools:
+  SDOS: 2004
+primary_year: 2004
 ---
-
 # Staying Warm
 
 A daily endeavor in the New York winters. Layering...that was the key. Hopefully, the snow was new or maybe if I was lucky there would be no snow at all. Because if it was one of those days that the snow had already begun to melt... Oh. Watch out.

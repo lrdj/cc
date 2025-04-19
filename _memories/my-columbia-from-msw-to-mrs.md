@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: From MSW to MRS'
 author: MADELINE COLCOL KRIMMEL
-affiliations:
-- school: School of Social Work
-  class_year: 1974
-  role: Alum
 layout: memory
+schools:
+  SW: 1974
+primary_year: 1974
 ---
-
 # From MSW to MRS
 
 While a second year student at the School of Social Work, I was living in Johnson Hall.  I would do my laundry once a week, & on a particular day while I was folding clothes, a young man began speaking to me.  Since the dorm was co-ed I believed he was also living in the same residence.  This young man was not but he was a first-year social work student.  We talked for a long time & he then invited me to an on-campus movie (Charlie Chaplain's  "Modern Times," for $1.00).  Five months later, we were married at the University chapel by the campus priest.  It is now 31 years since that date and our two sons still enjoy hearing about how their parents met folding clothes.

@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: The first day of class'
 author: shari Ovadia
-affiliations:
-- school: School of Social Work
-  class_year: 1986
-  role: Alum
 layout: memory
+schools:
+  SW: 1986
+primary_year: 1986
 ---
-
 # The first day of class
 
 On the first day of classes, I sat next to a tall young man. We talked about nothing in particular waiting for our first graduate class to begin, both a little nervous about what the MSW program would be like. Later in the week, he approached me in the library to ask if I was any relation to a girl he had gone to junior high school with that had the same last name. It happened to be one of my closest cousins! We developed a friendship over the next two years, obviously attracted to each other but both involved in relationships. On the evening of our last final (Psychopathology of Adulthood), we made plans to go out (as friends?) to celebrate. It was the beginning of our relationship together - 21 years later we are married (almost 19 years), have two children, a dog, 2 cats and are still both practicing social workers.

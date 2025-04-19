@@ -3,13 +3,11 @@ title: 'My Columbia: Mr. Stade'
 author: charles saydah
 tags:
 - Contemporary Civilization
-affiliations:
-- school: Columbia College
-  class_year: 1967
-  role: Alum
 layout: memory
+schools:
+  CC: 1967
+primary_year: 1967
 ---
-
 # Mr. Stade
 
 The guy was tall, lean and looked a little seedy. His walk seemed a cocky amble. His face took on aspects of pain, fatalism and bemusement. His hair seemed more a perverse steel brush with long bristles than any regular coif one might have associated with smoother-edged faculty.

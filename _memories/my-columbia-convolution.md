@@ -3,13 +3,11 @@ title: 'My Columbia: Convolution'
 author: Kok-Yong Tan
 tags:
 - SEAS
-affiliations:
-- school: School of General Studies
-  class_year: 1990
-  role: Alum
 layout: memory
+schools:
+  GS: 1990
+primary_year: 1990
 ---
-
 # Convolution
 
 I was introduced to the mathematical operation of "convolution" as an aspiring EE (Electrical Engineering) student in an Electromagenetics course taught by a professor already named in these archives by someone else. Now, I wanted to be a "practicing/practical" engineer and not a theoretician, so I went to the prof. and asked him what the physical manifestation of "convolution" might be.  His reply was, "Beats me.  I'm seconded from the Math department.  It's just numbers to me."  This flabbergasted me.

@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: "Don''t go there"'
 author: Richard Szathmary
-affiliations:
-- school: Columbia College
-  class_year: 1967
-  role: Alum
 layout: memory
+schools:
+  CC: 1967
+primary_year: 1967
 ---
-
 # "Don't go there"
 
 When I attended Columbia, my core Catholicism after 13 years of Catholic schooling was weakish, but still strong enough to send me into the arms of the Newman Club, and to keep me attending Mass on Sundays and even such "holydays of obligation" as November 1, All Saints Day. (Which wasn't always that easy after a night of Halloween faux-debauchery at the Psi U house.)

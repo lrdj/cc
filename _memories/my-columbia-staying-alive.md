@@ -3,13 +3,11 @@ title: 'My Columbia: Staying Alive'
 author: Edward Yasuna
 tags:
 - The West End
-affiliations:
-- school: Columbia College
-  class_year: 1967
-  role: Alum
 layout: memory
+schools:
+  CC: 1967
+primary_year: 1967
 ---
-
 # Staying Alive
 
 In the spring of 1965, finding myself drifting within a sophomore slump, playing pool a tad more than reading utopian theory, visiting the West End Pub almost as often as visiting my class on the poetry of Stevens and Williams, I realized that some time away from Columbia might be useful.  But there was the small inconvenience of Vietnam hovering over my generation, the College, and myself.  In short, taking time from Columbia would mean I'd be drafted, sent to 'Nam, shot, and killed, and that didn't seem a wise career choice.  So, my challenge was to find a way to take time off from school and not lose my student deferment.

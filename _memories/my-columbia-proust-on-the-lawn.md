@@ -3,13 +3,11 @@ title: 'My Columbia: Proust on the Lawn'
 author: Arvin Levine
 tags:
 - Furnald Hall
-affiliations:
-- school: Columbia College
-  class_year: 1971
-  role: Alum
 layout: memory
+schools:
+  CC: 1971
+primary_year: 1971
 ---
-
 # Proust on the Lawn
 
 One of my favorite recollections from my freshman year is going out onto the (great) lawn in front of Furnald Hall in late spring (finally warm weather!) with my copy of Proust's "A la Recherche du Temps Perdu (Remembrance of Things Past)"  for my French literature class.  It's a lazy sort of memory.

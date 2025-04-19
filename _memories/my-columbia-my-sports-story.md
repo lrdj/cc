@@ -3,6 +3,9 @@ title: 'My Columbia: My Sports Story'
 author: Dan Binder
 tags:
 - Homecoming
+
+primary_year: 2006
+
 layout: memory
 ---
 

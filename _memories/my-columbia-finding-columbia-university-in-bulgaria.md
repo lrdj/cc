@@ -4,16 +4,11 @@ author: Carla Stone
 tags:
 - Mudd
 - 1980s
-affiliations:
-- school: School of Engineering and Applied Science
-  class_year: 1974
-  role: Alum
-- school: School of Engineering and Applied Science
-  class_year: 1973
-  role: Alum
 layout: memory
+schools:
+  SEAS: 1973
+primary_year: 1973
 ---
-
 # Finding Columbia University In Bulgaria
 
 It is strange how going to an art museum in Sofia, Bulgaria makes one think of Columbia's Henry Krumb School of Mines....

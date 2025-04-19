@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: Frank: Learning to Love'
 author: Mary Jeanne Buttrey
-affiliations:
-- school: College of Physicians and Surgeons
-  class_year: 1974
-  role: Alum
 layout: memory
+schools:
+  PS: 1974
+primary_year: 1974
 ---
-
 # Frank: Learning to Love
 
 "Frank" was the grumpiest old man I'd ever met. He was a pillar of the church at Broadway Presbyterian down on 114th St, and his face often reflected it: a perpetual frown carved in stone. He was particularly distressed by the discontinuation of the traditional Wednesday night prayer meeting. However, dutiful member that he was, he agreed to join the new-fangled small group Bible study meeting in his neighborhood. Unfortunately, from Frank's point of view, he lived near the Medical Center, and all the other church members in that neighborhood were P&S students or young house staff and nurses. So we had our Bible study discussions, with Frank sitting there listening. The evening would usually end with him informing us of what the passage really meant.

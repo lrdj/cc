@@ -1,0 +1,13 @@
+---
+title: 'My Columbia: Favorite Teacher'
+author: Gauri Khurana
+affiliations:
+- school: Columbia College
+  class_year: 2000
+  role: Alum
+layout: memory
+---
+
+# Favorite Teacher
+
+My favorite teacher while I was an undergrad at Columbia is Carol Dweck, because I used her course materials (for her course in personality development psychology) when I later became a teacher after graduation!

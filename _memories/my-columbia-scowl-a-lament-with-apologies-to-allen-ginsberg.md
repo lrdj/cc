@@ -3,16 +3,12 @@ title: 'My Columbia: Scowl (A Lament, with Apologies to Allen Ginsberg)'
 author: David  Gawarecki
 tags:
 - Columbia College
-affiliations:
-- school: Columbia College
-  class_year: 1975
-  role: Alum
-- school: School of International and Public Affairs
-  class_year: 1991
-  role: Alum
 layout: memory
+schools:
+  CC: 1975
+  SIPA: 1991
+primary_year: 1991
 ---
-
 # Scowl (A Lament, with Apologies to Allen Ginsberg)
 
 Scowl (A Lament, with Apologies to Allen Ginsberg)

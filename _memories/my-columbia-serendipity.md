@@ -5,13 +5,11 @@ tags:
 - Spectator
 - The West End
 - Hungarian Pastry Shop
-affiliations:
-- school: Columbia College
-  class_year: 2004
-  role: Alum
 layout: memory
+schools:
+  CC: 2004
+primary_year: 2004
 ---
-
 # Serendipity
 
 "Perhaps this is old news but I heard the West End was at last closed down. V&T's is still around, I hope? And what of the Hungarian Pastry shop next to it?"

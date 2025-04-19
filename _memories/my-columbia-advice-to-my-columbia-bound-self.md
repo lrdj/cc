@@ -3,13 +3,11 @@ title: 'My Columbia: Advice to My Columbia-Bound Self'
 author: Katherine Howe
 tags:
 - WKCR
-affiliations:
-- school: Columbia College
-  class_year: 1999
-  role: Alum
 layout: memory
+schools:
+  CC: 1999
+primary_year: 1999
 ---
-
 # Advice to My Columbia-Bound Self
 
 1. Reconsider the nose ring. You'll like it for a few years, but in the end your mother will be proven right.

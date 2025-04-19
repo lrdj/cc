@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: Getting In'
 author: Naeha Dixit
-affiliations:
-- school: Columbia College
-  class_year: 2002
-  role: Alum
 layout: memory
+schools:
+  CC: 2002
+primary_year: 2002
 ---
-
 # Getting In
 
 3 months before graduation, I was stressed out and worried.  The only college I wanted to attend still hadn't gotten back to me.  Then early one Saturday morning, my 13 year old brother threw a gigantic UPS envelope onto me while I slept.  He looked at me expectantly, and I tore open the envelope!  I got in!  I got in!  I got in!  We were so excited; we jumped up and down on the bed for about 15 minutes while screaming at the top of our lungs.  I will never forget that day!

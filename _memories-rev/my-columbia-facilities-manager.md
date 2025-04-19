@@ -1,0 +1,44 @@
+---
+title: 'My Columbia: Facilities Manager'
+author: Jennifer Williford
+tags:
+- Ruggles
+- McBain
+affiliations:
+- school: Columbia College
+  class_year: 1998
+  role: Alum
+layout: memory
+---
+
+# Facilities Manager
+
+I spent my first and only summer on campus after completing my freshman year.  I had decided not to return to Cleveland, so as to avoid working in the mall or at a restaurant waiting tables.  Of course, I ended up spending the following summer doing just that.
+
+I had gotten a job as the assistant to the Facilities Manager, which meant photocopying, filing, and answering phones.  Each Facilities Manager is responsible for a selection of Columbia dorms and preparing them for fall habitation.  My boss,  I forget his name - we'll call him Frank -  was responsible for Ruggles, Schapiro, and Woodbridge.
+
+I spent the summer in Hogan - my first experience in suite living with three other Columbia students during one of the hottest NYC summers on record.  One of my suitemates had an air conditioner, and I spent many afternoons kneeling at his door trying to find some relief from the blistering heat.  It was a long summer with my suitemates as we battled the heat, each other, and the faulty plumbing that caused floods if you showered for more than eight minutes.  None of us were ever able to get out of the bathroom in less than 20 minutes.
+
+For the first two weeks on the job, I accompanied Frank to "our" dorms to ensure that all residual furniture and student property left behind had been removed.  Three weeks in, as I met 'Frank' in Schapiro to oversee the painting of six floors of the building, I was handed a pager the size of my head and a key ring containing about sixty keys.
+
+"What's this?" I asked.
+
+"It's the keys for all our buildings and a pager so I can contact you during your rounds."
+
+"What?"  I was completely perplexed by the fact that I now had my own rounds, and keys.
+
+"I'm going to be out tomorrow and the guys are coming to lay carpet in here.  I need you to let them into these rooms."  Frank said this as if I should have known this already.
+
+"Okay.  Whatever.  What time will they be here?"
+
+"7:30, but sometimes they show up a little early."
+
+Now, I may be new to building repair work, but I knew that these guys were not showing up at 7:30, let alone earlier.  They came around 9:15.  As they did throughout the rest of the summer.
+
+Over the next several weeks, I befriended the countless maintenance and housekeeping workers, electricians, phone installation men, painters, deliverymen, and a few mice in Ruggles.  I saw less and less of Frank and was soon putting out fires in various buildings, some not on my rounds.  Frank had come to rely on me to answer his phones, reschedule appointments, and negotiate with the various vendors working in the buildings.  Granted, I was heady with the power that my massive key ring bestowed upon me, but I also realized how "lavish" Columbia dorms are.  New stoves, new carpeting and a fresh coat of paint.  It was comforting to know that the administration took care of its charges.  Of course, that feeling died immediately as I moved into McBain, which was until recently one of the nastiest dorms on campus.  Oh, how quickly the magic fades.
+
+At the close of the summer, I reluctantly handed over my keys, accepted my nearly perfect review and went back to Hogan to sweat out the last few days of the summer before leaving for Paris.
+
+All in all, the experience was enlightening.  I had learned some of the secrets of the University housing system and had made some new friends.  And let me say that knowing you can contact the phone systems guy directly when you need to repair your new caller ID phone does leave you with a smug sense of importance.
+
+I never lived in any of "my buildings" while I was on campus, and I never saw Frank again.  But I know that if I ever truly needed anything, I could call on Frank and he would send his new assistant, keys dangling.

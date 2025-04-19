@@ -1,0 +1,17 @@
+---
+title: 'My Columbia: Live Jazz Memories'
+author: Stephen  Goldman
+tags:
+- John Jay
+affiliations:
+- school: Columbia College
+  class_year: 1966
+  role: Alum
+layout: memory
+---
+
+# Live Jazz Memories
+
+Among the memorable jazz moments that still resonate are hearing John Coltrane from point blank range at Birdland, Randy Weston and Mose Allison at the Five Spot, Herbie Mann at the Village Gate, Ella Fitzgerald at Lewisohn Stadium, and Duke Ellington at the Wohlman Rink in Central Park.  Of course, it wasn't necessary to leave the campus to hear fine jazz when, any Friday night, one could hear Kenny Ascher hold forth at the piano, situated in the archway in John Jay Hall between the fine dining room (King's Table?) on one side and the John Jay lobby on the other.
+
+On another occasion, there was a dance on campus, and the band was "The Moppets," four young women who were students at Mount Holyoke.  After the dance, Bill McDavid and I joined up with two of the young women, and, together, we saw Manhattan practically from end to end, starting with the IRT to the Staten Island Ferry, then the Brasserie for nourishment, and ending at the Cloisters, where we saw the sunrise.  Only in New York!

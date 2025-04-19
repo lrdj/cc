@@ -3,13 +3,11 @@ title: 'My Columbia: Forging Friendships on the Road to Columbia'
 author: Laurie Garda
 tags:
 - Mudd
-affiliations:
-- school: School of Engineering and Applied Science
-  class_year: 1987
-  role: Alum
 layout: memory
+schools:
+  SEAS: 1987
+primary_year: 1987
 ---
-
 # Forging Friendships on the Road to Columbia
 
 Being a part-time graduate student from the business community in New Jersey, my Columbia "social life" consisted of long, afternoon commutes into the city and  somewhat shorter drives back home. The many hours spent with my fellow car-poolers - Amy and Liz - provided more than enough time to learn about their  family histories, work woes and, occasionally, our Columbia courses.

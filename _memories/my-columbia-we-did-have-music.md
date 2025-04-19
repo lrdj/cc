@@ -3,16 +3,12 @@ title: 'My Columbia: We Did Have Music!'
 author: John T Herbert
 tags:
 - Ferris Booth
-affiliations:
-- school: College of Physicians and Surgeons
-  class_year: 1973
-  role: Alum
-- school: Columbia College
-  class_year: 1969
-  role: Alum
 layout: memory
+schools:
+  PS: 1973
+  CC: 1969
+primary_year: 1973
 ---
-
 # We Did Have Music!
 
 When I started Columbia in 1965, there was an abundance of local musical talent, both on and off campus.  Folk stuff had been popular and "The Walkers" were the hottest rock band in Ferris Booth Hall.  The Lenox Lounge, the Apollo, and other places had great jazz and R&B, but it was not until the advent of "The Soul Syndicate" that the African American musical presence was really felt on campus.

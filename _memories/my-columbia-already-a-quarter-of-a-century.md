@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: Already a Quarter of a Century?'
 author: Kathryn Huber
-affiliations:
-- school: School of Social Work
-  class_year: 1980
-  role: Alum
 layout: memory
+schools:
+  SW: 1980
+primary_year: 1980
 ---
-
 # Already a Quarter of a Century?
 
 There are so many people who pass through our lives, like breezes on their way to the sea - they might jostle us, or soothe or please us before they disappear, or they may just slip by altogether unnoticed. But there are other people who enter our lives and never leave, even when most of the time they are hemispheres away.

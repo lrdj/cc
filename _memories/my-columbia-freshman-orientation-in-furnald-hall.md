@@ -4,13 +4,11 @@ author: Maritza Jauregui
 tags:
 - Furnald Hall
 - Hartley
-affiliations:
-- school: Columbia College
-  class_year: 1992
-  role: Alum
 layout: memory
+schools:
+  CC: 1992
+primary_year: 1992
 ---
-
 # Freshman Orientation in Furnald Hall
 
 Coming from an extremely conservative immigrant family, I was not allowed to live in the dorms my freshman year. My parents claimed that it was an unreasonable expense, given that we lived just across the river in NJ, but I knew better--especially when they gasped after hearing that I was going to have to spend a week on campus during freshman orientation.

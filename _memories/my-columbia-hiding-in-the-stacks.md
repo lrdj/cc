@@ -3,13 +3,11 @@ title: 'My Columbia: Hiding in the Stacks'
 author: Kathryn Pitrone
 tags:
 - Butler Library
-affiliations:
-- school: School of General Studies
-  class_year: 2002
-  role: Alum
 layout: memory
+schools:
+  GS: 2002
+primary_year: 2002
 ---
-
 # Hiding in the Stacks
 
 I completed my degree in 2002, but spent most of my Columbia experience at the university in the mid-70s.  Air-conditioning was not a ubiquitous pleasure then, and finding a cool and quiet place to study might mean dim obscurity, virtually underground.  I enjoyed hiding in the stacks at Butler Library.

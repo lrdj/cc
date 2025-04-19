@@ -1,0 +1,17 @@
+---
+title: 'My Columbia: How I Kept Warm'
+author: David Kenner
+tags:
+- Ruggles
+affiliations:
+- school: School of Law
+  class_year: 1983
+  role: Alum
+layout: memory
+---
+
+# How I Kept Warm
+
+During my first year at Columbia I lived in Ruggles Hall.  The main steam pipe went right through my room.  It was so warm that I had to keep the window cracked open all winter long.  When the steam started up each time during the night it sounded like a jackhammer was in my room.  I left Ruggles after my first year for Watt Hall--it was a pleasant improvement.
+
+David Kenner

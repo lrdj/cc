@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: Law to Layman'
 author: Don Wilson
-affiliations:
-- school: School of Law
-  class_year: 1948
-  role: Alum
 layout: memory
+schools:
+  LAW: 1948
+primary_year: 1948
 ---
-
 # Law to Layman
 
 Karl Llewelen, jurisprudence prof, left class after his point was made. 30 mins, 20 mins or whatever time it took.

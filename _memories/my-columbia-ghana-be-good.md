@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: Ghana Be Good'
 author: Dominique Phelps
-affiliations:
-- school: Columbia College
-  class_year: 2004
-  role: Alum
 layout: memory
+schools:
+  CC: 2004
+primary_year: 2004
 ---
-
 # Ghana Be Good
 
 During my junior year (Spring 2003), I left for what would eventually become a life changing experience.  I had originally been scheduled to study in South Africa, but at the suggestion of a couple of friends, I opted for sunny West Africa.  When I first arrived in Accra, Ghana, the first impression I had was the heat.  My fatigue and the heat left me in a blur, and when a small kid approached our bus asking for a handout, I unknowingly handed him a five dollar bill and a bag of Doritos, which had been packed in my carry on bag.  Little did I know that I had given the kid about 50,000 units of local currency. The smile on his face made me feel like I had really made his day in addition to temporarily making him very wealthy.

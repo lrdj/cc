@@ -4,16 +4,12 @@ author: Stan Crock
 tags:
 - Carman Hall
 - Barnard
-affiliations:
-- school: Columbia College
-  class_year: 1972
-  role: Alum
-- school: School of Law
-  class_year: 1977
-  role: Alum
 layout: memory
+schools:
+  CC: 1972
+  LAW: 1977
+primary_year: 1977
 ---
-
 # Freshman Week Hosting: Opening a Door
 
 At the start of my senior year, my Freshman Week host duties mainly involved meeting each night with several dozen fresh-faced denizens of an upper floor of Carman Hall. At 11:30 p.m. they were tired, and I had to figure out how to keep their attention. The solution: not stand-up comedy but sit-down, on-the-carpet humor. I regaled them with stories about Columbia, Barnard, New York, how Broadway was in fact the widest street in the world, at least when it came to meeting Barnard women. (Back in 1971, Columbia wasn't co-ed.)

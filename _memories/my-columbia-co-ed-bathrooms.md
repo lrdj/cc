@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: Co-ed Bathrooms'
 author: Karla Morales
-affiliations:
-- school: Columbia College
-  class_year: 1994
-  role: Alum
 layout: memory
+schools:
+  CC: 1994
+primary_year: 1994
 ---
-
 # Co-ed Bathrooms
 
 I remember moving into Furnald dorm for my junior year and realizing for the first time that not only was the floor co-ed, but the bathrooms were, too.

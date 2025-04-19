@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: The Day Ball Points Got a Chilly Reception'
 author: Nicole Campbell
-affiliations:
-- school: Graduate School of Journalism
-  class_year: 1996
-  role: Alum
 layout: memory
+schools:
+  JRN: 1996
+primary_year: 1996
 ---
-
 # The Day Ball Points Got a Chilly Reception
 
 No, not now. Not here. Not in the middle of the street in the middle of the winter that had set a then-record in New York City for most snowfall.

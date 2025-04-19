@@ -1,0 +1,15 @@
+---
+title: 'My Columbia: Eclipse'
+author: Walter Ebmeyer
+tags:
+- Butler Library
+affiliations:
+- school: School of Library Service
+  class_year: 1973
+  role: Alum
+layout: memory
+---
+
+# Eclipse
+
+I think it was in 1972 that we had an eclipse of the sun (an astronomer could check this). I was studying upstairs in Butler Library where the old SLS (now defunct!) used to be, looking out across the lawn toward Low. Just as things started changing color, the famous Columbia Band arrived and started playing "You Are My Sunshine."  I felt like one of those primitives who really aren't sure the sun will be back.  But it would have been a great way to go.  Columbia never looked or sounded better.

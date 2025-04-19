@@ -1,0 +1,41 @@
+
+<style>
+
+#memory-loop { list-style: none; padding-left: 0.5rem; }
+
+#memory-loop li {
+  display: grid;
+  grid-template-columns: 4em 1fr;
+  gap: 0;
+  align-items: start;
+  padding-bottom:1rem; 
+  margin-bottom:1rem; 
+  border-bottom: 1px solid #eaeaea;
+}
+
+.listing-year {
+  font-family: 'Inter', 'Helvetica Neue', system-ui, sans-serif;
+  font-weight: 400;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  text-align:center;
+  font-size: 1.5rem;
+  padding: 0.25rem;
+  border-radius: 4px;
+  background-color: #C3D9EC;
+  grid-row: span 2;
+  align-self: center;
+  margin-right:0.75rem;
+}
+
+</style>
+
+<ul id="memory-loop">
+  {% assign sorted_memories = site.memories | sort: "primary_year" | reverse %}
+  {% for memory in sorted_memories limit: include.limit offset: include.offset %}
+    <li>
+      <span class="listing-year">'{{- memory.primary_year | slice: -2, 2 -}}</span> {{ memory.author }}:<br>
+      <a href="{{ memory.url }}"><i>{{ memory.title }}</i></a>
+    </li>
+  {% endfor %}
+</ul>

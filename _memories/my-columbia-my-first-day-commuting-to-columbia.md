@@ -3,13 +3,11 @@ title: 'My Columbia: My First Day Commuting to Columbia'
 author: Shre Roy
 tags:
 - Barnard
-affiliations:
-- school: School of Engineering and Applied Science
-  class_year: 1989
-  role: Alum
 layout: memory
+schools:
+  SEAS: 1989
+primary_year: 1989
 ---
-
 # My First Day Commuting to Columbia
 
 My life is now a fast paced blur of events as I run though the treadmill of life with work, family, and the kids, however, first memories of Columbia are still sharp and forever etched in my mind.

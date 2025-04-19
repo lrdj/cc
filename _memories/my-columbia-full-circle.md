@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: full circle'
 author: lawrence mumm
-affiliations:
-- school: Columbia College
-  class_year: 1976
-  role: Alum
 layout: memory
+schools:
+  CC: 1976
+primary_year: 1976
 ---
-
 # full circle
 
 on a warm, sunny day, classes over, would sit on the sun dial and wait.  and friends would walk by and sit and accumulate.  and in the pre-cell phone/answering machine days, it was the best way to line up the players for the thursday night poker game.

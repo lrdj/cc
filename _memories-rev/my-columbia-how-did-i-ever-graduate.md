@@ -1,0 +1,15 @@
+---
+title: 'My Columbia: How Did I Ever Graduate?!'
+author: Ruth Mullen
+tags:
+- Mudd
+affiliations:
+- school: Graduate School of Arts and Sciences
+  class_year: 1977
+  role: Alum
+layout: memory
+---
+
+# How Did I Ever Graduate?!
+
+In grad school, I fell in with the wrong crowd.  Well, it wasn't exactly a crowd--let's say, the wrong tiny little group of misfits.  Cockroach-fashion, we made minimal appearances during daylight but prowled around endlessly all night.  And no matter where we went--CBGB aka Your Band Plays for Beer, Mudd Club aka David Byrne's Place, Tier 3 with its tiny dance floor, Hurrah where my videos first made money, Max's Kansas City, Pyramid, Irving Plaza, Palladium, Studio--it required changing trains several times before we'd arrive back at the dorm.  The clock would chime 2 a.m., maybe 3...then like black-leather-encased Cinderellas, we'd hurry to the platform...if we'd stayed too late, then it would be an hour or more wait as the endless squealing garbage trains crawled uptown before we would finally, gratefully, step into a broiling hot, graffiti-covered mugger express that would often break down before reaching 23rd Street.

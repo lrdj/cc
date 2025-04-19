@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: On Broadway'
 author: Erin Sarah Kade
-affiliations:
-- school: School of General Studies
-  class_year: 2003
-  role: Alum
 layout: memory
+schools:
+  GS: 2003
+primary_year: 2003
 ---
-
 # On Broadway
 
 My most "artsy experience" was in the summer before my senior year, when I ended up taking a class called "The New York Theater Experience."  I was hoping that it would be an easy way to see free Broadway shows and the like, but apparently Columbia did not have the budget for that.

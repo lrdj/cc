@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: The Lesson of the Wrong Train'
 author: Michael Goldman
-affiliations:
-- school: Columbia College
-  class_year: 1963
-  role: Alum
 layout: memory
+schools:
+  CC: 1963
+primary_year: 1963
 ---
-
 # The Lesson of the Wrong Train
 
 My first significant Columbia experience occurred a month or two before my freshman year began, during the summer of 1959.  A family friend invited me to visit the campus and gave me directions:  take the express to 96th Street, change for the local, and get out at 116th.  When the local arrived at 96th the only people I saw getting on it were wearing CCNY jackets.  I assumed this was not my train and took the next one.  When I got out at 116th I realized my mistake.  The only thing that looked like a campus was a cluster of trees in the far distance (which turned out to be Morningside Park).  I headed for them and soon realized that I was in Harlem.  I also noticed that people were looking at me with curiosity, almost hostility:  what are you doing here?  I did not feel threatened but I did feel uncomfortable.  Then I recognized the look:  it was the way white people look at African Americans when they walk in white neighborhoods!  And, for the first time, I understood racism viscerally, not just intellectually.  What must it be like to live in a society that looks at you that way?  And while I have to endure it only when I get on the wrong train, the people around me have no escape from it.  It was a profound lesson, more lasting than most I learned in class.

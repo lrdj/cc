@@ -6,17 +6,20 @@ permalink: /memories-8/
 
 <h1>{{ page.title }}</h1>
 
-<ul>
-  {% assign memories = site.memories | sort: "affiliations[0].class_year" | reverse %}
-  {% for memory in memories limit:50 offset:350 %}
-    <li>
-      {{ memory.author }}:<br><a href="{{ memory.url }}"><i>{{ memory.title }}</i></a>
-    </li>
-  {% endfor %}
-</ul>
+<nav class="memory-nav">
+  <a href="/memories-7/" class="pill-nav prev">&larr; Previous</a>
+  <span>{{ site.memory-label }} 8 of {{ site.memory-indices }}</span>
+  <a href="/memories-9/" class="pill-nav next">Next &rarr;</a>
+</nav>
 
-<nav class="pagination">
-  <a href="/memories-7/">Previous</a>
-  <span>Page 8 of 45</span>
-  <a href="/memories-9/">Next</a>
+
+
+{% include memory-index-loop.html limit=50 offset=350 %}
+
+
+
+<nav class="memory-nav">
+  <a href="/memories-7/" class="pill-nav prev">&larr; Previous</a>
+  <span>{{ site.memory-label }} 8 of {{ site.memory-indices }}</span>
+  <a href="/memories-9/" class="pill-nav next">Next &rarr;</a>
 </nav>

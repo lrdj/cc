@@ -3,13 +3,11 @@ title: 'My Columbia: The Herodotus Quiz'
 author: Christin Driscoll
 tags:
 - Butler Library
-affiliations:
-- school: School of International and Public Affairs
-  class_year: 1992
-  role: Alum
 layout: memory
+schools:
+  SIPA: 1992
+primary_year: 1992
 ---
-
 # The Herodotus Quiz
 
 When my father helped me move to New York to begin my graduate studies at SIPA, we took a walk across the main campus, a rare moment alone for the two of us.

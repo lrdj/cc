@@ -4,13 +4,11 @@ author: Steven Chao
 tags:
 - Wien Hall
 - East Campus
-affiliations:
-- school: Columbia College
-  class_year: 2003
-  role: Alum
 layout: memory
+schools:
+  CC: 2003
+primary_year: 2003
 ---
-
 # 9/11/2001
 
 September 11, 2001 will go down in American history as one of its most tragic days. But despite the all the horrors witnessed, the tears shed, and the fears we felt that day, I witnessed a moment that will always remind me how proud I am to have gone to Columbia.

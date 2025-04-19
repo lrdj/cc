@@ -3,19 +3,12 @@ title: 'My Columbia: Combat Veterans'
 author: Stanley Edelman
 tags:
 - Columbia College
-affiliations:
-- school: College of Physicians and Surgeons
-  class_year: 1953
-  role: Alum
-- school: Columbia College
-  class_year: 1949
-  role: Alum
-- school: College of Physicians and Surgeons
-  class_year: 1953
-  role: Alum
 layout: memory
+schools:
+  PS: 1953
+  CC: 1949
+primary_year: 1953
 ---
-
 # Combat Veterans
 
 I entered Columbia College in 1946 along with many combat veterans of World War II. I was 22 years old and one of the youngest veterans in my class. I had flown missions over Germany in B-17's with the 8th Air Force from September 1944 to March 1945. Alongside me were veterans from Iwo Gima, Guadacanal, and many other Pacific battles. There were also veterans from North Africa and the Italian campaign, plus many form the Navy.

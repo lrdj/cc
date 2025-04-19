@@ -3,13 +3,11 @@ title: 'My Columbia: Furnald Snowball Fight - 8th takes on 7th'
 author: Robert Muirhead
 tags:
 - Barnard
-affiliations:
-- school: Columbia College
-  class_year: 1978
-  role: Alum
 layout: memory
+schools:
+  CC: 1978
+primary_year: 1978
 ---
-
 # Furnald Snowball Fight - 8th takes on 7th
 
 If I'm not mistaken, it was one of the President's holidays in February of my senior year.

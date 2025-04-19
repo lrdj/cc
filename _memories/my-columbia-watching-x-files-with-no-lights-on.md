@@ -1,16 +1,12 @@
 ---
 title: 'My Columbia: Watching X-Files With No Lights On'
 author: Tera Childs
-affiliations:
-- school: Graduate School of Architecture, Planning, and Preservation
-  class_year: 2001
-  role: Alum
-- school: Columbia College
-  class_year: 1998
-  role: Alum
 layout: memory
+schools:
+  GSAPP: 2001
+  CC: 1998
+primary_year: 2001
 ---
-
 # Watching X-Files With No Lights On
 
 Ah, the memories of freshman year on Carman 10. We were an eclectic group of athletes and computer geeks. East coast sophisticates and west coast bunnies. There were econ majors and philosophy minors. Future lawyers and future scientists. Diverse students with one thing in common: The X-Files.

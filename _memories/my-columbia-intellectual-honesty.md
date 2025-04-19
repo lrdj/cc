@@ -1,19 +1,12 @@
 ---
 title: 'My Columbia: Intellectual Honesty'
 author: Nat Heiner
-affiliations:
-- school: Columbia College
-  class_year: 1972
-  role: Alum
-- school: Graduate School of Arts and Sciences
-  class_year: 1974
-  role: Alum
-- school: Graduate School of Arts and Sciences
-  class_year: 1974
-  role: Alum
 layout: memory
+schools:
+  CC: 1972
+  GSAS: 1974
+primary_year: 1974
 ---
-
 # Intellectual Honesty
 
 "The best lecture I ever heard at Columbia." That stopped me in my tracks. I heard so many good ones, so many entertaining ones, even several that I remember in detail.

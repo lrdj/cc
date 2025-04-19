@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: Diamond''s E& M Class'
 author: Shre Roy
-affiliations:
-- school: School of Engineering and Applied Science
-  class_year: 1989
-  role: Alum
 layout: memory
+schools:
+  SEAS: 1989
+primary_year: 1989
 ---
-
 # Diamond's E& M Class
 
 It was 1987-1988 when Electrical Engineering was a still a popular major to pursue.

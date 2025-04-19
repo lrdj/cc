@@ -3,13 +3,11 @@ title: 'My Columbia: Armageddon'
 author: Mike Pybas
 tags:
 - Hartley
-affiliations:
-- school: Columbia College
-  class_year: 1955
-  role: Alum
 layout: memory
+schools:
+  CC: 1955
+primary_year: 1955
 ---
-
 # Armageddon
 
 In early September, 1952, I arrived on campus as a sophomore, a transfer from the University of Oklahoma.  It was my first visit to New York.

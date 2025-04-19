@@ -4,13 +4,11 @@ author: Lawrence Hoffman
 tags:
 - Contemporary Civilization
 - Columbia College
-affiliations:
-- school: Columbia College
-  class_year: 1955
-  role: Alum
 layout: memory
+schools:
+  CC: 1955
+primary_year: 1955
 ---
-
 # My Best Teacher
 
 Even though it has been over 50 years since I was graduated from Columbia College, it took me less than a split second to come up with my  "best teacher" nomination: Professor Boris Stanfield.

@@ -5,13 +5,11 @@ tags:
 - East Campus
 - Low Library
 - Butler Library
-affiliations:
-- school: Columbia College
-  class_year: 1990
-  role: Alum
 layout: memory
+schools:
+  CC: 1990
+primary_year: 1990
 ---
-
 # The Lows and Highs of Campus Beauty
 
 An urban university campus is not the first place in the world that comes to mind when I think of locations that have the capability to move the soul, but Columbia has these places. Like most miracles, these places are not things that the common individual like myself pursues or constructs. As a matter of perception and awareness, one finds oneself immersed in miracles, episodically stumbling into them with a surprise of realization and delight, even though they always have been there.

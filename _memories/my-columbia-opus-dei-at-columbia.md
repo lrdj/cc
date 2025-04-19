@@ -3,13 +3,11 @@ title: 'My Columbia: Opus Dei at Columbia'
 author: Joseph Babendreier
 tags:
 - Contemporary Civilization
-affiliations:
-- school: School of Engineering and Applied Science
-  class_year: 1976
-  role: Alum
 layout: memory
+schools:
+  SEAS: 1976
+primary_year: 1976
 ---
-
 # Opus Dei at Columbia
 
 I was intrigued that you would want to know about our religious experiences. During my four years there, I remember Columbia University feeling like the most God-forsaken patch of pagan indifference on the planet. Perhaps I exaggerate.

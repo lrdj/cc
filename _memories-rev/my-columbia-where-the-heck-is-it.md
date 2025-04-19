@@ -1,0 +1,15 @@
+---
+title: 'My Columbia: Where the Heck Is It?'
+author: Bob  Lauterborn
+tags:
+- Hartley
+affiliations:
+- school: Columbia College
+  class_year: 1956
+  role: Alum
+layout: memory
+---
+
+# Where the Heck Is It?
+
+I was the first boy in my family to go to college since my great-grandparents emigrated to this country -- something that may have been true for more than a few of my classmates, I imagine.  I had scholarships everywhere, but chose Columbia because as the letterhead said, it was "in the City of New York."   But country bumpkin that I was, I got my first lesson on navigating NYC before I ever got to campus.  I came down from Syracuse by train -- I think it was still the New York Central RR then -- lugging my two heavy Samsonite suitcases.  I arrived at Grand Central and relatively easily managed to find the shuttle to Times Square.   Feeling very proud of myself, I then located the IRT uptown train and sat on the edge of the yellow straw-weave seat watching the stations go by.  Ah, there's 96th Street.   Up with the suitcases and over to the door, ready.  116th Street -- we're there.  Heart pounding in anticipation (not to mention exertion), I climbed up the stairs to the street and found myself ...right in the middle of Harlem!   Uh, oh.  Hmmmmm.   Well, let's see.   I'm still on 116th Street, and that way is west.  It can't be but a few blocks, so I'll walk.  (A cab would've been a ridiculous extravagance.)  Mistake number two, recognized when I confronted the cliff in Morningside  Park.  Giving up, I hailed a cab and got to Hartley Hall without further incident, albeit a little sweaty and close to broke.  And already on Day One a little wiser about the complexities of getting around in New York.

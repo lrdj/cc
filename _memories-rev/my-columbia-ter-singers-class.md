@@ -1,0 +1,17 @@
+---
+title: 'My Columbia: T.E.R. Singer''s Class'
+author: Barbara Forgione
+affiliations:
+- school: School of Library Service
+  class_year: 1962
+  role: Alum
+layout: memory
+---
+
+# T.E.R. Singer's Class
+
+It was a very hot day in June, 1959.  We all were seated in Butler Hall, on the top floor, waiting for the professor to arrive.  There was no air conditioning, and no fan in the room.  It was my very first class at Columbia.
+
+In walked T. E. R. Singer, carrying a fan, a pitcher of cold water, and a long sleeve of paper cups.  He turned the fan towards the class, gave out the cups, and proceeded to lecture while moving around the room, refilling our water cups.
+
+I have forgotten the name of that class, but shall always remember the kindness and consideration of our T. E. R. Singer!

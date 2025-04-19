@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: my favorite text book'
 author: john mc gough
-affiliations:
-- school: School of General Studies
-  class_year: 1954
-  role: Alum
 layout: memory
+schools:
+  GS: 1954
+primary_year: 1954
 ---
-
 # my favorite text book
 
 While at Columbia we used Richard Courant's "Differential and Integral Calculus."

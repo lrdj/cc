@@ -3,13 +3,11 @@ title: 'My Columbia: Roar Lion Roar'
 author: Mike  Griffin
 tags:
 - Hartley
-affiliations:
-- school: Columbia College
-  class_year: 1965
-  role: Alum
 layout: memory
+schools:
+  CC: 1965
+primary_year: 1965
 ---
-
 # Roar Lion Roar
 
 Beyond question, my favorite day/night at Columbia was Saturday January 18, 1964.  I was a member of legendary coach Jack Rohan's first recruiting class and after playing freshmen basketball I moved up to the varsity as a sophomore and had a front row seat for all of the games as I played very little.  When graduation opened up a spot, I was able to secure a starting position as a junior as a power forward.  We were a guard-oriented team with talented scorers such as Neil Farber '65, Ken McCulloch '65, Stanley Felsinger '66 and Neil Farber '66.  Also playing basketball that year was perhaps the finest athlete ever to wear a Columbia uniform: Hall of Famer Archie Roberts '65, who was a great addition to our team (although his deserved fame came on the football and baseball fields). We got off to a good start and were 4-0 at one point, but any Columbia athlete knows that teams are measured by their success in Ivy competition.

@@ -3,13 +3,11 @@ title: 'My Columbia: The Thrill (and Agony) of Winter at Columbia'
 author: Jill Mitchell
 tags:
 - John Jay
-affiliations:
-- school: Columbia College
-  class_year: 1987
-  role: Alum
 layout: memory
+schools:
+  CC: 1987
+primary_year: 1987
 ---
-
 # The Thrill (and Agony) of Winter at Columbia
 
 As a member of the Women's Swim Team at Columbia from 1983-1987, I vividly recall both the thrill and agony of the arrival of wind, snow and ice on the CU campus.

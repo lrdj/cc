@@ -1,0 +1,16 @@
+---
+title: 'My Columbia: FBeeOtch'
+author: Katherine Howe
+tags:
+- WKCR
+- Ferris Booth
+affiliations:
+- school: Columbia College
+  class_year: 1999
+  role: Alum
+layout: memory
+---
+
+# FBeeOtch
+
+My freshman year, 1995/96, I began deejaying at WKCR the last year that the radio studio was located in Ferris Booth Hall. I did one of the overnight time slots, and the hour from three until four am was always the slowest--no phone calls, nothing going on. It was also during that hour that huge boxes of bread would be delivered to the lunch room downstairs. Sometimes I would put a very long record on air, prop open the station door with a brick, run downstairs, steal three bagels from the bread boxes, and run back upstairs in time to change the record.  I would nibble my bagels until the show ended at five and walk with a full stomach back to Carman, just in time to see the crew team leaving for practice. If I was very lucky, I would manage to fall asleep before it was totally light out.

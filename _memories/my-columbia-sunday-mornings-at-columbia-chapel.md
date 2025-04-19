@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: Sunday mornings at Columbia Chapel'
 author: Brietta Savoie (nee Giger)
-affiliations:
-- school: School of Library Service
-  class_year: 1957
-  role: Alum
 layout: memory
+schools:
+  LS: 1957
+primary_year: 1957
 ---
-
 # Sunday mornings at Columbia Chapel
 
 An Episcopalian friend of mine, whom I had already known as an undergraduate at Ohio State and who was getting her masters in English Lit at Columbia, sang in the choir of the Columbia Chapel.  We both lived at Johnson Hall (at that time the Graduate Women's dormitory).  She invited me to the services at the Chapel and I enjoyed hearing plain chant for the first time, as well as the contemplative atmosphere of the service.

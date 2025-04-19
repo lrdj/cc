@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: Satisfaction'
 author: HENRY ALAN RAYMOND
-affiliations:
-- school: School of General Studies
-  class_year: 1972
-  role: Alum
 layout: memory
+schools:
+  GS: 1972
+primary_year: 1972
 ---
-
 # Satisfaction
 
 My most memorable day at Columbia was not marching with thousands down Seventh Avenue, "Grease under the Stars" with Sha Na Na, the penthouse Hollywood party I tended as a member of Columbia Student Bartenders, or even getting knocked out while playing rugby against Harvard. It was really an evening and a day, which started when I was walking down Central Park West with a load of books which I was returning to a girlfriend.

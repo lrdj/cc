@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: Social Work Meets Jazz in Manhattan'
 author: Nikola Alenkin
-affiliations:
-- school: School of Social Work
-  class_year: 1997
-  role: Alum
 layout: memory
+schools:
+  SW: 1997
+primary_year: 1997
 ---
-
 # Social Work Meets Jazz in Manhattan
 
 My memories of being in New York during my studies at the School of Social Work are always peppered with the sound of music--more specifically, with that of jazz.  When I did have the opportunity to "escape" from my studies, I used to go to a place on 106th and Broadway (which is no longer there) that had a big "A" out front.  There were usually many students there on the same voyage I was on.

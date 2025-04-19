@@ -4,13 +4,11 @@ author: Azmir Mohd Isa
 tags:
 - John Jay
 - East Campus
-affiliations:
-- school: School of Engineering and Applied Science
-  class_year: 1997
-  role: Alum
 layout: memory
+schools:
+  SEAS: 1997
+primary_year: 1997
 ---
-
 # My Dorms
 
 My first dorm room was in John Jay. It was not so cold during the winter break compared to my friend's room behind the FBH building. JJ is very private environment.  Not much chance to bump into others. After class, you go to your room and that's it.  Occasionally people knocked at my door or wall when the music was too loud or too boring. Our RA made a t-shirt for John Jay and I think I still have it.

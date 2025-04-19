@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: Great Football Game'
 author: Joseph Kennedy
-affiliations:
-- school: Columbia College
-  class_year: 1948
-  role: Alum
 layout: memory
+schools:
+  CC: 1948
+primary_year: 1948
 ---
-
 # Great Football Game
 
 My father and family went to every football game for years and years. A very good friend of Lou Little, my dad was swimming coach at Columbia. Dad never sat in his seats on the 50-yard line but preferred the far end of the stadium, so, the year in question, my new wife and I sat in the seats on the 50 and right in front of us was one of my favorite professors, Dwight Minor, who taught C.C.

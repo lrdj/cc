@@ -3,13 +3,11 @@ title: 'My Columbia: The Best Thing Happened to Me in FRONT of the Butler Librar
 author: Malena Jackson
 tags:
 - Butler Library
-affiliations:
-- school: Graduate School of Journalism
-  class_year: 2005
-  role: Alum
 layout: memory
+schools:
+  JRN: 2005
+primary_year: 2005
 ---
-
 # The Best Thing Happened to Me in FRONT of the Butler Library
 
 It was an early spring-like Saturday morning in the fall of '04.  I was brand new to June Cross's news reporting seminar.  I had always heard stories of how you should avoid being late to her class, and I wanted to follow this clear instruction to ensure my success as a journalism student.

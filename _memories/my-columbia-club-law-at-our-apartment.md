@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: Club Law at Our Apartment'
 author: Jay Ross
-affiliations:
-- school: Graduate School of Journalism
-  class_year: 1994
-  role: Alum
 layout: memory
+schools:
+  JRN: 1994
+primary_year: 1994
 ---
-
 # Club Law at Our Apartment
 
 Lee Feldshon, my roomie in 1993-94, was in the Law School.  He had it all--smart, dashing, etc.

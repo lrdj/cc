@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: Perseverence'
 author: Constantine  Valhouli
-affiliations:
-- school: Graduate School of Business
-  class_year: 2003
-  role: Alum
 layout: memory
+schools:
+  BUS: 2003
+primary_year: 2003
 ---
-
 # Perseverence
 
 The teachers at CBS - and especially those from professional practice - had such a profound realistic idealism. They encouraged us to dream, but encouraged us to perform our due diligence as well. These professors taught us the importance of learning from our failures, of knowing our strengths and shortcomings, and the importance of assembling a team that can compensate and balance those qualities. They also taught us to persevere.

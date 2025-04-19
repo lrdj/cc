@@ -4,13 +4,11 @@ author: scott benbow
 tags:
 - East Campus
 - 1980s
-affiliations:
-- school: School of Law
-  class_year: 1989
-  role: Alum
 layout: memory
+schools:
+  LAW: 1989
+primary_year: 1989
 ---
-
 # Car Alarms Near East Campus
 
 In the late 1980s, New York City seemed to have more car alarms than cars. By the time I arrived in Mornignside Heights in 1986, car alarms rang with such frequency that they rarely, if ever, had their intended effect: alerting a passerby to call the police to report a crime in progress.

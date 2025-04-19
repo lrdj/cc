@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: Best Lecture I Heard While at Columbia'
 author: John Rolston
-affiliations:
-- school: School of Engineering and Applied Science
-  class_year: 2003
-  role: Alum
 layout: memory
+schools:
+  SEAS: 2003
+primary_year: 2003
 ---
-
 # Best Lecture I Heard While at Columbia
 
 "Define 'American,'" Jai said.  "Why do many of you call yourselves 'American' and not something else?"  A few people tried the easy way out of tautology: "A citizen of the U.S. is an American."  But that clearly wasnÃ¢â¬â¢t a real answer.  "Someone who was born in the U.S.," another student tried.  "But what about me?" came a reply.  "IÃ¢â¬â¢m naturalized and I call myself American."

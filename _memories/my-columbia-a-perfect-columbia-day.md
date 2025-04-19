@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: A Perfect Columbia Day'
 author: David Raddock
-affiliations:
-- school: Graduate School of Arts and Sciences
-  class_year: 1974
-  role: Alum
 layout: memory
+schools:
+  GSAS: 1974
+primary_year: 1974
 ---
-
 # A Perfect Columbia Day
 
 Of all the days that linger in my memory, one from my graduate study at Columbia stands out in particular.  It was my doctoral defense with visiting professors from Michigan, Yale and Columbia P&S.  I could barely sleep the night before and was up at Kent Hall hours early.

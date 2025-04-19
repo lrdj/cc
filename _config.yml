@@ -33,6 +33,9 @@ collections:
     permalink: /memories/:slug/
     sort_by: date
 
+memory-label: "Index page"
+memory-indices: 9
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.

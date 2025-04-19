@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: The Misfit'
 author: Patricia Meckfessel
-affiliations:
-- school: School of Nursing
-  class_year: 1978
-  role: Alum
 layout: memory
+schools:
+  NRS: 1978
+primary_year: 1978
 ---
-
 # The Misfit
 
 There I was: a nice southern girl (so I thought) at a nice green-campused southern university with a nice southern roommate, and I was miserable.  Academically, I was happy, but socially - well, the year was 1974, and I just did not like jean skirts, sororities or Chicago's current style of music. No jean skirts, no friends. So I decided to transfer to Columbia's School of Nursing because 1) it was rated the number one nursing school, 2) Maxwell Hall had private rooms and 3) everyone in New York was rude anyway, so friends wouldn't be an issue.

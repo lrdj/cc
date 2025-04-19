@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: Big Time Football'
 author: Thomas Emery
-affiliations:
-- school: Graduate School of Business
-  class_year: 1977
-  role: Alum
 layout: memory
+schools:
+  BUS: 1977
+primary_year: 1977
 ---
-
 # Big Time Football
 
 I chose the Columbia Business School (in 1975) for my MBA program in part because it was a long way from the midwest, where I'd spent my life up till then.

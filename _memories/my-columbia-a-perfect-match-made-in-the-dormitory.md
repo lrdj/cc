@@ -3,16 +3,12 @@ title: 'My Columbia: A Perfect Match Made in the Dormitory'
 author: Adam Bender
 tags:
 - Carman Hall
-affiliations:
-- school: Columbia College
-  class_year: 1964
-  role: Alum
-- school: College of Physicians and Surgeons
-  class_year: 1968
-  role: Alum
 layout: memory
+schools:
+  CC: 1964
+  PS: 1968
+primary_year: 1968
 ---
-
 # A Perfect Match Made in the Dormitory
 
 Back in 1960, the Carman Hall dormitory had just opened and was still known as New Hall. The college and the dormitories were all male and the rules did not allow unchaperoned women in the rooms.

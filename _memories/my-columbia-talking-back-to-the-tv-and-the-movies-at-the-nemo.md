@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: Talking Back to the TV (and the Movies at the Nemo)'
 author: Michael Werthman
-affiliations:
-- school: Columbia College
-  class_year: 1962
-  role: Alum
 layout: memory
+schools:
+  CC: 1962
+primary_year: 1962
 ---
-
 # Talking Back to the TV (and the Movies at the Nemo)
 
 I lived on the ninth floor of Livingston Hall in my freshman year (1958-59) and on the second floor for a few months at the start of my sophomore year. In addition to trips to the Lion's Den, sessions playing bridge or poker, hours of conversations about books, ideas, and girls, several of us enjoyed watching the communal TV on the ground floor of our dorm. Our favorite was "Maverick" one of the many westerns that dominated prime time, after the Columbia-related scandals drove the long-popular quiz shows such as "21" from the air.

@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: Compare and Contrast'
 author: Stephen Goldman
-affiliations:
-- school: Columbia College
-  class_year: 1966
-  role: Alum
 layout: memory
+schools:
+  CC: 1966
+primary_year: 1966
 ---
-
 # Compare and Contrast
 
 I was a sophomore, taking the Art Humanities course, and had little prior exposure to great paintings.  Halfway through the semester, we were assigned papers and given an instruction sheet.  The sheet gave us some points to consider (composition, use of light, etc.) and then listed pairs of paintings from which we were to choose one pair, and compare and contrast the paintings.  There were numbers in parentheses beside the name of each work, and a footnote indicated that the numbers represented the room numbers at the Metropolitan Museum of Art where the original paintings could be found.

@@ -4,13 +4,11 @@ author: Roseann Fitzgerald
 tags:
 - Hartley
 - St. Paul's Chapel
-affiliations:
-- school: School of the Arts
-  class_year: 1988
-  role: Alum
 layout: memory
+schools:
+  SOA: 1988
+primary_year: 1988
 ---
-
 # Thank You Ford Hall
 
 I was ecstatic when I was accepted into the Fall 1985 class of Arts Administration students studying for MFA degrees in the School of the Arts.  The only problem--no on campus housing available for students who live within 300 miles of campus!

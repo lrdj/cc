@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: "Little Mermaid Message"'
 author: Frederic Schultz
-affiliations:
-- school: Columbia College
-  class_year: 1990
-  role: Alum
 layout: memory
+schools:
+  CC: 1990
+primary_year: 1990
 ---
-
 # "Little Mermaid Message"
 
 Sorry to quote myself, but I did like my short simple introduction to my mom's message, which i sent to Jeff Rake, who sent it to ten people, who sent it to ten people, and so on and so on and so on...

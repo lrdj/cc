@@ -3,13 +3,11 @@ title: 'My Columbia: Fluffy Little Clouds . . .'
 author: Cary Hall
 tags:
 - Furnald Hall
-affiliations:
-- school: Columbia College
-  class_year: 1992
-  role: Alum
 layout: memory
+schools:
+  CC: 1992
+primary_year: 1992
 ---
-
 # Fluffy Little Clouds . . .
 
 So I'm living in Furnald Hall during my sophomore through senior years (which was a feat in itself, since everyone seemed to want the large rooms in Furnald!) between 1989-1992, and typically had a lunch break in between classes during the week.  My usual routine was to grab a slab of lasagna (either meat or vegetable) from FBH -- can't believe it's gone! -- and head back to the dorm to kill time 'till the next class.  Inevitably I'd steer into the common kitchen/hang-out room and see what was on the tube -- you know, the room that's next to the co-ed bathrooms/showers? :-)

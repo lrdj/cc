@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: NYC Winters'
 author: Laudan Behrouz
-affiliations:
-- school: Columbia College
-  class_year: 2004
-  role: Alum
 layout: memory
+schools:
+  CC: 2004
+primary_year: 2004
 ---
-
 # NYC Winters
 
 New York City is known for its diversity in people, places, and styles.  When moving here, after growing up in a small town in the midwest, I thought that learning about all the different ways of life would be my biggest adjustment.  With distinct seasons in the midwest, and experiencing both hot summers and freezing winters, I would have never guessed that I would be unprepared for New York City weather. To my  great surprise, though, learning the basic seasonal changes - even day to day weather - was, and has been, the hardest thing; winter days that feel like a hot summer day on a Tuesday can turn into an extreme blizzard on Wednesday.  I often dream of moving out west, where the seasons never seem to change and the sun is usually shining, but part of the fun of living in NYC is being kept on your toes, not knowing if it is time to put away your summer clothes and take out the hats and gloves, or exchange your flip flops for snow boots.

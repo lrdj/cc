@@ -5,13 +5,11 @@ tags:
 - Furnald Hall
 - East Campus
 - Columbia College
-affiliations:
-- school: Graduate School of Arts and Sciences
-  class_year: 1980
-  role: Alum
 layout: memory
+schools:
+  GSAS: 1980
+primary_year: 1980
 ---
-
 # The Casuals
 
 The Casuals were a New Wave band c. 1980 who often performed in the crowded front room of that wacked-out fraternity on 114th St that kept having spectacular drug busts. Band members were all Columbia College undergraduates, though after all these years and through this cocaine haze I'm having a hard time remembering their names.

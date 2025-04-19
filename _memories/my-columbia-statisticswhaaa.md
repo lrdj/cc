@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: Statistics...Whaaa?'
 author: Michele Moucatel
-affiliations:
-- school: School of Public Health
-  class_year: 1997
-  role: Alum
 layout: memory
+schools:
+  SPH: 1997
+primary_year: 1997
 ---
-
 # Statistics...Whaaa?
 
 It had been 11 years since I graduated from college with my bachelor of science in nursing, and I was very anxious about going back to school - papers, exams, etc., not to mention the fact that I worked full time and this was to be a part-time program for me.

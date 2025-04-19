@@ -4,20 +4,21 @@ layout: default
 
 <main class="memory">
   <article class="memory-article">
-<!--
-    <h1>{{ page.title }}</h1>
--->
 
 {% if page.author %}
   <h2 id="author">{{ page.author }}</h2>
-  {% if page.affiliations %}
-    <ul id="affiliations">
-      {% for aff in page.affiliations %}
-        <li>{{ aff.school }} {{ aff.class_year }}</li>
-      {% endfor %}
-    </ul>
-  {% endif %}
 {% endif %}
+
+{% if page.schools %}
+<ul>
+  {% for pair in page.schools %}
+    {% assign code = pair[0] %}
+    {% assign year = pair[1] %}
+    <li>{{ site.data.schoolcodes[code] }} ({{ year }})</li>
+  {% endfor %}
+</ul>
+{% endif %}
+
 
 
 

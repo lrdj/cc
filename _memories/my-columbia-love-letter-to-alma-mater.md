@@ -5,13 +5,11 @@ tags:
 - Columbia College
 - Alma Mater
 - College Walk
-affiliations:
-- school: School of Law
-  class_year: 1990
-  role: Alum
 layout: memory
+schools:
+  LAW: 1990
+primary_year: 1990
 ---
-
 # Love Letter to Alma Mater
 
 Columbia is indeed a special place. Every time I walk across College Walk, a feeling of family comes across my heart and a sense of opportunity comes to mind.

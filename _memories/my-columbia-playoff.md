@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: Playoff'
 author: Peter Elliott
-affiliations:
-- school: Columbia College
-  class_year: 1970
-  role: Alum
 layout: memory
+schools:
+  CC: 1970
+primary_year: 1970
 ---
-
 # Playoff
 
 The 67-68 Ivy League basketball regular season ended in a tie at 12-2 between Columbia and Princeton.  A playoff was scheduled at a "neutral" court--St. Johns.  Columbia fans packed the place and started cheering at least a half hour before tip-off.

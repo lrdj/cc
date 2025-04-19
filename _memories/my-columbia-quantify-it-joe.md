@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: Quantify it Joe!'
 author: Joseph Kunkel
-affiliations:
-- school: Columbia College
-  class_year: 1964
-  role: Alum
 layout: memory
+schools:
+  CC: 1964
+primary_year: 1964
 ---
-
 # Quantify it Joe!
 
 My favorite person at Columbia was Professor Arthur Pollister, with whom I took Histology and Quantitative Cytology.  I also worked for Dr. Pollister in my senior year as a lab preparator for Histology, and I took care of his Xenopus tadpoles, larvae of the African Clawed Toad, which became an important model experimental system.

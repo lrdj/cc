@@ -1,16 +1,12 @@
 ---
 title: 'My Columbia: Closing Broadway'
 author: Kristen O'Brien
-affiliations:
-- school: Graduate School of Business
-  class_year: 1998
-  role: Alum
-- school: Barnard College
-  class_year: 1991
-  role: Alum
 layout: memory
+schools:
+  BUS: 1998
+  BC: 1991
+primary_year: 1998
 ---
-
 # Closing Broadway
 
 The Columbia football team was fighting a four-year losing streak.  The joke was they should play Macalaster (a college in my home town, St. Paul, MN), the other (much smaller) college with the four-year losing streak.

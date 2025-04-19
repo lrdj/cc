@@ -1,0 +1,29 @@
+---
+title: 'My Columbia: Finding Columbia University In Bulgaria'
+author: Carla Stone
+tags:
+- Mudd
+- 1980s
+affiliations:
+- school: School of Engineering and Applied Science
+  class_year: 1974
+  role: Alum
+- school: School of Engineering and Applied Science
+  class_year: 1973
+  role: Alum
+layout: memory
+---
+
+# Finding Columbia University In Bulgaria
+
+It is strange how going to an art museum in Sofia, Bulgaria makes one think of Columbia's Henry Krumb School of Mines....
+
+I have been coming to Bulgaria for almost 20 years.  The late Prof. Stefan Boshkov, chairman of the Henry Krumb School of Mines, was born in Bulgaria.  He brought a Bulgarian student to Columbia, who is my closest friend from my Mining School days.  I first came to visit him in the mid-1980s when I was in the area (if teaching in the Soviet Union can count as in the area) and then began doing consulting work in Bulgaria before and during the changes.  My husband used to say that every time I stepped foot in this country, the government changed--as it has again this past month. But that is another story.
+
+Since then, I have been involved in a variety of projects.  Currently, I manage a USAID funded project to improve Bulgaria's water environment.  We are setting up a national program to train people who work with water and wastewater, or in industries that discharge wastewater, such as mining, chemicals, food processing or hotels on the Black Sea.  It is being implemented by Delaware Technical & Community College, where I am a director of international programs and partnerships in the Office of the President. I also completed a documentary about the water environment in Bulgaria last year.
+
+This morning, I decided to try to cool off in the Museum of Foreign Art.  The weather is beastly hot, and in Sofia, air conditioning consists of opening a window or going up on Mount Vitosha, just outside the city.
+
+I wandered through the exhibits, feeling intellectual if not physical refreshment, since there is no air conditioning in the museum either.   I came across a series of sculptures that looked vaguely familiar.  They were of mining, dock, and iron workers.  I looked at the labels and saw that they were created by a Belgian artist.  Something clicked.
+
+I knew that the statue by the Mudd Building, Le Marteleur, had been created by a Belgian, not French, artist, although I did not recall the name of the artist.  I turned to the internet, hoping that the Columbia Web site would have a list of campus sculptures and sculptors.  Sure enough, the Columbia statue, like those in the museum in Sofia, was created by the Belgian artist Constantine Meunier.

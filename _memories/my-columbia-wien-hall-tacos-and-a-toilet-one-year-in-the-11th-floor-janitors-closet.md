@@ -4,13 +4,11 @@ title: 'My Columbia: Wien Hall, Tacos, and a Toilet: One Year in the 11th-floor 
 author: Hilary Weckstein
 tags:
 - Wien Hall
-affiliations:
-- school: Columbia College
-  class_year: 2002
-  role: Alum
 layout: memory
+schools:
+  CC: 2002
+primary_year: 2002
 ---
-
 # Wien Hall, Tacos, and a Toilet: One Year in the 11th-floor Janitor's Closet
 
 86 square feet. There is really no way to understand the true meaning of the size without spending a year in my sophmore-year dorm room. During the housing lottery, I went to explore my room only to find that the door had been painted shut - from the inside. This probably was meant to serve as my first warning. Let's just call it strike one.

@@ -1,0 +1,116 @@
+---
+title: 'My Columbia: Scowl (A Lament, with Apologies to Allen Ginsberg)'
+author: David  Gawarecki
+tags:
+- Columbia College
+affiliations:
+- school: Columbia College
+  class_year: 1975
+  role: Alum
+- school: School of International and Public Affairs
+  class_year: 1991
+  role: Alum
+layout: memory
+---
+
+# Scowl (A Lament, with Apologies to Allen Ginsberg)
+
+Scowl (A Lament, with Apologies to Allen Ginsberg)
+
+I.
+
+I've seen the best minds of my generation silenced by manufactured fear,
+
+Banalized by materialist want, marginalized by a creeping sense of anomie,
+
+Angel-haired hippies once steeped in Sophocles and Kant
+
+Self-chained like galley slaves to desks at law firms and banks,
+
+The lemur-eyed armies of the office casual banished from the light of day,
+
+Spirited under darkness's cover to cold beds in distant suburban lairs,
+
+The glass and steel warrens of night elided by the gentle sibilance
+
+Of Urdu and Pashtoon-speaking drivers anachronistically attired in coat and tie,
+
+Steel-tinted windows -- a paean to a now sanctified security, of sorts,
+
+Sheltering out an impenetrable, imponderably threatening night,
+
+Obscured amid the rumbling, soft-suspension of petrol-starved vehicles.
+
+A straw-haired, somnambulant half-stranger waits in midnight's incandescence
+
+Wearing a terry cloth robe whose softness belies the desiccation of aging skin,
+
+Poised softly in chiaroscuro on naked feet beyond the foyer's grasp,
+
+Fine creases etched at eyes and mouth by an expression half-sardonic,
+
+Yes, one once known so well but quietly forgotten over the years
+
+Of that insatiable hunger, a soft familiar smile more pity than love.
+
+The briefcase tossed behind the couch, a last cigarette in the cold night air.
+
+II.
+
+And what raw sphincter spat them into this world less from womb than bowels,
+
+Transmogrified seraphim of shattered innocence and predigested imagination?
+
+Mammon!  Demiurge of downcast eyes searching for coins in the gutter!
+
+Mammon!  The vainglory of those who were last but are now first!
+
+Mammon!  The one unitary and true god, my succor and salvation!
+
+Mammon!  White-kimonoed Karoshi's gaudy, Aramaic consort!
+
+Mammon!  The apotheosis of human appetite!
+
+Mammon!  Crusher of young souls and old desire!
+
+Mammon...
+
+III.
+
+Henry Winters, I'm with you in Maryrest,
+
+In the sullenness of your darkened hole,
+
+Your acid wit and gallows humor
+
+Now leaden among your fellow dead
+
+Lost amid the triviality of their thick-tongued silence.
+
+I'm with you in Maryrest,
+
+Where the burdens that rendered you to perpetual night
+
+Stand over you like the upturned cigarette butts
+
+With which, by wont, you lined your nocturnal desk,
+
+Your traitorous assassins -- insidious, glowing worms.
+
+I'm with you in Maryrest,
+
+On the barrenness of your hilltop redoubt
+
+In the misnomer of your sepulchral estate,
+
+Where rest is the last thing found
+
+Amid the din of Bergen traffic's unebbing flow.
+
+Epilogue
+
+In the fathomless depths of the turbulent soul,
+
+Desire, like dormant dreams, dies so, so hard.
+
+(David Gawarecki -- Columbia College Class of '75, SIPA Class of '91 -- is a novelist and short story writer who currently resides in New Haven, CT.  He shares his life with Martha Hayes, a poet, essayist and Associate Professor of English at Gateway Community College.)

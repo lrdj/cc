@@ -1,19 +1,13 @@
 ---
 title: 'My Columbia: Meeting the President''s Wife'
 author: Taylor Thompson
-affiliations:
-- school: School of Engineering and Applied Science
-  class_year: 1957
-  role: Alum
-- school: Graduate School of Business
-  class_year: 1970
-  role: Alum
-- school: Columbia College
-  class_year: 1956
-  role: Alum
 layout: memory
+schools:
+  SEAS: 1957
+  BUS: 1970
+  CC: 1956
+primary_year: 1970
 ---
-
 # Meeting the President's Wife
 
 I arrived on campus in the fall of 1952 as a scholarship student.  I waited on tables at Johnson Hall for meals and took extra jobs for income.  One of my first jobs was to wait on tables at Baker field on alumni weekend.

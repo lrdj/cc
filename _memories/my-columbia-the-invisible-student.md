@@ -4,16 +4,12 @@ author: Joseph Cowley
 tags:
 - Contemporary Civilization
 - Spectator
-affiliations:
-- school: Columbia College
-  class_year: 1947
-  role: Alum
-- school: Graduate School of Arts and Sciences
-  class_year: 1948
-  role: Alum
 layout: memory
+schools:
+  CC: 1947
+  GSAS: 1948
+primary_year: 1948
 ---
-
 # The Invisible Student
 
 You don't know me. I was an invisible student, one of many who worked their way through Columbia. As the lights came on in the dorms, I left for my job as usher at Radio City Music Hall. After the last show I caught the one o'clock train back to Scarsdale, where my father was a cop. A Hayden Scholarship and scholarship room made it possible for me to live on campus after the first semester, but I still worked full-time.

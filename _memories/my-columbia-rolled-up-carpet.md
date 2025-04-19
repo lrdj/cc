@@ -1,16 +1,12 @@
 ---
 title: 'My Columbia: Rolled-up Carpet'
 author: Gia Machlin
-affiliations:
-- school: School of Engineering and Applied Science
-  class_year: 1987
-  role: Alum
-- school: Graduate School of Business
-  class_year: 1991
-  role: Alum
 layout: memory
+schools:
+  SEAS: 1987
+  BUS: 1991
+primary_year: 1991
 ---
-
 # Rolled-up Carpet
 
 Freshman Year, Carmen Hall, 8th floor (1983)

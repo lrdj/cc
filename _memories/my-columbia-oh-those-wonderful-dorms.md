@@ -3,13 +3,11 @@ title: 'My Columbia: Oh, those wonderful dorms'
 author: Matt Yospin
 tags:
 - East Campus
-affiliations:
-- school: Columbia College
-  class_year: 1999
-  role: Alum
 layout: memory
+schools:
+  CC: 1999
+primary_year: 1999
 ---
-
 # Oh, those wonderful dorms
 
 Gosh, how do I miss them? What do I miss most? One of the best things was the view from East Campus. I liked staying up late and socializing in Carman: playing spades and hearts, chess, and Dorm Olypmics.

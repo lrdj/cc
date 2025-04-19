@@ -1,0 +1,20 @@
+---
+title: 'My Columbia: My Dorms'
+author: Azmir Mohd Isa
+tags:
+- John Jay
+- East Campus
+affiliations:
+- school: School of Engineering and Applied Science
+  class_year: 1997
+  role: Alum
+layout: memory
+---
+
+# My Dorms
+
+My first dorm room was in John Jay. It was not so cold during the winter break compared to my friend's room behind the FBH building. JJ is very private environment.  Not much chance to bump into others. After class, you go to your room and that's it.  Occasionally people knocked at my door or wall when the music was too loud or too boring. Our RA made a t-shirt for John Jay and I think I still have it.
+
+Second dorm was East Campus. It was more comfortable and convenient for cooking spaghetti and all. Being so comfortable, often we had to entertain visiting friends from other colleges. It's quite spacious but at one time a dozen of unknowns gave me a call and asked if they could stay for one night.  Reluctantly, I had to let them in but they were gone before I woke up the next day. I guess they were sprawled all over the floor in the living room that night.
+
+In the summer it's always Schapiro. It was so nice living on campus in the summer. Being a foreign student, it's a lot cheaper to stay on campus than to go home.

@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: What Is Art?'
 author: Michelle Leddon
-affiliations:
-- school: School of the Arts
-  class_year: 2000
-  role: Alum
 layout: memory
+schools:
+  SOA: 2000
+primary_year: 2000
 ---
-
 # What Is Art?
 
 Thomas Roma, even though he wouldn't know my name, was by far the best teacher that I had during my tenure at Columbia.  I spent five years in the school of the Arts doing my MFA in the Film Division.  We were allowed to venture out to take classes from time to time, and so, in my third year, I dipped my toe into another school of the Arts Division -- the arts school, where Thomas Roma, formerly of Yale, had recently started teaching photography.

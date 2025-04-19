@@ -5,13 +5,11 @@ tags:
 - Hartley
 - Ferris Booth
 - Reunion
-affiliations:
-- school: Columbia College
-  class_year: 1967
-  role: Alum
 layout: memory
+schools:
+  CC: 1967
+primary_year: 1967
 ---
-
 # Taps
 
 Columbia was probably more interesting than other university campuses musically not just because it was in the middle of a thriving musical marketplace but because musical things happened so serendipitously and had such unexpectedly pleasant consequences.

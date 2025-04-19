@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: Columbia Student Outsmarts Cop'
 author: David Molko
-affiliations:
-- school: Columbia College
-  class_year: 2004
-  role: Alum
 layout: memory
+schools:
+  CC: 2004
+primary_year: 2004
 ---
-
 # Columbia Student Outsmarts Cop
 
 Conversation on late October night outside Alpha Delta Phi brownstone on 114th St., between fraternity member and NYPD officer:

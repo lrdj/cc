@@ -1,19 +1,17 @@
 ---
-title: 'My Columbia: A Kid from the Bronx--Part 1'
-author: Daniel Freeman
+title: "My Columbia: A Kid from the Bronx—Part 1"
+author: Daniel Freeman
 tags:
-- Core Curriculum
-- The West End
-affiliations:
-- school: Graduate School of Arts and Sciences
-  class_year: 1982
-  role: Alum
-- school: Columbia College
-  class_year: 1956
-  role: Alum
-- school: School of General Studies
-  class_year: 1976
-  role: Alum
+  - Core Curriculum
+  - The West End
+
+schools:
+  GSAS: 1982
+  CC:   1956
+  GS:   1976
+
+primary_year: 1982
+
 layout: memory
 ---
 

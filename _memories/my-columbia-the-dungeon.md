@@ -3,13 +3,11 @@ title: 'My Columbia: The Dungeon'
 author: Shre Roy
 tags:
 - Barnard
-affiliations:
-- school: School of Engineering and Applied Science
-  class_year: 1989
-  role: Alum
 layout: memory
+schools:
+  SEAS: 1989
+primary_year: 1989
 ---
-
 # The Dungeon
 
 Walking in the crisp fall air at Columbia, I always wondered why my computer science lab was in this underground bunker type space next to the gym. It was 1985 and anyone who took a computer science course had the option of using this computer lab that was underground and pretty creepy.

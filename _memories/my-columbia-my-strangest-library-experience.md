@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: My Strangest Library Experience'
 author: Andre Gorelkin
-affiliations:
-- school: School of General Studies
-  class_year: 2003
-  role: Alum
 layout: memory
+schools:
+  GS: 2003
+primary_year: 2003
 ---
-
 # My Strangest Library Experience
 
 It was a cold February afternoon. Actually, as all Columbians know, there are few February afternoons around campus that are anything but cold. So it's probably sufficient to say that it was a February afternoon.

@@ -1,16 +1,11 @@
 ---
 title: 'My Columbia: Succeeding the Focused Way'
 author: Karen Serrett
-affiliations:
-- school: Teachers College
-  class_year: 1967
-  role: Alum
-- school: Programs in Occupational Therapy
-  class_year: 1959
-  role: Alum
 layout: memory
+schools:
+  TC: 1967
+primary_year: 1967
 ---
-
 # Succeeding the Focused Way
 
 When I was an undergraduate in occupational therapy, part of our classes were at the medical center and part at Teachers College. I lived on the main campus.  I found that returning to college after a break of working for a year to gain funds was a real challenge for me.

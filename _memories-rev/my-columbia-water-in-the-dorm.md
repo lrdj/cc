@@ -1,0 +1,16 @@
+---
+title: 'My Columbia: Water in the Dorm'
+author: Stanley Futterman
+tags:
+- Hartley
+- Spectator
+affiliations:
+- school: Columbia College
+  class_year: 1961
+  role: Alum
+layout: memory
+---
+
+# Water in the Dorm
+
+At the beginning of February 1958, the start of my second semester at Columbia, a bed became available in a 3-bed attic room on the 10th floor of Hartley and I bid adieu to my hour and a half commute from the far reaches of East Flatbush. My roommates were a senior chemistry major, an All-American fencer from Queens, and a junior Fulbright scholar from Sweden. The adjoining rooms at the north end of the corridor were occupied by two junior-year track and field athletes and a freshman/sophomore pair from Sigma Alpha Mu, respectively. One evening, returning late from putting the Spectator to bed (perhaps), I noticed the track athletes gleefully tilting a waste basket filled with water against the Sammies' door. Having by then learned something about justice from CC, I returned to the scene a few minutes later and transferred the waste basket to the perpetrators' door. Unfortunately, a small sound resulted from the waste basket's front tip kissing the door. I hurried back to my room and  thought I was safely inside when I heard the sound of water falling and multiple expletives resounding in the hall. Soon the athletes appeared at my door. Oblivious to my invocation of the Fifth  Amendment they carried me to the showers where, fully clothed,  I got a dose of their (and  my) medicine. It was worth it.

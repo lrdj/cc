@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: A Mole'
 author: Ludmilla Pavlova
-affiliations:
-- school: Graduate School of Architecture, Planning, and Preservation
-  class_year: 1986
-  role: Alum
 layout: memory
+schools:
+  GSAPP: 1986
+primary_year: 1986
 ---
-
 # A Mole
 
 My favorite teacher at the GSAPP was Richard Plunz, whose role at the time was akin to that of a mole.  He dug deep into architectural history and politics at a time when it was much more fashionable to discuss architectural theory.

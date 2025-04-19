@@ -1,16 +1,12 @@
 ---
 title: 'My Columbia: Freshman Orientation'
 author: Donald Surr
-affiliations:
-- school: Graduate School of Business
-  class_year: 1953
-  role: Alum
-- school: Columbia College
-  class_year: 1952
-  role: Alum
 layout: memory
+schools:
+  BUS: 1953
+  CC: 1952
+primary_year: 1953
 ---
-
 # Freshman Orientation
 
 Most members of the college class of '52 will remember our first introduction to the then newly appointed president of Columbia University, Dwight Eisenhower. He gave us some quite unexpected advice at our freshman orientation, telling us to take time to have some fun every day as well as attending to our studies.  Apparently he understood us better than we -- a tensely serious group of over-achievers -- understood ourselves.

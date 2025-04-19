@@ -5,13 +5,11 @@ tags:
 - John Jay
 - College Walk
 - The West End
-affiliations:
-- school: Columbia College
-  class_year: 2003
-  role: Alum
 layout: memory
+schools:
+  CC: 2003
+primary_year: 2003
 ---
-
 # Shivering at Columbia
 
 Arriving at JFK in January of my first year at Columbia, just back from the winter holidays, the flight attendant announced that it was -35 degrees with the wind chill in New York. At first, I hoped that she had made a mistake, but upon going outside to the taxi stand, I realized that it really was colder outside than anything I had ever experienced. I almost turned around and got on a flight for the University of Miami, but thought that I'd stay for at least a day before abandoning Columbia for warmer climes.

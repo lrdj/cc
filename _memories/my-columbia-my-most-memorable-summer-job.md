@@ -1,16 +1,12 @@
 ---
 title: 'My Columbia: My Most Memorable Summer Job'
 author: JOSEPH GAUDIO
-affiliations:
-- school: Columbia College
-  class_year: 1953
-  role: Alum
-- school: School of Engineering and Applied Science
-  class_year: 1954
-  role: Alum
 layout: memory
+schools:
+  CC: 1953
+  SEAS: 1954
+primary_year: 1954
 ---
-
 # My Most Memorable Summer Job
 
 I worked every Summer during my college and engineering school years but the best was the last. I was hired by American Cyanamid (now gone) to do some devolopment work in thermoplastics and specifically styrene and related polymers, which were being made at the time by bulk polymerization. American Cyanamid wanted to develop a water suspension method that could result in easily extruded polymer beads. The problem was that the detergent they were using for the suspension formed a cloudy product when extruded. The product desired would need to be optically clear. I had a number of variables to work with and all Summer to do it.

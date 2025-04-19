@@ -7,16 +7,12 @@ tags:
 - Mudd
 - Symposium
 - 1980s
-affiliations:
-- school: School of Engineering and Applied Science
-  class_year: 1964
-  role: Alum
-- school: Graduate School of Architecture, Planning, and Preservation
-  class_year: 1970
-  role: Alum
 layout: memory
+schools:
+  SEAS: 1964
+  GSAPP: 1970
+primary_year: 1970
 ---
-
 # Columbia Universtiy and Orhan Pamuk
 
 Columbia University and Orhan Pamuk

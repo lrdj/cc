@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: Shut Up and Listen to Yourself'
 author: josua estrin
-affiliations:
-- school: School of Social Work
-  class_year: 2000
-  role: Alum
 layout: memory
+schools:
+  SW: 2000
+primary_year: 2000
 ---
-
 # Shut Up and Listen to Yourself
 
 With an MS in Clinical Therapy, many might think I have strayed from the path.  With a series of Anti-Self help books (Shut Up! And Listen To Yourself, Vinnings Press), I have been called the Anti-Dr. Phil, Anti-Expert and also a pop culture guru.

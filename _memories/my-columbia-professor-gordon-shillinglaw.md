@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: Professor Gordon Shillinglaw'
 author: Jim Hilferty
-affiliations:
-- school: Graduate School of Business
-  class_year: 1964
-  role: Alum
 layout: memory
+schools:
+  BUS: 1964
+primary_year: 1964
 ---
-
 # Professor Gordon Shillinglaw
 
 Can you imagine a required course in basic accounting...full of controversy and impassioned arguments among the students?

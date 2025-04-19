@@ -3,13 +3,11 @@ title: 'My Columbia: Funny Student Comments'
 author: Aidan Wakely-Mulroney
 tags:
 - Contemporary Civilization
-affiliations:
-- school: Columbia College
-  class_year: 2005
-  role: Alum
 layout: memory
+schools:
+  CC: 2005
+primary_year: 2005
 ---
-
 # Funny Student Comments
 
 In my Contemporary Civilization class, a student interrupted the professor's train of thought:

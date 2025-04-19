@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: Prominent Classmate from Israel'
 author: Lou Greer
-affiliations:
-- school: Graduate School of Business
-  class_year: 1961
-  role: Alum
 layout: memory
+schools:
+  BUS: 1961
+primary_year: 1961
 ---
-
 # Prominent Classmate from Israel
 
 I got married during my Columbia experience and helped found the University rugby team, so there wasn't a lot of time to be a part of the community.

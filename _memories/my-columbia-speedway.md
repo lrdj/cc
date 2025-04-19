@@ -1,11 +1,10 @@
 ---
 title: 'My Columbia: Speedway'
-author: CARL DAVID BIRMAN
-affiliations:
-- school: Columbia College
-  class_year: 1983
-  role: Alum
+author: Carl David Birman
 layout: memory
+schools:
+  CC: 1983
+primary_year: 1983
 ---
 
 # Speedway

@@ -1,13 +1,11 @@
 ---
 title: 'My Columbia: Make It Good!'
 author: Dan Ng
-affiliations:
-- school: Columbia College
-  class_year: 1994
-  role: Alum
 layout: memory
+schools:
+  CC: 1994
+primary_year: 1994
 ---
-
 # Make It Good!
 
 My strongest memories of Tom's Restaurant were always of Pete, who would add, "Make it good!" to kitchen orders, as if otherwise the cooks would "Make it bad!"
