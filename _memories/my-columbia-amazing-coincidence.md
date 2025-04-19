@@ -1,0 +1,13 @@
+---
+title: 'My Columbia: Amazing Coincidence'
+author: Jean Winne
+affiliations:
+- school: School of Social Work
+  class_year: 1999
+  role: Alum
+layout: memory
+---
+
+# Amazing Coincidence
+
+The very first class I attended as a student of the School of Social Work was Social Policy with Richard Cloward. He began the class by welcoming us all to the program and to his class specifically, and as an icebreaker, asked each of us to take turns saying where we were originally from, why we were pursuing Social Work, etc. When it came to my turn, I reported I was from upstate New York, had moved to New York City from Ithaca, but was born and raised in Auburn, New York. Professor Cloward interjected that he, too, had been born and raised in Auburn, New York, and proceeded to recount a near-death experience he had as a child, canoeing on a local body of water. I almost fell off my chair due to such a coincidence, particularly having that happen in the very first class I attended as a Columbia student. I'm not certain if the other class members were as amused as Professor Cloward and myself, but this event is something I will never forget.

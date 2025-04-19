@@ -1,0 +1,19 @@
+---
+title: 'My Columbia: Snapshot of Paris'
+author: Susan Guo
+affiliations:
+- school: Columbia College
+  class_year: 2004
+  role: Alum
+layout: memory
+---
+
+# Snapshot of Paris
+
+My semester at Reid Hall in Paris seems like a fog, with twinges of red wine and cafe cremes.  The short five months blur together in my memory.  All that remains are fleeting images of dinners with my host family in a quaint apartment in the fifth arrondissement, countless strolls along the Seine, the marche de la Mouffetard with fresh fruits and bread every Saturday, and young children pushing sailboats around the fountain of the Luxembourg gardens with wooden sticks.  Ernest Hemingway once wrote, Paris est une fete.  I can't wait to go back and savor it some more.
+
+Susan Guo
+
+CC '04
+
+P&S '08

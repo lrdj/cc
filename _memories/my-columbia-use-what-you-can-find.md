@@ -1,0 +1,17 @@
+---
+title: 'My Columbia: Use What You Can Find'
+author: Norman Gaines
+affiliations:
+- school: School of General Studies
+  class_year: 1975
+  role: Alum
+layout: memory
+---
+
+# Use What You Can Find
+
+I was living in an off-campus apartment on East 95th Street, and it wasn't well heated - or so I thought. Actually, it was par for the course in NYC. I looked at the radiators and wondered why they were so small..
+
+So I talked to some friends in the construction industry who were removing some much larger baseboard radiators from a business building that was upgrading. One weekend when I knew the super wouldn't be around, they brought them in, hooked them up and there you go! Twice as much heat (up until 10 PM, of course)! They even took the old ones away as scrap.
+
+That still didn't stop the "no heat Thanksgiving weekend or Christmas" phenomenon, but it was a great deal better than I had before. I often wonderwhat the super thought when she came in (after I had gone to Grad school) and saw a bunch of eight-foot long baseboard radiators instead of the three-foot long ones originally installed...

@@ -1,0 +1,20 @@
+---
+title: 'My Columbia: Freshman Orientation'
+author: Donald Surr
+affiliations:
+- school: Graduate School of Business
+  class_year: 1953
+  role: Alum
+- school: Columbia College
+  class_year: 1952
+  role: Alum
+layout: memory
+---
+
+# Freshman Orientation
+
+Most members of the college class of '52 will remember our first introduction to the then newly appointed president of Columbia University, Dwight Eisenhower. He gave us some quite unexpected advice at our freshman orientation, telling us to take time to have some fun every day as well as attending to our studies.  Apparently he understood us better than we -- a tensely serious group of over-achievers -- understood ourselves.
+
+No older person, one whom I greatly respected, ever had told me that before.  It was a lesson that I always have tried to remember, even to this day as I approach my 76th birthday in the good health that I might otherwise have been denied or, rather, might have denied myself.
+
+Thinking back, I also realize that he may have been more cognizant than we in 1948 of the impact that growing East-West tensions would have on our early adult years.  Not many years later, many of us went reluctantly straight from graduation gown to military uniform during the Korean War.

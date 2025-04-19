@@ -1,0 +1,17 @@
+---
+title: 'My Columbia: Bunk Bed in John Jay'
+author: Arthur Mollin
+tags:
+- John Jay
+affiliations:
+- school: Columbia College
+  class_year: 1959
+  role: Alum
+layout: memory
+---
+
+# Bunk Bed in John Jay
+
+We had three people in two rooms on the 6th floor of John Jay for the first semester of our freshman year. Our furniture consisted of a double decker bunk bed and a cot. Marvin got the cot and the desk in the anteroom, because my (nameless) other roommate and I were more party guys. We decided to bunk together in the distal room and talk and drink; he kept a whole drawer full of booze. This roommate was an outrageous drunk who had been thrown out of a few prep schools for drinking prior to entering Columbia, and he wasn't going to stop at this point. He started off in the upper bunk because he was taller and it was easier for him to get in and out of it.
+
+We changed that when he barfed all over me from above!!

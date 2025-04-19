@@ -1,0 +1,31 @@
+---
+title: 'My Columbia: My First Day Commuting to Columbia'
+author: Shre Roy
+tags:
+- Barnard
+affiliations:
+- school: School of Engineering and Applied Science
+  class_year: 1989
+  role: Alum
+layout: memory
+---
+
+# My First Day Commuting to Columbia
+
+My life is now a fast paced blur of events as I run though the treadmill of life with work, family, and the kids, however, first memories of Columbia are still sharp and forever etched in my mind.
+
+It was 1985 and on my first day as a freshman, the trees were just turning colors and there was smell of freshly cut grass and leaves which struck me as odd since we were in the city. In those days of Miami Vice and The Smiths along with some Boy George mixed in, everyone was wearing shoes without socks and oversized jackets with a lot of punk hair.
+
+I was going to commute to school from Jersey because my folks didnÃ¢â¬â¢t want me to live in the big "scary" city. I received my orientation packet and was directed to the section where the other commuters were standing. I ended up in a group with other commuter girls most probably other daughters of protective parents.
+
+I will never forget the first moments when I met three girls who were talking together. They were complete strangers to me but we struck up a conversation right away and joked and laughed, giggled really since we were all pretty young. These girls were all from the city and were very cool I thought. One girl Laura had this stand-offish New York vibe about her and her friend the small petite blond named Orie threw expletives in every sentence like a floor trader. It was an uncanny ability on the verge of artistic. The third gal Carla seemed to balance the other two, since she was very easy going and friendly.
+
+We all then walked over to another commuter named Allison, and she entertained us with her over-the-top impression of Carol Burnett doing an impression of Queen Elizabeth.
+
+We were sitting on the Barnard side of Campus in Macintosh Hall. We decided to walk over to FBH. This building housed most of the freshman so we walked over to see what we were missing. We found a game room and a dance club in the basement called "The PLEX".  Laura started playing Centipede and Major Havoc. She was the only one of us that really seemed to enjoy video games.
+
+An instant friendship formed the moment we started walking up the stairs in FBH when I inadvertently opened an emergency fire escape door. The alarm sounded and it was unbelievably loud and shrill.
+
+Orie being the straight forward New Yorker that she is promptly yelled, "You sh_t-head, letÃ¢â¬â¢s get out of here!" We started running like sprinters up the stairs and out the official doors and down the ramp towards Butler.
+
+We all started laughing and started walking towards "The Steps" to hang out.

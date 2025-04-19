@@ -1,0 +1,17 @@
+---
+title: 'My Columbia: Frankenstein Plus'
+author: Jessy Randall
+affiliations:
+- school: Columbia College
+  class_year: 1992
+  role: Alum
+layout: memory
+---
+
+# Frankenstein Plus
+
+My junior year, I took a course in Gothic Literature. I was trying to save money on books and discovered that many of the novels we were reading were available in Butler -- and nobody else seemed to have figured that out. I borrowed, rather than bought, most of my books for the class, and for Frankenstein I ended up with an annotated, illustrated edition from 1977.
+
+I impressed my fellow students (and maybe even the professor) with interesting factoids about Mary Shelley and her time. After a day or two I confessed my source, showing everybody the big, thick, hardbound book I was lugging around. Soon the whole class -- maybe 60 students -- was turning to me for confirmation of guesses about origins and contexts.
+
+Now I'm a rare books librarian -- always trying to get back that feeling of holding a special book in my hands and sharing its contents.

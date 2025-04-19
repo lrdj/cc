@@ -1,0 +1,45 @@
+---
+title: 'My Columbia: Scowl'
+author: Rick  Ansorge
+tags:
+- Commencement
+affiliations:
+- school: Graduate School of Journalism
+  class_year: 1987
+  role: Alum
+layout: memory
+---
+
+# Scowl
+
+New York at its meanest - circa 1986
+
+Infested with Goetzes, panhandlers and pricks
+
+"God Save the Winos" said the man with the stick
+
+And what did we do, journo-stars of tomorrow?
+
+Grew stubbly chins a la "Miami Vice"
+
+Made nice with recruiters from evil chain newspapers
+
+and claimed to speak Spanish but hablad nada
+
+I remember the chant at commencement
+
+as the whole school yelled "Gary Hart" as its war cry
+
+What a great victory for the Fourth Estate poseurs
+
+who brought down a man who could've saved us from Reagan
+
+So we swilled cheap champagne, thought we were important
+
+Split up and pursued glories of our own
+
+Years later I  read Wolfe's "Bonfire of the Vanities"
+
+What a portrait! What a mirror!
+
+Of my classmates of stone

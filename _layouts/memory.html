@@ -1,0 +1,60 @@
+---
+layout: default
+---
+
+<main class="memory">
+  <article class="memory-article">
+<!--
+    <h1>{{ page.title }}</h1>
+-->
+
+{% if page.author %}
+  <h2 id="author">{{ page.author }}</h2>
+  {% if page.affiliations %}
+    <ul id="affiliations">
+      {% for aff in page.affiliations %}
+        <li>{{ aff.school }} {{ aff.class_year }}</li>
+      {% endfor %}
+    </ul>
+  {% endif %}
+{% endif %}
+
+
+
+{% if page.tags and page.tags.size > 0 %}
+  <p class="tags">
+    <strong>Tags:</strong>
+    {% for tag in page.tags %}
+      <a href="/tags/{{ tag | slugify }}/" class="tag">{{ tag }}</a>{% if forloop.last == false %}, {% endif %}
+    {% endfor %}
+  </p>
+{% endif %}
+
+
+<nav class="memory-nav">
+  {% if page.previous %}
+    <a href="{{ page.previous.url }}" class="pill-nav prev">&larr; Previous</a>
+  {% endif %}
+
+  {% if page.next %}
+    <a href="{{ page.next.url }}" class="pill-nav next">Next &rarr;</a>
+  {% endif %}
+</nav>
+
+    <div class="memory-content">
+      {{ content }}
+    </div>
+    
+<nav class="memory-nav">
+  {% if page.previous %}
+    <a href="{{ page.previous.url }}" class="pill-nav prev">&larr; Previous</a>
+  {% endif %}
+
+  {% if page.next %}
+    <a href="{{ page.next.url }}" class="pill-nav next">Next &rarr;</a>
+  {% endif %}
+</nav>
+
+  </article>
+</main>
+

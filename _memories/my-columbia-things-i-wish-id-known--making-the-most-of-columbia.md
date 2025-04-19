@@ -1,0 +1,35 @@
+---
+title: 'My Columbia: Things I Wish I''d Known--Making the Most of Columbia'
+author: Diana Flynn
+affiliations:
+- school: Columbia College
+  class_year: 2003
+  role: Alum
+layout: memory
+---
+
+# Things I Wish I'd Known--Making the Most of Columbia
+
+Overall, I've found my Columbia education -- liberal arts impracticality and all -- to be invaluable.  I look at a movie, a building, a worm dying on the ground and I know what it has to do with fifteenth-century Japanese import laws or plate tectonics or hope and death in human existence.
+
+However, there were ways in which I could have wrung more practical value from Columbia in addition to adding to the general richness of my ability to experience the universe.  When I had academic or career quandaries at Columbia, I took them to the First-Year Class Center, my major adviser, or the Senior Class Center, and I asked questions.
+
+I was asking all the wrong ones.  Or rather, I wasn't asking the right ones.
+
+Sure, I could blame the advisers for their end of it, and I do see lots of places where they could have done better.  The first-year adviser only rephrased my questions and said them back to me when I asked about how to choose a major.  My major adviser only said "yes" and "no" when I asked if I was doing all right.  The senior class center passed me off to different departments until I ended up at the Dean's office, which had no idea what to do with me.
+
+Current Columbia students should do what I did, but they should do more.  Today's first-years should ask, "How do I choose a major?" but they should also ask, "What classes should I take to get the career I want, which is [this specific thing]?" or "What careers are going to be hot in the next few years?  What classes do I need to take for those?"
+
+Go ahead and ask, "Is there anything else I have to do?" but add, "because I think I should go to graduate school" or "because I want to get a career in medicine/law/public service" or "because I have no idea what do to after graduation."
+
+Ask, "What jobs should I apply to?"
+
+Ask, "What should I expect of my job search?"
+
+"How long will it take?"
+
+"When I'm asked for salary requirements, how much money should I ask for?" (I asked my dad, who told me to write down a figure that turned out to be much too high.  What did I know?  A long, unsuccessful job search, that's what.)
+
+My two biggest problems, I think, were that I didn't know what my major adviser was for (still not too clear on that, in fact) and that I didn't know what different specific Columbia clubs were for.  I thought that a college-level Biology Society was the same as the high school entity of the same name: a place for people with similar interests to meet each other and make friends.  The people were nice enough, but when I didn't have any fun, I stopped going.  Since leaving Columbia, I've learned that a Biology Club or Chemistry Club or Major XYZ Club isn't a place to meet kindred spirits but to make cordial acquaintances and future job contacts.  That, I'm told, is what networking is.
+
+I've figured out what some of my mistakes were (and managed some damage control), and now that my younger cousins are going off to college, I'm making darn sure that they know too.  The biggest piece of advice that I'd give current Columbia students is to meet with a major adviser and ask straight up, "How can you help me make the most of my Columbia education?  What does a major adviser do?" and not take "yes" or "no" for an answer.

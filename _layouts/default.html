@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{{ page.title }} | {{ site.title }}</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="container">
+      <a href="{{ "/" | relative_url }}" class="brand">
+        <img src="{{ '/images/cc-alum.png' | relative_url }}" alt="Columbia Alumni" class="logo">
+      </a>
+    </div>
+    <nav class="site-nav container">
+      <ul>
+        <li><a href="{{ '/decades/' | relative_url }}">Decades</a></li>
+        <li><a href="{{ '/' | relative_url }}">Memories</a></li>
+        <li><a href="{{ '/blog/' | relative_url }}">Thoughts</a></li>
+        <li><a href="{{ '/submit/' | relative_url }}">Submit a memory</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main class="container">
+    {{ content }}
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>&copy; {{ site.time | date: '%Y' }} Columbia Alumni | Built with ❤️</p>
+    </div>
+  </footer>
+
+</body>
+</html>

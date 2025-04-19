@@ -1,0 +1,17 @@
+---
+title: 'My Columbia: Frank: Learning to Love'
+author: Mary Jeanne Buttrey
+affiliations:
+- school: College of Physicians and Surgeons
+  class_year: 1974
+  role: Alum
+layout: memory
+---
+
+# Frank: Learning to Love
+
+"Frank" was the grumpiest old man I'd ever met. He was a pillar of the church at Broadway Presbyterian down on 114th St, and his face often reflected it: a perpetual frown carved in stone. He was particularly distressed by the discontinuation of the traditional Wednesday night prayer meeting. However, dutiful member that he was, he agreed to join the new-fangled small group Bible study meeting in his neighborhood. Unfortunately, from Frank's point of view, he lived near the Medical Center, and all the other church members in that neighborhood were P&S students or young house staff and nurses. So we had our Bible study discussions, with Frank sitting there listening. The evening would usually end with him informing us of what the passage really meant.
+
+The Vietnam war was still going on, and there was quite a gap between Frank's views and those of most of us younger folks. One young man was struggling to decide if he should declare that he was a conscientious objector. Frank left us in no doubt what he thought of that!
+
+The thing was, as the weeks and months went by, the relationships slowly began to change. There was growing warmth and acceptance. Several of us visited Frank in his home and saw the beautiful advertising posters he had drawn as part of his work years ago. He reached the point where he could hug the conscientious objector. There were tears in his eyes when he told me how sad he was that he couldn't travel to Pittsburgh to attend my wedding. We saw a huge change in Frank, but I like to think that he also saw a change in us. As we strove to understand and apply God's word to our lives, we all learned what it meant to love and accept one another. We had things to learn from Frank and he from us. His face no longer bore a constant grimace. Other people at church asked what had happened to him. It was very simple really. The love of God at work in each of us brought about a transformation that none of us, Frank least of all, ever expected. Funny thing about that. God really does do what he says he will do.

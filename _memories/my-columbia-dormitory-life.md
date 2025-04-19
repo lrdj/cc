@@ -1,0 +1,13 @@
+---
+title: 'My Columbia: Dormitory Life'
+author: Jay Lefer
+affiliations:
+- school: Columbia College
+  class_year: 1951
+  role: Alum
+layout: memory
+---
+
+# Dormitory Life
+
+After a period of commuting, my parents changed our apartment and my brother opened a dental office in my bedroom. It was a good reason to move into the dormitory. I shared my room with a classmate who was on the fencing team. He was an excellent fencer and I hoped he would get to the Olympics due to his practicing while I attempted to study chemistry. I studied with a foil constantly passing me, and instead of becoming D'Artagnon, I moved out to digs on 114th Street. The Dorm experience was delightful due to the bull sessions, however, peace is wonderful.

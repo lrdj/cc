@@ -1,0 +1,13 @@
+---
+title: 'My Columbia: My Columbia Summers'
+author: Natasha Shapiro
+affiliations:
+- school: Columbia College
+  class_year: 2005
+  role: Alum
+layout: memory
+---
+
+# My Columbia Summers
+
+During my summer vacations at Columbia, I tried to do anything that would be good for my future career.  But since my goals changed every summer, I wound up doing something different each time.  After my freshman year, I got an internship at UBS Painwebber in my plan to graduate Columbia as an investment banker.  Soon enough, the rigid envirenment of the firm and the cold stares from my co-workers, not to mention a less than stellar end-of-the-summer evaluation, led me to chuck that idea out of the window.  The following year, I eagerly joined a literary agent as her unpaid assistant, in the hopes of getting one foot into the publishing industry so I could write the next great American novel.  My numerous rejection letters to all the other aspiring writers made me realize just how tough that industry is.  So while I still want to write, I am now not putting all my hopes into a writing career.  And finally, my last summer at Columbia I was selected for the SURF (Summer Undergraduate Research Fellowship) program.  I worked at a health care center and fell in love with the job.  Now this summer, after graduating, I'm in the process of applying to Medical Schools.  So although I did not travel the world or spend my days on the beach during my Columbia summers, I still feel that my summers were very valuable in shaping me into the person that I now am and helping me figure out my future goals.
