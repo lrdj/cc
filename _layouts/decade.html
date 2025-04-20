@@ -8,10 +8,11 @@ layout: default
 {% assign start = page.decade | remove: "s" | plus: 0 %}
 {% assign end = start | plus: 9 %}
 
-{% assign memories_in_decade = site.memories 
-    | where_exp: "m", "m.primary_year >= start and m.primary_year <= end" 
-    | sort: "primary_year" 
-%}
+{% assign memories_in_decade = site.memories
+   | where_exp: "m", "m.primary_year >= start"
+   | where_exp: "m", "m.primary_year <= end"
+   | sort: "primary_year" %}
+
 
 {% if memories_in_decade.size > 0 %}
   <div class="memory-grid">
