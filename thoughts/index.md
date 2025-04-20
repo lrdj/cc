@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Blog
+title: Remembering memories
 ---
 
-<h1>Blog</h1>
+<h1>Thoughts (ie blog posts)</h1>
 
 <ul>
   {% for post in site.posts %}
