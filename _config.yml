@@ -22,8 +22,12 @@ title: Alum memories
 email: dug@goodlookslikethis.com
 description: >- # this means to ignore newlines until "baseurl:"
   Alum memories (they were called Collected Stories) rescued from the old Columbia server (here: https://www.columbia.edu/cu/alumni/connection/connect/s1_3a.html). Have added tagging so you can filter by dorm etc.
-baseurl: "/cc" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+url: "https://lrdj.github.io"
+baseurl: "/cc" 
+
+
+
 twitter_username: dug
 github_username:  lrdj
 
