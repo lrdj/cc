@@ -23,7 +23,7 @@ email: ian.kilby@alcove.net
 description: >- # this means to ignore newlines until "baseurl:"
   Alum memories (they were called Collected Stories) rescued from the old Columbia server (here: https://www.columbia.edu/cu/alumni/connection/connect/s1_3a.html). Have added tagging so you can filter by dorm etc.
 
-url: "https://ccalumni.alcove.net"
+url: "https://cualumni.alcove.net"
 baseurl: "" 
 
 
