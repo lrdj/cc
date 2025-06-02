@@ -3,6 +3,28 @@ layout: default
 title: Explore by decade
 permalink: /decades/
 ---
+<style>
+
+.decade-card {
+  background-size: cover;
+  background-position: center 30%;
+  background-repeat: no-repeat;
+}
+
+.decade-card a {
+  text-decoration: none;
+  color: black;
+}
+
+.decade-card h2 {
+  font-size: 2.5rem;
+  line-height:66%;
+  color: black;
+}
+
+mark { background-color: #eee; padding: 5px; }
+
+</style>
 
 # {{ page.title }}
 
@@ -32,10 +54,10 @@ permalink: /decades/
     {% assign decade   = parts[0] %}
     {% assign subtitle = parts[1] %}
 
-    <div class="decade-card">
+    <div class="decade-card" style="background-image: url('/images/decades/{{ decade | downcase | strip }}.jpg');">
       <a href="/decades/{{ decade | downcase | strip }}/">
-        <h2>{{ decade }}</h2>
-        <p>{{ subtitle }}</p>
+        <h2><mark>{{ decade }}</mark></h2>
+        <p><mark>{{ subtitle }}</mark></p>
       </a>
     </div>
 
