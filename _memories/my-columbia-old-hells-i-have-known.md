@@ -1,5 +1,5 @@
 ---
-title: 'My Columbia: Old Hells I Have Known ("I'm with you in Rockland")'
+title: 'My Columbia: Old Hells I Have Known'
 author: Ross Bender
 layout: memory
 schools:
@@ -12,6 +12,9 @@ tags:
 - Activism
 - Good trouble
 ---
+
+# Old Hells I Have Known
+("I'm with you in Rockland")
 
 down Baltimore Avenue, West Philadelphia
 grey winter twilight
