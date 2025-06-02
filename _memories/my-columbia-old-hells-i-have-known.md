@@ -1,5 +1,5 @@
 ---
-title: 'My Columbia: Old Hells I Have Known'
+title: 'My Columbia: Old Hells I Have Known ("I'm with you in Rockland")'
 author: Ross Bender
 layout: memory
 schools:
@@ -12,10 +12,6 @@ tags:
 - Activism
 - Good trouble
 ---
-# Old Hells I Have Known
-
-OLD HELLS I HAVE KNOWN
-("I'm with you in Rockland")
 
 down Baltimore Avenue, West Philadelphia
 grey winter twilight
@@ -79,9 +75,9 @@ blot out your mind
 they were trying to grind out your reason, turn you into some lackspittle dog
 to bark and whine at their whims, to parade on a leash
 
-never mind whoâthey'll elude you forever
+never mind who, they'll elude you forever
 
-they are evilânever mind why.
+they are evil never mind why.
 you survived...
 you lost many years which will never return
 
@@ -90,4 +86,4 @@ in some sense, it's true, you're a cripple
 but you woke up this morning and the demons were fled
 you woke up this morning clothed in your right mind
 
-âRoss Bender
+Ross Bender
