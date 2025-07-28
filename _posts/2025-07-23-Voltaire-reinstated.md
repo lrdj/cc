@@ -6,7 +6,7 @@ tags:
  - protest
 ---
 
-Anouncement from the Office of the President [July 23, 2025](https://president.columbia.edu/news/resolution-federal-investigations-and-restoration-universitys-research-funding)
+_Anouncement from the Office of the President [July 23, 2025](https://president.columbia.edu/news/resolution-federal-investigations-and-restoration-universitys-research-funding)_
 
 
 # Voltaire Returns to Columbia: "In This Best of All Possible Settlements"
