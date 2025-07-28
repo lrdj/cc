@@ -6,9 +6,9 @@ tags:
  - protest
 ---
 
-# Voltaire: "Candide Visits Morningside Heights"
+# "Candide Visits Morningside Heights"
 
-Excerpt:
+Excerpted from imaginary Voltaire:
 
 In the best of all possible universities, young Pangloss enrolled at Columbia, hoping to study Philosophy, Modern Hebrew, and the Architecture of Dissent.
 But lo! A decree came from the Empire: Thou shalt surrender thine research grants unless thou denouncest thine own students, extinguishest thy troublesome historians, and appointeth a Provost of Balanced Middle East Discourse, preferably with clearance from the Department of Civilized Feelings.
@@ -22,5 +22,5 @@ But lo! A decree came from the Empire: Thou shalt surrender thine research grant
 Pangloss was puzzled. “What of the freedom to argue? The freedom to offend?”
 “Ah,” said his dean, “you mistake freedom for funding.”
 
-And so, with $221 million paid and academic integrity sold at a favourable rate, Pangloss and his classmates gathered in Butler Library, only to find it locked — freedom now resided in the Office of External Compliance.
+And so, with $221 million paid and academic integrity sold at a favourable rate, Pangloss and his classmates gathered in Butler Library, only to find it locked — _freedom now resided in the Office of External Compliance._
 
