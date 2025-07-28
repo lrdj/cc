@@ -8,7 +8,7 @@ tags:
 
 # "Candide Visits Morningside Heights"
 
-Excerpted from imaginary Voltaire:
+_Excerpted from imaginary Voltaire_
 
 In the best of all possible universities, young Pangloss enrolled at Columbia, hoping to study Philosophy, Modern Hebrew, and the Architecture of Dissent.
 But lo! A decree came from the Empire: Thou shalt surrender thine research grants unless thou denouncest thine own students, extinguishest thy troublesome historians, and appointeth a Provost of Balanced Middle East Discourse, preferably with clearance from the Department of Civilized Feelings.
