@@ -11,11 +11,7 @@ _Anouncement from the Office of the President [July 23, 2025](https://president.
 
 # Voltaire Returns to Columbia: "In This Best of All Possible Settlements"
 
-> A letter from the archives of Enlightenment satire, July 2025
-> 
-> From the desk of François-Marie Arouet, recently reinstated 
-> as satirical fellow of Columbia’s Department of Institutional Realignment
->
+_A letter from the archives of Enlightenment satire, July 2025<br>From the desk of François-Marie Arouet, recently reinstated as satirical fellow of Columbia’s Department of Institutional Realignment_
 
 Dear Citizens of the University,
 
