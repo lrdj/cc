@@ -15,6 +15,8 @@ Rashid Khalidi's letter was [published in the Guardian](https://www.theguardian.
 
 _(reproduced here in full)_
 
+---
+
 Dear Acting President Shipman,
 
 I am writing you an open letter since you have seen fit to communicate the recent decisions of the board of trustees and the administration in a similar fashion.

@@ -33,6 +33,22 @@ h1, h2, h3 {
 
 
 /* -------------------------------------------------------------
+  Blockquotes
+------------------------------------------------------------- */
+
+blockquote {
+  font-family: 'Inter', 'Helvetica Neue', system-ui, sans-serif;
+  font-weight: 300;
+  letter-spacing: 0.02em;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  line-height: 1.7;
+  padding-left: 2rem;
+  border-left:4px solid #C3D9EC;
+}
+
+
+/* -------------------------------------------------------------
   HEADER & SITE NAVIGATION
 ------------------------------------------------------------- */
 
