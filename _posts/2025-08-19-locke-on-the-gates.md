@@ -27,7 +27,10 @@ What does it profit an institution to boast of Dante, of Montaigne, of Morrison 
 
 As I wrote long ago: *"The end of government is the good of mankind."* Authority, whether of kings or college presidents, is just only when exercised with the trust and for the benefit of the people. When those in power act without consultation, suppress the voice of conscience, or silence peaceful assembly, they undermine the very contract that grants them their office.
 
-Let me be plain: a campus governed by closed gates, opaque councils, and preemptive punishments cannot claim the mantle of liberal education.
+> Let me be plain: 
+> a campus governed by closed gates, 
+> opaque councils, and preemptive punishments 
+> cannot claim the mantle of liberal education.
 
 ### On Trust and Moral Clarity
 
@@ -49,8 +52,7 @@ Do not forget the lessons of your own curriculum. Do not forget what Columbia wa
 
 Yours in reason and duty,
 
-John Locke
-
+John Locke<br>
 _(Late of Christ Church, Oxford. Reimagined in the Core.)_
 
 

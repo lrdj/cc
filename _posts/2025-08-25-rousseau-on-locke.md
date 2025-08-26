@@ -19,7 +19,11 @@ I have read Mr. Locke’s letter with admiration, but not without alarm. His elo
 
 You, the children of Columbia — are not merely “governed.” You are citizens. Or at least, you were.
 
-Let us not pretend otherwise: your university has forgotten what a republic of letters is meant to be. Once, your gates stood open to the city, to the world, to the free play of minds in search of truth. Now they stand closed — iron symbols of submission dressed in the language of “safety.”
+Let us not pretend otherwise: your university has forgotten what a republic of letters is meant to be. 
+
+> Once, your gates stood open to the city, 
+> to the world, to the free play of minds in search of truth. 
+> Now they stand closed — iron symbols of submission dressed in the language of “safety.”
 
 ### Do not be deceived.
 
@@ -62,7 +66,6 @@ Make it so — or make it new.
 
 In solidarity and in struggle,
 
-Jean-Jacques Rousseau
-
+Jean-Jacques Rousseau<br>
 _(Late of Geneva. Writing from the heart of the barricades.)_
 
