@@ -64,7 +64,6 @@ There it is: Thanatos, the death-drive, dressed in revolutionary garb.
 
 Call it what you like. I call it liberation.
 
-
 ---
 
 _(A silence, then, another figure appears — Hannah Arendt, with her notebook tucked under her arm.)_
