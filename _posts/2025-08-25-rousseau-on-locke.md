@@ -13,7 +13,7 @@ _Where Locke argues from social contract as consent and fiduciary duty, Rousseau
 
 ---
 
-To the Students, Faculty, and People of Conscience at Columbia,
+## To the Students, Faculty, and People of Conscience at Columbia,
 
 I have read Mr. Locke’s letter with admiration, but not without alarm. His eloquence is undeniable; his appeals to duty, commendable. But the hour is too late for such moderation.
 
@@ -63,5 +63,6 @@ Make it so — or make it new.
 In solidarity and in struggle,
 
 Jean-Jacques Rousseau
+
 _(Late of Geneva. Writing from the heart of the barricades.)_
 

@@ -50,6 +50,7 @@ Do not forget the lessons of your own curriculum. Do not forget what Columbia wa
 Yours in reason and duty,
 
 John Locke
+
 _(Late of Christ Church, Oxford. Reimagined in the Core.)_
 
 
