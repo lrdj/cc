@@ -19,7 +19,7 @@ Today, those teachings appear to have been set aside.
 
 ### On the Closing of Gates
 
-The gates of 116th Street, open for 271 years, once embodied a simple but profound idea: that knowledge should be universal, and that a university should face the world rather than retreat from it. Their closure now — justified in the language of "security" — betrays not only the public trust but the university’s very soul.
+The cast iron gates of 116th Street, open since they were installed in 1967, once embodied a simple but profound idea: that knowledge should be universal, and that a university should face the world rather than retreat from it. Their closure now — justified in the language of "security" — betrays not only the public trust but the university’s very soul.
 
 What does it profit an institution to boast of Dante, of Montaigne, of Morrison and Woolf — if it will not heed their summons to confront discomfort, dissent, and moral tension? A university that fears its students has already ceased to be a university in the classical sense.
 
