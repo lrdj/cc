@@ -7,7 +7,7 @@ tags:
  - rousseau
 ---
 
-# Jean-Jacques Rousseau replies to Locke's open letter
+# Jean-Jacques Rousseau replies to [Locke's open letter](/2025/08/19/locke-on-the-gates.html)
 
 _Where Locke argues from social contract as consent and fiduciary duty, Rousseau invokes the general will, moral courage, and the corrupting nature of institutional power. His voice is more impassioned, more sweeping — sometimes theatrical — and rooted in the belief that true freedom must be reclaimed, not politely requested..._
 
