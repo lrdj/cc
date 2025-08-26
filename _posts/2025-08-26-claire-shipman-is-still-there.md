@@ -35,6 +35,6 @@ Therefore I say: let the new year begin not only with convocation, but with cour
 Amen.
 
 
-_My personal take is that "you're part of it" like West Berlin was in West Germany..._
+_My personal take is that "you're part of it" with a security checkpoint at 116th street is more like West Berlin was in West Germany..._
 
 
