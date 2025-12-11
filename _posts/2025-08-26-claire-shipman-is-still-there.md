@@ -34,6 +34,6 @@ Amen.
 
 ---
 
-_My personal take is that "being part of the fabric of something bigger" with a security checkpoint at 116th street is more like being in West Berlin was like in West Germany. Come on Claire, do better..._
+_My personal take is that "being part of the fabric of something bigger" with a security checkpoint at 116th street is more like being in West Berlin was like being in West Germany. Come on Claire, do better..._
 
 
