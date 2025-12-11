@@ -12,9 +12,7 @@ tags:
 
 Re this [announcement from Claire Shipman](https://president.columbia.edu/news/getting-ready-start-new-academic-year)
 
-> ...We also discussed what defines Columbia’s culture and community. 
-> Excellence, of course, across the board—scholars and students driven to explore and push boundaries. 
-> Yet also, as Graduate School of Arts and Sciences Dean Carlos Alonso noted, being at Columbia 
+> ...as Dean Carlos Alonso noted, being at Columbia 
 > is being part of the fabric of something bigger. Our culture is an ever-changing ecosystem, 
 > amplified by New York and our connection to the world. We can disappear into the city streets 
 > and return to campus with more knowledge to offer, or spend a few hours in a class challenged 
@@ -34,7 +32,8 @@ Therefore I say: let the new year begin not only with convocation, but with cour
 
 Amen.
 
+---
 
-_My personal take is that "you're part of it" with a security checkpoint at 116th street is more like West Berlin was in West Germany..._
+_My personal take is that "being part of the fabric of something bigger" with a security checkpoint at 116th street is more like being in West Berlin was like in West Germany. Come on Claire, do better..._
 
 
