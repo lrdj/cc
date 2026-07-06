@@ -9,6 +9,6 @@ tags: []
 ---
 # Bathroom Grafitti
 
-This in response to your solicitation: "What's the bestÃ¢â¬âdippiest, funniest, most brilliantÃ¢â¬âstudent comment you heard at Columbia?"
+This in response to your solicitation: "What's the best, dippiest, funniest, most brilliant student comment you heard at Columbia?"
 
-"More people died at Chapaquiddick than at Three Mile Island."  -Anonymous
+> "More people died at Chapaquiddick than at Three Mile Island."  -Anonymous
