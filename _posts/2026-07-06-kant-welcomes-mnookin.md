@@ -53,7 +53,7 @@ And a gate is the public use of reason made architecture. Open, it says: what ha
 
 The categorical imperative asks that we treat humanity, whether in our own person or in that of another, always as an end and never merely as a means. Consider, in this light, the recent custom of your institution: students sanctioned in the mass, without distinction of conduct or conscience, so that a settlement might be secured; a neighbourhood excluded, so that a reputation might be managed; a curriculum submitted for external review, so that a funding stream might resume.
 
-In every case persons — students, neighbours, scholars — were used as means to an institutional end. The moral law does not permit this, and neither, I gently observe, does the Core Curriculum, which has been assigning me to nineteen-year-olds for a century precisely so that they will notice when it happens.
+In every case persons — students, neighbours, scholars — were used as means to an institutional end. The moral law does not permit this, and neither, I gently observe, does the Core Curriculum, which has been assigning me to nineteen-year-olds for centuries precisely so that they will notice when it happens.
 
 They noticed. It is the administration that did not.
 
